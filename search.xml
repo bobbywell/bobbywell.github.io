@@ -1,0 +1,1735 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>从建立框架开始</title>
+    <url>/2021/12/21/%E4%BB%8E%E5%BB%BA%E7%AB%8B%E6%A1%86%E6%9E%B6%E5%BC%80%E5%A7%8B/</url>
+    <content><![CDATA[<p>严格来说，今天的我不应该再是一个独立站小白的身份，但事实确实是。虽然听了一年的课，但是一直在准备状态。从未真正实操过一个网站的落地。</p>
+<p>完美主义+拖延症，简直是一种无法治愈的癌症。  </p>
+<br/>
+
+<p>从我以往的失败中可以得到以下结论：</p>
+<p><strong>独立站，一定要实操。</strong></p>
+<p>没有实操，再多再好的课程永远停留在当天的脑子里。不久就会遗忘。  </p>
+<span id="more"></span>
+
+<br/>
+
+<p><strong>先完成，再完美。</strong></p>
+<p>美好的事物很难一蹴而就，想要落地一个看得过去的网站，必然需要大量的经验。罗马不是一天可以建成。要坚决摒弃一开始就要求完美的陋习。</p>
+<br/>
+
+<p><strong>独立站是一项长期性的系统工程，一定要建立目标和计划。</strong></p>
+<p>独立站难吗？</p>
+<p>它不容易，但不至于到艰难的程度。它是持之以恒，不断精进的累积成果。要做好独立站，每个阶段一定要设定合理的目标，然后分解成一个个可以执行的计划表，在截止的deadline之前完成。三天打鱼两天晒网，毕其功于一役是非常不现实的想法。</p>
+<br/>
+
+<p><strong>学习！复盘！</strong></p>
+<p>不是每个小白都有机会成长为大佬。90%的人都要倒在终点之前。一个需要长期坚持才能见到效果的项目，需要多思考少犯错。复盘总结是一种非常高效的学习方式。</p>
+<br/>
+
+<p>自己总结了B2C的框架，以后的工作都将围绕着这张图表来展开。现在的框架是残缺的。不过没关系，我将在以后的实操中将它完善。</p>
+<p><img src="/images/%E4%BB%8E%E5%BB%BA%E7%AB%8B%E6%A1%86%E6%9E%B6%E5%BC%80%E5%A7%8B/%E8%B7%A8%E5%A2%83SOHO-B2C-20211220.png" alt="跨境SOHO-B2C-20211220"></p>
+]]></content>
+      <categories>
+        <category>建站</category>
+      </categories>
+      <tags>
+        <tag>思维导图</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我要做怎样的一个网站？</title>
+    <url>/2021/12/24/%E6%88%91%E8%A6%81%E5%81%9A%E6%80%8E%E6%A0%B7%E4%B8%80%E4%B8%AA%E7%BD%91%E7%AB%99%EF%BC%9F/</url>
+    <content><![CDATA[<p>选品不是一项可以速成的技能。意味着必然会经历很多失败。减少失败的次数就是复盘，思考，不断验证，形成正确的选品思维。</p>
+<p>也许到了我找到niche的那一天，才能停止。  </p>
+<span id="more"></span>
+
+<br/>
+
+<p>在决定切入一个具体的赛道时，我是这样考虑的：</p>
+<h3 id="选择与自己资源禀赋匹配的市场"><a href="#选择与自己资源禀赋匹配的市场" class="headerlink" title="选择与自己资源禀赋匹配的市场"></a>选择与自己资源禀赋匹配的市场</h3><br/>
+
+<br/>
+
+<h2 id="1-2B-or-2C？"><a href="#1-2B-or-2C？" class="headerlink" title="1 2B or 2C？"></a>1 2B or 2C？</h2><p>纠结了很久。最终选择了2C，原因其实不复杂。</p>
+<ul>
+<li><p>我身边没有多少现成的工厂资源可供利用；（目前已有的是LCD集成户外广告机，做过初步市场分析，并不是很好的切入点。）</p>
+</li>
+<li><p>2B的业务链条比较长；除了建站与营销之外，还需要一个给力的业务负责跟单，与客户对接。这些工作的能力要求与前者完全是两码事。目前，而且在可见的未来一年内，只有我一个人，完全做不到事情全包。</p>
+</li>
+</ul>
+<p>精力过于分散，很可能一件事都做不好。</p>
+<br/>
+
+<p>如果选择2C，以上的问题都能消解吗？</p>
+<p>我想是可以的。</p>
+<p>产品方面，和2B面临的是同样的处境，但是2C相对可以更灵活。验证一个市场的机会成本更低。</p>
+<p>换句话说，2C选品的试错成本相对低一些。</p>
+<p>这是好事。</p>
+  <br/>
+
+<p>业务流程方面。2C显然更简洁。客户可以在线10分钟内完成浏览到下单的全部流程，无须考虑其他方方面面。当然，2C的网站会更复杂一些，不过在个人能力范围之内。</p>
+<br/>
+
+<p>当然，2B对于初始条件均为0的SOHO人来说确实比2C难度大，但这恰好是它的门槛。所以2C市场面临的竞争肯定要比2B大。但是换一种思路：<u>竞争大的问题可以通过市场细分的方法去解决</u>。</p>
+<p>另外，2C的市场里也可以选择具有一定专业门槛的产品。切入市场前需要付出一定的学习成本，也是降低竞争的一种筛选方式。</p>
+  <br/>
+
+<br/>
+
+<h2 id="2-常青-or-热销？"><a href="#2-常青-or-热销？" class="headerlink" title="2 常青 or 热销？"></a>2 常青 or 热销？</h2><p>evergreen还是hot？对应的是两种截然不同的赚钱模式。没有高下之分。</p>
+<p>但在这个问题上，我没有太多的犹豫。我选择的是evergreen.</p>
+<p>因为我很清楚我吃不了hot这碗饭。</p>
+<ul>
+<li>对市场反应不够灵敏。总是比别人慢一拍；</li>
+<li>决策不够快。又要慢一拍；</li>
+<li>目前的资源支撑不了这种快节奏打法；</li>
+<li>我尝到了内容营销的甜头，喜欢这种长时间累积慢慢回报的低成本获利方式；</li>
+</ul>
+<br/>
+
+<p>OK，第一个问题就来了：<strong>什么样的产品才是evergreen？</strong></p>
+<p>我认为具备以下要素的产品/市场，最有可能经得起时间的考验。Min时间维度＞10年。</p>
+<ul>
+<li>刚需；不是可要可不要，而是必须要。比如玩具，婴儿车，老年轮椅。产品可以不断迭代，但是需求一定稳定存在。</li>
+<li>非低频；消费频次也是需要的。毕竟现在流量成本这么高，不能针对已有客户再营销是个巨大的损失。</li>
+<li>趋势向上；这个可以从Google Trends看到。</li>
+<li>竞争门槛；如果需要保证长久的利润，那一定要有适当的进入门槛。门槛低的市场最终的命运肯定变成鸡肋。虽然竞争门槛可以建立在服务端，运营端，先入优势端，但是如果一开始就可以<u>在产品或者供应链维度建立门槛</u>，无疑是最好的。</li>
+</ul>
+<br/>
+
+<br/>
+
+<h2 id="3-垂直类-or-杂货铺？"><a href="#3-垂直类-or-杂货铺？" class="headerlink" title="3 垂直类 or 杂货铺？"></a>3 垂直类 or 杂货铺？</h2><p>这也是一个小白选手难以抉择的问题。但是我选择的是垂直类。</p>
+<p>很简单。</p>
+<p>垂直类目比较适合做内容营销，适合长期积淀。而杂货铺基本上是不可能的，比较适合Facebook广告快速测品。</p>
+<br/>
+
+<p>但是小白做垂直类将面临比较大的风险：</p>
+<p>第一，选品没经验，很可能选择的产品并不受市场认可；导致前期投入的精力和成本都会打水漂。这个伤害是很大的，一般人能承受一次失败就不错了，接二连三，你还会有勇气再尝试下去吗？</p>
+<p>第二，垂直类需要长期的积淀。比如需要长期做内容，做外链，才能开始出效果。3-6个月都是正常的吧，能不能熬得住，对于我这种人来说确实是个考验。</p>
+<br/>
+
+<p>如何避免产品选择错误呢？</p>
+<p>依然是测试。</p>
+<p>测试用数据说话，不会骗人。</p>
+<p>最快的测试方法，无疑是广告，不管是Facebook还是Google，广告是来流量最快的方式。</p>
+<br/>
+
+<p>怎么操作呢？</p>
+<p>首先选定一个大类，然后做一个大类网站。比如我选择做手机电脑配件，那我可以先做一个网站，配件很多，产品也很多。那么前期可以多上，然后分别用广告来跑。表现不错的可以留下，差的直接淘汰。一段时间后应该会发现几个产品表现是可以的。</p>
+<p>在这个基础上，再挑一个产品类别另外做一个更加垂直细分的新网站，再去开始做内容，做seo</p>
+<br/>
+
+<p>当然，以上都是我现在的设想。具体效果怎样，还不能妄下结论。</p>
+<br/>
+
+<p>综上，我未来将要做的是<u>一个垂直类的产品生命周期较长的B2C网站</u>。</p>
+<br/>
+
+<p>大方向定好。</p>
+<p>下一步就是选择具体的产品了~~</p>
+<br/>
+
+
+
+]]></content>
+      <categories>
+        <category>建站</category>
+      </categories>
+      <tags>
+        <tag>建站</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>该怎样去发现一个niche？</title>
+    <url>/2022/01/01/%E8%AF%A5%E6%80%8E%E6%A0%B7%E5%8E%BB%E5%8F%91%E7%8E%B0%E4%B8%80%E4%B8%AAniche%EF%BC%9F/</url>
+    <content><![CDATA[<blockquote>
+<p>七分选品，三分运营。</p>
+</blockquote>
+<p>选择一个好产品的重要性不言而喻。</p>
+<blockquote>
+<p>听过很多方法，依然选不出一个好产品。</p>
+</blockquote>
+<p>选品的难度可想而知。</p>
+<span id="more"></span>
+
+<blockquote>
+<p>分析，模仿，超越。</p>
+<p>产品，流量，变现。</p>
+</blockquote>
+<p>当我感觉没有头绪时，我就要想起顾小北说过的这6个字。但是放在这里好像并没有太多用。</p>
+<p>我回过头去又看了一遍选品课程。总结如下。</p>
+<br/>
+
+<br/>
+
+<h2 id="01-如何去衡量一个niche？"><a href="#01-如何去衡量一个niche？" class="headerlink" title="01 如何去衡量一个niche？"></a>01 如何去衡量一个niche？</h2><p>在去思考怎样才能发现一个利基之前，我认为先要建立一个明确的衡量标准。</p>
+<p>就像去找一个对象，你得先有一个“好”的标准。没有标准，仅凭感觉，不一定不行。但是仅凭感觉，就知道有多不靠谱。</p>
+<br/>
+
+<p>虽然不同流量玩法，渠道对应的标准并不完全一致，但是一个好的niche，应该是有一定的共同属性的。</p>
+<h3 id="（1）“热度”值"><a href="#（1）“热度”值" class="headerlink" title="（1）“热度”值"></a>（1）“热度”值</h3><p>消费者讨论，竞争程度都可以作为“热度”的一个衡量指标。</p>
+<p>例如面向大众消费，有一定社交属性的产品，最好在Facebook，YouTube，INS上有一定的话题和贴子，相关的参与度也有一定规模；细分垂直类的专业型产品，在Google上有一定的竞争对手，Quora上有相应的话题。</p>
+<p>如果一个niche无人提及，多半代表无人问津，或者是一种伪需求。</p>
+<p>至于具体多少“度”，才能被成为“热”，这完全是一个经验值。不会有统一的标准。</p>
+<br/>
+
+<h3 id="（2）趋势"><a href="#（2）趋势" class="headerlink" title="（2）趋势"></a>（2）趋势</h3><p>这个不难理解。一般用Google Trends检索一下主关键词就能看到。向上或者平行的趋势线代表持续的稳定的需求量。但是向下的趋势线则代表市场的萎缩，并不是一项可以长久的生意。</p>
+<p>在调查中需要注意的是，一个单一的产品进入下行的趋势是非常正常的，它不能代表整个行业。有可能行业需求稳健，只是产品进入了更新换代的阶段，或者有更好的替代产品。</p>
+<p>因此，<u>在看到一条下行线时，不要灰心，再问一问自己，“行业也在下行吗？”</u></p>
+<br/>
+
+<h3 id="（3）持续性，拓展性"><a href="#（3）持续性，拓展性" class="headerlink" title="（3）持续性，拓展性"></a>（3）持续性，拓展性</h3><p>一条稳步增长的趋势线并不意味着一个金矿。金矿大不大，多不多，需求的持续性是要考虑的。</p>
+<p>有些需求是短暂的，比如疫情下的医疗防护用品，危机过去需求会立马消失；</p>
+<p>有些需求是周期性的，比如万圣节，圣诞节产品，节日过后就是垃圾了，但是一年之后需求会重现；</p>
+<p>有些需求是长期性的，比如衣服，电子烟，只要和人的衣食住行欲念相关，需求会一直存在；</p>
+<br/>
+
+<p><strong>持续性短暂的产品就不值得关注吗？</strong></p>
+<p>不是的。</p>
+<p>生命周期短暂的产品往往需求集中爆发，市场经常处于供不应求的状态，抓住了一个窗口就能赚的盆满钵满。像疫情初期仅仅只抓住一个口罩的需求，有些反应灵敏的卖家就把一辈子的钱给挣到了。</p>
+<br/>
+
+<p>另外，产品可拓展性强，可以非常方便的做大规模，也意味着他们具有相似的目标人群。从营销成本角度来说，是非常有利的。满足同一个顾客的A需求，顺带再满足B需求，意味着获客成本的降低。</p>
+<p>非常划算。</p>
+<br/>
+
+<h3 id="（4）利润率，复购率"><a href="#（4）利润率，复购率" class="headerlink" title="（4）利润率，复购率"></a>（4）利润率，复购率</h3><p>利润的重要性再怎么强调都不为过，但是利润的计算方式却可以有很多种。</p>
+<p>比如如果价格下降可以有效增加复购率或购买数量，那么单品下调利润率是值得的；</p>
+<p>比如单品零利润甚至负利润可以有效增加网站流量带来其他产品的订单量，那么也是值得的；</p>
+<p>比如定价低于成本可以快速清掉滞销品库存回笼资金，那么也是值得的，<u>滞销品应该计入沉没成本</u>，而不是资产；</p>
+<p>复购率意味着再营销的机会。</p>
+<p>一个产品如果复购率太低，意味着即使已购买顾客对你的产品很满意，他也很难找到机会再次下单。顾客的满意和信任无法转化为利润毫无意义。</p>
+<br/>
+
+<h3 id="（5）顾客评分"><a href="#（5）顾客评分" class="headerlink" title="（5）顾客评分"></a>（5）顾客评分</h3><p>良好的评分代表产品性能出色，售后和退货问题会很少。这会大大减少不必要的工作量。</p>
+<p>值得注意的是，<strong>负面的评价=痛点</strong>，抓住痛点并提供解决方案，往往意味着一个更大的机会。</p>
+<p><u>所以看到差评，应该高兴。尤其是别人的差评</u>。</p>
+<br/>
+
+<h3 id="（6）体积，重量"><a href="#（6）体积，重量" class="headerlink" title="（6）体积，重量"></a>（6）体积，重量</h3><p>显而易见，较小的体积，和较小的重量，意味着较低的订单配送成本。</p>
+<p>但是这个不是一个niche的必备属性，大体积大重量往往意味着门槛，它们会挡住一大部分竞争者，这一类产品往往有较好的利润率。</p>
+<p>因此，<strong>不要仅仅因为一个好产品太大或太重而放弃它。</strong></p>
+<p>即使初期操作风险高，也要在以后有条件后马上再投资。</p>
+<br/>
+
+<p>一个好的niche还可以继续增加更多的衡量标准，但是每一条标准都意味着排除了一部分产品。</p>
+<p>还有，几乎不可能有一个产品同时符合所有标准。所以不要因为不满足一个标准而轻易放弃。</p>
+<p>另外，不同的阶段可操作的niche标准是不一样的，比如初期风险承受能力低，对利基要求多，但是网站有流量以后，利基产品的要求会降低。</p>
+<br/>
+
+<p>针对当前的自我条件，分清楚哪些是“必备标准”，哪些是“可选标准”，是选出一个niche的第一步。</p>
+<br/>
+
+<br/>
+
+<h2 id="02-怎样去发现一个niche？"><a href="#02-怎样去发现一个niche？" class="headerlink" title="02 怎样去发现一个niche？"></a>02 怎样去发现一个niche？</h2><p>“人无法赚到认知之外的钱。”</p>
+<p>深以为然。</p>
+<br/>
+
+<p>很多时候我们选择一个切入点，都是基于自身的资源，经历和认知范围。我们没法去想象一个从未看到的具体的事物。</p>
+<p>但是一个人的阅历毕竟有限。要想不被已有的认知局限，就要有科学的方法去探寻认知之外的领域。</p>
+<br/>
+
+<p>该怎么做？</p>
+<p>方法非常多，但是本质上基本遵循两条原则：</p>
+<ul>
+<li><h3 id="观察消费群体发现需求；"><a href="#观察消费群体发现需求；" class="headerlink" title="观察消费群体发现需求；"></a>观察消费群体发现需求；</h3></li>
+<li><h3 id="模仿已被市场验证过的niche；"><a href="#模仿已被市场验证过的niche；" class="headerlink" title="模仿已被市场验证过的niche；"></a>模仿已被市场验证过的niche；</h3></li>
+</ul>
+<br/>
+
+<p>怎么理解？</p>
+<p>观察消费群体，意思是到群体扎堆的地方去，看他们都在讨论什么，喜欢什么，从而发现他们的需求。比如国内用户扎堆的知乎，虎扑，豆瓣等论坛。看一看热榜话题，圈子内容。</p>
+<p>模仿已有niche，意思是发现搜集市场上正处于上升趋势或热销趋势的产品。比如亚马逊平台的hot seller, new release, move&amp;shake各类榜单。</p>
+<br/>
+
+<p>OK， 原则都懂。具体该怎样去操作呢？</p>
+<p>One by one, 先从第一条，观察消费群体发现需求。</p>
+<p>可以衍生出两个问题：</p>
+<p><strong>去哪观察</strong>（target user）？</p>
+<p>显然，如果我想做的是大众消费领域，那么我只需要去找人多的地方就好了。Facebook，Quora, Reddit, YouTube……如果我想做的是比较小众的垂直领域，那么还可以进一步缩小范围，深入更加细分的群体。例如英雄联盟论坛，家装圈子……</p>
+<p><strong>怎样发现</strong>（demand）？</p>
+<p>察觉潜在的需求的确不是件容易的事情，除了天生的敏感之外，还需要持久的刻意练习和验证。对于小白来说，我们需要更加可以量化和确定性的方式。</p>
+<p><u>第一是直接搜索需求相关类的问题。</u>比如我们可以在Quora搜索以下语句：</p>
+<p>“what ‘s your favorite gift…… ‘”</p>
+<p>“the best gift for……”</p>
+<p><u>第二是关注痛点并寻求解决方案</u>。大家都在抱怨什么，或者对某个热销产品某个方面都不满意，那就意味着“痛点”。如果你能在此基础上提出自己的解决方案或者优化策略，很可能你就能创作下一个爆品。</p>
+<br/>
+
+<p>空讲理论终究空白，唯有实际操作案例才能熟悉。</p>
+<br/>
+
+<br/>
+
+<h2 id="03-怎样去切入一个niche？"><a href="#03-怎样去切入一个niche？" class="headerlink" title="03 怎样去切入一个niche？"></a>03 怎样去切入一个niche？</h2><p>选好利基产品或者市场后，下一步就是去思考怎样切入。</p>
+<h3 id="（1）预估风险"><a href="#（1）预估风险" class="headerlink" title="（1）预估风险"></a>（1）预估风险</h3><p>简单了说，就是这个项目的投入成本是多少？金钱，时间，人力。成本主要分布在哪些方面？</p>
+<p>其次，就是考虑万一失败，会损失多少？到了哪个节点没有达到效果就要果断退出，即止损点。</p>
+<p>对成本有个清晰的认知，能最大限度地避免过量的损失。</p>
+<br/>
+
+<h3 id="（2）产品，流量，变现"><a href="#（2）产品，流量，变现" class="headerlink" title="（2）产品，流量，变现"></a>（2）产品，流量，变现</h3><p>确定利基可进入后，就要开始思考如何从竞争中占有一席之地。</p>
+<p>产品层面：</p>
+<ul>
+<li><p>目标人群是哪些？解决什么需求？</p>
+</li>
+<li><p>有没有更好的现成的替代品？</p>
+</li>
+<li><p>现有产品有哪些痛点？是否有解决方案？</p>
+</li>
+<li><p>自己能否在产品上建立独特创新的优势？（产品没有优势，可以考虑能否在服务上创新）</p>
+</li>
+</ul>
+<br/>
+
+<p>流量层面：</p>
+<ul>
+<li><p>现有的产品流量渠道有哪些？</p>
+</li>
+<li><p>自身资源能力能从哪些渠道去获取流量？</p>
+</li>
+<li><p>每个阶段应该侧重去建立哪个流量渠道？</p>
+</li>
+</ul>
+<br/>
+
+<p>变现：</p>
+<ul>
+<li><p>利基的变现方式是什么？</p>
+</li>
+<li><p>有没有其他的变现方式？</p>
+</li>
+</ul>
+<br/>
+
+<p>理论终在纸面，唯有实操才可落地。</p>
+<p>下篇见~</p>
+<br/>
+
+]]></content>
+      <categories>
+        <category>选品</category>
+      </categories>
+      <tags>
+        <tag>选品</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>选品实操（1）：怎样通过众筹网站选品？</title>
+    <url>/2022/01/10/%E9%80%89%E5%93%81%E5%AE%9E%E6%93%8D%EF%BC%881%EF%BC%89%EF%BC%9A%E6%80%8E%E6%A0%B7%E9%80%9A%E8%BF%87%E4%BC%97%E7%AD%B9%E7%BD%91%E7%AB%99%E9%80%89%E5%93%81%EF%BC%9F/</url>
+    <content><![CDATA[<p>B2C大众消费品中，夺人眼球是一个很突出的优势，因为人的注意力是稀缺的。</p>
+<p>另外，抓人眼球的产品往往有很好的社交分享属性。</p>
+<p>因此，新奇特的产品，有很好的爆发力。</p>
+<br/>
+
+<p>但是人的喜好是很难琢磨的，尤其是国外市场，我们并不了解消费者。因此我们选择新奇特的产品，最可靠有效的方式是依据选品原则第二条：<strong>模仿已被市场验证的产品</strong>。</p>
+<p>众筹网站，就是新奇特选品的最好方式，之一。</p>
+<span id="more"></span>
+
+<br/>
+
+<p>我们以<a href="https://www.kickstarter.com/">kickstarter</a>为例。</p>
+<h2 id="01-发现潜力产品"><a href="#01-发现潜力产品" class="headerlink" title="01 发现潜力产品"></a>01 发现潜力产品</h2><img src="../images/选品实操（1）：怎样通过众筹网站选品？/image-20220111162758822.png" alt="image-20220111162758822" style="zoom:80%;" />
+
+<p><img src="../images/%E9%80%89%E5%93%81%E5%AE%9E%E6%93%8D%EF%BC%881%EF%BC%89%EF%BC%9A%E6%80%8E%E6%A0%B7%E9%80%9A%E8%BF%87%E4%BC%97%E7%AD%B9%E7%BD%91%E7%AB%99%E9%80%89%E5%93%81%EF%BC%9F/image-20220111162939830.png" alt="kickstarter产品创意"></p>
+<p>只需要关注两个指标：筹款目标金额，和已筹款数。</p>
+<p>两者倍率越大，说明市场反应是超预期的，潜力很大。</p>
+<p>但是也需要注意目标筹款金额，因为金额太小，很快就会超过，虽然倍数很高，但是说明总的消费群体并不大。</p>
+<br/>
+
+<br/>
+
+<h2 id="02-分析产品特点"><a href="#02-分析产品特点" class="headerlink" title="02 分析产品特点"></a>02 分析产品特点</h2><p>上面这个是一个<a href="https://www.kickstarter.com/projects/twopillars/duo-cover-microwave-splatter-guard-and-steamer-pot-holder?ref=section-homepage-view-more-discovery-p1">duo cover</a>, 用于在微波炉加热食物时将其盖住。</p>
+<p>（1）解决的痛点是：</p>
+<p>盖住食物，防止爆贱。我们都有过清洗微波炉的痛。简单，实用~</p>
+<p>防烫手。</p>
+<p>（2）产品创意：</p>
+<p>硅胶材质，可吸附在微波炉顶部，无须另外找地方放置，随时可用；</p>
+<p>同样可吸附在餐盘或餐桌上，减少食物降温速度；</p>
+<p>可折叠，减少空间；</p>
+<p>（3）加分项：</p>
+<p>硅胶材质，可重复使用；降低塑料使用，迎合了环保健康的理念；</p>
+<br/>
+
+<p>不得不说，这是一个让人觉得amazing，惊艳的好点子。</p>
+<p>难怪超额11倍完成众筹。</p>
+<br/>
+
+<p>另外不得不说，阐述产品的video也是非常不错，诙谐，有趣。</p>
+<p>难怪有人说一个视频平均花费2万美元。不知真假。</p>
+<br/>
+
+<br/>
+
+<h2 id="03-判断有无侵权风险"><a href="#03-判断有无侵权风险" class="headerlink" title="03 判断有无侵权风险"></a>03 判断有无侵权风险</h2><p>产品固然好，但不一定能分杯羹。</p>
+<p>产品侵权的风险还是要避免，即使侵权也想做至少要能评估风险收益后再决定。</p>
+<p>看完整个介绍，只找到一个关键词：duo cover</p>
+<p>放到USPTO或者Google Patent里面去搜一下专利，并没有匹配的结果。</p>
+<img src="../images/选品实操（1）：怎样通过众筹网站选品？/image-20220111173752207.png" alt="image-20220111173752207" style="zoom:80%;" />
+
+<p>联想到主要材质是硅胶，silica gel，因此可以用silica gel cover</p>
+<p>联想到主要用于微波炉，microwave，因此可以用microwave cover</p>
+<p>都没有相关的专利记录。好事情！</p>
+<br/>
+
+<p>总之，把显而易见的可能关键词都搜一下，避免风险。</p>
+<p>以防万一，Google上直接搜duo cover,最早的记录是一个月前。说明确实是个新兴产品。</p>
+<br/>
+
+<p>综上，侵权可能性非常低。</p>
+<p>至少能在专利保护之前投一波。</p>
+<br/>
+
+<br/>
+
+<h2 id="04-寻找合适供应商"><a href="#04-寻找合适供应商" class="headerlink" title="04 寻找合适供应商"></a>04 寻找合适供应商</h2><p>确定好产品之后就是马上找到合适的供应商。</p>
+<p>能找到一样的产品固然好，如果不能，则要能不能找到愿意合作的。</p>
+<img src="../images/选品实操（1）：怎样通过众筹网站选品？/image-20220111174631813.png" alt="image-20220111174631813" style="zoom:80%;" />
+
+<p>我大天朝简直了！！！！</p>
+<p>只能用牛逼plus来形容。</p>
+<p>国外视频才出来一个月啊~~</p>
+<p>还有什么好说的，赶紧上架，第一个吃螃蟹。</p>
+<br/>
+
+<br/>
+
+<h2 id="05-还有哪些其他众筹网站"><a href="#05-还有哪些其他众筹网站" class="headerlink" title="05 还有哪些其他众筹网站"></a>05 还有哪些其他众筹网站</h2><ul>
+<li><strong>Best Overall:</strong> <a href="https://entrepreneur.indiegogo.com/how-it-works/">Indiegogo</a></li>
+<li><strong>Best for Startups:</strong> <a href="https://www.seedinvest.com/">SeedInvest Technology</a></li>
+<li><strong>Best for Nonprofits:</strong> <a href="https://www.mightycause.com/">Mightycause</a></li>
+<li><strong>Best for Investing:</strong> <a href="https://www.startengine.com/">StartEngine</a></li>
+<li><strong>Best for Individuals:</strong> <a href="https://www.gofundme.com/">GoFundMe</a></li>
+<li><strong>Best for Creative Professionals:</strong> <a href="https://www.patreon.com/">Patreon</a></li>
+<li><a href="https://www.backerkit.com/">Backerkit</a></li>
+</ul>
+<br/>
+
+<br/>
+
+<h2 id="06-众筹网站选品总结"><a href="#06-众筹网站选品总结" class="headerlink" title="06 众筹网站选品总结"></a>06 众筹网站选品总结</h2><ul>
+<li><p>大部分情况下是大众消费品，惊艳新奇，高社交传播属性，适合tiktok, Facebook社交广告投放获取流量；</p>
+</li>
+<li><p>快节奏的打法，不适应于内容营销，不适合做深做垂直；</p>
+</li>
+<li><p>从选品，找供应商，上架，到广告投放，必须掌握快速节奏，在允许的时间窗口内尽快获利退出；</p>
+</li>
+<li><p>注意侵权风险；</p>
+</li>
+</ul>
+<br/>
+
+<p>虽然众筹选品可行，但是这种运营模式与我的初衷是不符合的，因此选品还和盈利模式相关。像duo cover，算是一个新兴事物，客户即使想要这么一个功能的产品，也无法想出duo cover到Google搜索，因此Google广告投放效果估计都很差。</p>
+<p>适合自己的产品，才是好的产品。</p>
+]]></content>
+      <categories>
+        <category>选品</category>
+      </categories>
+      <tags>
+        <tag>选品</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>产品案例（1）：NoPhone Air</title>
+    <url>/2022/01/12/%E4%BA%A7%E5%93%81%E6%A1%88%E4%BE%8B%EF%BC%881%EF%BC%89%EF%BC%9ANoPhone-Air/</url>
+    <content><![CDATA[<p>好的案例，值得我们反复研习。</p>
+<p>今天的案例和选品有关，一个神奇的产品：NoPhone Air</p>
+<p>没有电池，没有屏幕；不能通讯，不能游戏；</p>
+<p>你可能已经猜到了：它是一个壳，类似于手机壳？</p>
+<p>真相让你大跌眼镜，大喊卧槽。</p>
+<p>它是真的Air, 没看错，就是空气，连壳都算不上。</p>
+<p>华尔街日报的评价是，“It’s simply a plastic box with nothing inside.”</p>
+<span id="more"></span>
+
+<br/>
+
+<p>它长这样：</p>
+<p><img src="./images/%E4%BA%A7%E5%93%81%E6%A1%88%E4%BE%8B%EF%BC%881%EF%BC%89%EF%BC%9ANoPhone-Air/image-20220112222339033.png" alt="image-20220112222339033"></p>
+<p>使用时是这样：</p>
+<p><img src="/images/%E4%BA%A7%E5%93%81%E6%A1%88%E4%BE%8B%EF%BC%881%EF%BC%89%EF%BC%9ANoPhone-Air/image-20220112222436018.png" alt="image-20220112222436018"></p>
+<p>看到这里，你可能会想，“这特么不是坑傻逼么？逗我呢！！”</p>
+<p>实际上这是发生在2016年的“伟大”故事，它还取得了不俗的成绩。</p>
+<p><img src="/images/%E4%BA%A7%E5%93%81%E6%A1%88%E4%BE%8B%EF%BC%881%EF%BC%89%EF%BC%9ANoPhone-Air/image-20220112222739799.png" alt="image-20220112222739799"></p>
+<p><img src="/images/%E4%BA%A7%E5%93%81%E6%A1%88%E4%BE%8B%EF%BC%881%EF%BC%89%EF%BC%9ANoPhone-Air/image-20220112222807505.png" alt="image-20220112222807505"></p>
+<p>亚马逊上keepa显示售价6.99美元，巅峰时15美元，销售了1848天。56个评分，总分4.1，相当不错。</p>
+<p>打开他们的官网，还真有卖壳子。</p>
+<p><img src="/images/%E4%BA%A7%E5%93%81%E6%A1%88%E4%BE%8B%EF%BC%881%EF%BC%89%EF%BC%9ANoPhone-Air/image-20220112223426781.png" alt="image-20220112223426781"></p>
+<p>其中一个壳子，据他们自己说卖了15000个，售价12美元。</p>
+<p><img src="/images/%E4%BA%A7%E5%93%81%E6%A1%88%E4%BE%8B%EF%BC%881%EF%BC%89%EF%BC%9ANoPhone-Air/image-20220112223540367.png" alt="image-20220112223540367"></p>
+<p>上过kickstarter，筹到$18316，看来销量确实不虚。</p>
+<p><img src="/images/%E4%BA%A7%E5%93%81%E6%A1%88%E4%BE%8B%EF%BC%881%EF%BC%89%EF%BC%9ANoPhone-Air/image-20220112223648106.png" alt="image-20220112223648106"></p>
+<br/>
+
+<p>总之是，看起来傻逼，卖得飞起！</p>
+<p>当然，这种新奇特的产品不可能一直风靡下去，卖了3年后基本销声匿迹了。</p>
+<br/>
+
+<p>是不是颠覆你的认知？</p>
+<p>至少我是被整懵的。</p>
+<p>“这样的产品解决了什么需求？”</p>
+<p>当然，创新还是很创新的。</p>
+<br/>
+
+<br/>
+
+<p>没有实际用处的产品能被卖爆，背后肯定隐藏着改写平凡的秘密。</p>
+<p>这个秘密就是，故事，或者说理念。</p>
+<br/>
+
+<p>TED有他们创始人的演讲，有一句话让人印象深刻。</p>
+<p>“ We are dream of a world with smarter people and dumber phone, instead of a world of dumber people smarter phone. ”</p>
+<p>谁说不是？</p>
+<p>它直接切中了所有人的一个感受，“我生活中太过沉迷于手机中了，这是不好的。我想离开它但是我没法做到。”</p>
+<p>现在我买一个Nophone，它时刻提醒我，它是我这种意念的表现，我在抗争在思考，我赞同这种理念我也有片刻的胜利。</p>
+<p>另外，不乏部分人愿意为天才的crazy idea买单，“太特么赞了，支持一下~”</p>
+<br/>
+
+<p>看来，实际用途并非产品的必备属性。</p>
+<p>信仰，故事是更高级的贩卖。顶级形态如宗教，信众自愿双手奉上一生所得，甚至生命。</p>
+<p>但是这种高级目前也就看看而已，不是高人没法落地。</p>
+<br/>
+
+<br/>
+
+<p>讲这个案例其实是要提醒自己，“产品并非只限于满足理性所需，也值得为情感共鸣。”</p>
+<p>别整天只想着怎么做好产品功能，还要想想怎么给它安排一个好的故事/理念。</p>
+<p>产品有价，故事/理念无价。</p>
+]]></content>
+      <categories>
+        <category>选品</category>
+      </categories>
+      <tags>
+        <tag>案例</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>复盘（1）</title>
+    <url>/2022/01/17/%E5%A4%8D%E7%9B%98%EF%BC%881%EF%BC%89/</url>
+    <content><![CDATA[<p>要始终牢记，“没有目的，哪里都不是终点。”</p>
+<p><strong>目标——计划——执行——复盘</strong></p>
+<p>独立站，道阻且长。</p>
+<p>复盘不要忘记，不要忘了自己为什么出发。</p>
+<span id="more"></span>
+
+<br/>
+
+<h2 id="01-工作"><a href="#01-工作" class="headerlink" title="01 工作"></a>01 工作</h2><p>从选品开始，已经过去了3周，21天。然而还是没有最终确定下来。</p>
+<p>虽然开始的节奏可以慢一点，但是不能无计划地拖延下去。</p>
+<p>越拖延，其实内心的焦虑感更加折磨人。</p>
+<br/>
+
+<p>关于选品，还是要告诉自己一个真相：<strong>很难一开始就选对一个产品</strong>。</p>
+<p>如果真正明白了这一点，还需要在选品上如此犹豫不决吗？</p>
+<br/>
+
+<p><strong>PLAN</strong>: <em>必须在2022-1-23之前确定好网站的产品类目。</em></p>
+<p>不管好坏，一旦选择了就要继续走下去。直到最终结束。</p>
+<br/>
+
+<br/>
+
+<h2 id="02-学习"><a href="#02-学习" class="headerlink" title="02 学习"></a>02 学习</h2><p>优联荟的课程在选品之后没有再继续，一方面原因是受选品工作进度拖延所致。</p>
+<p>由于明后两天私事比较多，这周时间并不充裕。</p>
+<p>**PLAN: ** <em>2022-1-20之前需要完成竞争对手分析的课程学习。</em></p>
+<br/>
+
+<br/>
+
+<h2 id="03-阅读"><a href="#03-阅读" class="headerlink" title="03 阅读"></a>03 阅读</h2><p>基于阅读不在多而在精的理念，今年读书的原则是：用什么，读什么。</p>
+<p>今年的一个重大计划就是独立站，因此优先阅读独立站相关。</p>
+<p>《SEO实战密码》蒙灰已久，是时候拿出来看看写写读书笔记了。</p>
+<p>全书共14章，600页，如果一周一章需要14周，即3个月，是可行的。</p>
+<p><strong>PLAN：</strong> <em>一周一章节并写好读书笔记，总计3个月读完。2021-1-23之前，完成第一章节。</em></p>
+<br/>
+
+<br/>
+
+<h2 id="04-运动"><a href="#04-运动" class="headerlink" title="04 运动"></a>04 运动</h2><p>网球本来在2021年的年度计划中，很可惜，没有完成。</p>
+<p>今年已经做好报班培训的计划，务必完成。</p>
+<p><strong>PLAN:</strong> <em>2022年学会网球，一周1~2次，最终达到可以约人打球的水准。</em></p>
+<p>由于天气及假期原因，年后才能开始学习训练。</p>
+<br/>
+
+<br/>
+
+<p>暂时就这么多，希望不要打脸。</p>
+<p>疼~~</p>
+]]></content>
+      <categories>
+        <category>复盘</category>
+      </categories>
+      <tags>
+        <tag>复盘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>选品实操（2）：避免和平台竞争</title>
+    <url>/2022/01/16/%E9%80%89%E5%93%81%E5%AE%9E%E6%93%8D%EF%BC%882%EF%BC%89%EF%BC%9A%E9%81%BF%E5%85%8D%E5%92%8C%E5%B9%B3%E5%8F%B0%E7%AB%9E%E4%BA%89/</url>
+    <content><![CDATA[<p>据数据显示，现在欧美电商购物渠道中，独立站还占有很大的比例，但是我估计诸如亚马逊，沃尔玛等大型平台电商的市场份额会进一步提高，独立站的比例会被逐渐蚕食。原因如下：</p>
+<ul>
+<li>从中国电商现状来看，平台电商几乎垄断了大众消费品的全部线上市场。当然这和中国独特的电商环境和发展历史有关，但是也可以反映一个趋势；</li>
+<li>从定位理论来说，消费者的心智只能容纳极其有限的头部几个品牌。因此当消费者需要购买某样产品时，他很可能是直接打开Amazon搜索，亦或是直接Google搜索。而Amazon在Google首页占据的排名优势越来越明显。所以很可能最终消费者还是到了Amazon平台；</li>
+<li>独立站购物还要面临信任问题还有物流体验，而Amazon完全不用考虑，甚至价格更优，同样的条件下消费者必然是优先选择Amazon平台；</li>
+</ul>
+<span id="more"></span>
+
+<br/>
+
+<p>因此，如果独立站销售的商品可以在Amazon平台上找到一模一样的替代品，那么这款产品迟早要面临被平台分流至枯竭的地步。</p>
+<br/>
+
+<br/>
+
+<h2 id="01-独立站如何与平台竞争？"><a href="#01-独立站如何与平台竞争？" class="headerlink" title="01 独立站如何与平台竞争？"></a>01 独立站如何与平台竞争？</h2><p>虽然独立站的流量获取与平台差异显著，但是随着流量越来越往平台集中的趋势，独立站面临平台的竞争是概率非常大的。如何在与平台竞争中占有一席之地？方法我想无非是以下几种：</p>
+<p>（1）接受产品只能吃到新品红利期的利润事实，不断推出平台没有的新产品，打时间差；</p>
+<p>（2）自己设计研发申请专利保护，做到全渠道唯一；</p>
+<p>（3）完全避开平台竞争，专注平台限制销售禁止销售的产品；</p>
+<br/>
+
+<p>第一种方法未免太累，而且从时间来看完全不适合内容营销seo等这种需要长期积累才见成效的方法；第二种方法对供应链的要求比较高，也不是小白能做到的；唯有第三种方法，是目前而言比较现实的策略。</p>
+<p>打不过我跑还不成吗？</p>
+<p>某个产品被限制在平台销售，正说明背后的需求无法得到满足，而独立站的规则限制比平台少的多，这就成为它无法被平台碾压的壁垒。</p>
+<p>这就是避开平台选品的内在逻辑。</p>
+<br/>
+
+<br/>
+
+<h2 id="02-平台无法销售的产品有哪些？"><a href="#02-平台无法销售的产品有哪些？" class="headerlink" title="02 平台无法销售的产品有哪些？"></a>02 平台无法销售的产品有哪些？</h2><p>如果有一张表，清晰地列出了平台无法销售的产品（卖家被限制而下架的商品），那可就太好了。只要一个一个看下去，我总能找到我能下手的。</p>
+<p>很可惜，没有。</p>
+<p>但是亚马逊对于哪些商品类目进行了限制，还是写的很明白的。</p>
+<p>这是限售禁售的一个类目表：</p>
+<ol>
+<li><a href="https://sellercentral.amazon.com/gp/help/external/help.html?itemID=200164370&language=zh_CN&ref=efph_200164370_cont_G200164330">动物和动物相关商品</a></li>
+<li><a href="https://sellercentral.amazon.com/gp/help/external/help.html?itemID=200164410&language=zh_CN&ref=efph_200164410_cont_G200164330">汽车用品</a></li>
+<li><a href="https://sellercentral.amazon.com/gp/help/external/help.html?itemID=KY5NBH8EHAUFQ27&language=zh_CN&ref=efph_KY5NBH8EHAUFQ27_cont_G200164330">合成木制品</a></li>
+<li><a href="https://sellercentral.amazon.com/gp/help/external/help.html?itemID=200164470&language=zh_CN&ref=efph_200164470_cont_G200164330">化妆品和护肤/护发用品</a><a href="https://sellercentral.amazon.com/gp/help/external/help.html?itemID=201829010&language=zh_CN&ref=efph_201829010_cont_G200164330">膳食补充剂</a><a href="https://sellercentral.amazon.com/gp/help/external/help.html?itemID=200164490&language=zh_CN&ref=efph_200164490_cont_G200164330">药物和药物用具</a></li>
+<li><a href="https://sellercentral.amazon.com/gp/help/external/help.html?itemID=200164510&language=zh_CN&ref=efph_200164510_cont_G200164330">电视/音响</a></li>
+<li><a href="https://sellercentral.amazon.com/gp/help/external/help.html?itemID=200164950&language=zh_CN&ref=efph_200164950_cont_G200164330">爆炸物、武器及相关商品</a></li>
+<li><a href="https://sellercentral.amazon.com/gp/help/external/help.html?itemID=JS7C6DGM9BD6L4B&language=zh_CN&ref=efph_JS7C6DGM9BD6L4B_cont_G200164330">出口控制</a></li>
+<li><a href="https://sellercentral.amazon.com/gp/help/external/help.html?itemID=200164550&language=zh_CN&ref=efph_200164550_cont_G200164330">食品和饮料</a></li>
+<li><a href="https://sellercentral.amazon.com/gp/help/external/help.html?itemID=200164570&language=zh_CN&ref=efph_200164570_cont_G200164330">有害商品和危险品</a></li>
+<li><a href="https://sellercentral.amazon.com/gp/help/external/help.html?itemID=200166630&language=zh_CN&ref=efph_200166630_cont_G200164330">珠宝首饰和贵重宝石</a></li>
+<li><a href="https://sellercentral.amazon.com/gp/help/external/help.html?itemID=201997070&language=zh_CN&ref=efph_201997070_cont_G200164330">照明灯具</a></li>
+<li><a href="https://sellercentral.amazon.com/gp/help/external/help.html?itemID=200164850&language=zh_CN&ref=efph_200164850_cont_G200164330">开锁和盗窃设备</a></li>
+<li><a href="https://sellercentral.amazon.com/gp/help/external/help.html?itemID=200164650&language=zh_CN&ref=efph_200164650_cont_G200164330">医疗器械和配件</a></li>
+<li><a href="https://sellercentral.amazon.com/gp/help/external/help.html?itemID=200164670&language=zh_CN&ref=efph_200164670_cont_G200164330">冒犯性和有争议的商品</a></li>
+<li><a href="https://sellercentral.amazon.com/gp/help/external/help.html?itemID=202115120&language=zh_CN&ref=efph_202115120_cont_G200164330">杀虫剂和杀虫剂设备</a></li>
+<li><a href="https://sellercentral.amazon.com/gp/help/external/help.html?itemID=201737480&language=zh_CN&ref=efph_201737480_cont_G200164330">植物和种子商品</a></li>
+<li><a href="https://sellercentral.amazon.com/gp/help/external/help.html?itemID=202089380&language=zh_CN&ref=efph_202089380_cont_G200164330">回收电视/音响类商品</a></li>
+<li><a href="https://sellercentral.amazon.com/gp/help/external/help.html?itemID=200164870&language=zh_CN&ref=efph_200164870_cont_G200164330">监控设备</a></li>
+<li><a href="https://sellercentral.amazon.com/gp/help/external/help.html?itemID=200164910&language=zh_CN&ref=efph_200164910_cont_G200164330">烟草和烟草类商品</a></li>
+<li><a href="https://sellercentral.amazon.com/gp/help/external/help.html?itemID=200164930&language=zh_CN&ref=efph_200164930_cont_G200164330">质保、服务方案、合约和担保</a></li>
+<li><a href="https://sellercentral.amazon.com/gp/help/external/help.html?itemID=200685320&language=zh_CN&ref=efph_200685320_cont_G200164330">其他受限商品</a></li>
+<li><a href="https://sellercentral.amazon.com/gp/help/external/help.html?itemID=Z4E8J47K2YNXLQ9&language=zh_CN&ref=efph_Z4E8J47K2YNXLQ9_cont_G200164330">CPAP 清洁和消毒器械</a></li>
+</ol>
+<p>每一个大类都有相对详细的说明，但是这个类目下具体有哪些商品？名称？我无从知晓。</p>
+<br/>
+
+<br/>
+
+<h2 id="03-怎样从平台禁售类目中挖掘到合适的产品？"><a href="#03-怎样从平台禁售类目中挖掘到合适的产品？" class="headerlink" title="03 怎样从平台禁售类目中挖掘到合适的产品？"></a>03 怎样从平台禁售类目中挖掘到合适的产品？</h2><p>根据自己的条件挑选可能插手的类目。</p>
+<p>我从以上22类筛选了一遍，留下了第11，12，13，15，18，22类，其中第6类爆炸物也留下了。因为其中有一种我比较熟悉的产品——烟花。</p>
+<p>从之前的选品标准来看，烟花这一类是应该被首先排除的。为什么？</p>
+<ul>
+<li>安全性极差；属于易燃易爆危险品；</li>
+<li>物流困难；</li>
+<li>法规限制比较多；很多消费国都对燃放使用做出了严格的年龄限制，时间限制；</li>
+<li>不环保；趋势应该是限制越来越严格；中国国内也是一再限制生产消费；</li>
+</ul>
+<br/>
+
+<p>之所以还留下来做一番调查的原因无非以下几个：</p>
+<ul>
+<li>离产地近；毕竟浏阳烟花世界闻名；</li>
+<li>门槛高，竞争强度预计低；产品不能在平台上架，（可能也无法投放Facebook广告）；</li>
+<li>趣味性强，观赏性高；这一点毋庸置疑，儿童喜欢玩，成人也喜欢观看；</li>
+</ul>
+<p>回到原问题：<u>怎样从一个类目中挖掘到尽可能多的产品呢</u>？</p>
+<p>目前我想到了两种简单易行的方法。</p>
+<h3 id="（1）平台借鉴"><a href="#（1）平台借鉴" class="headerlink" title="（1）平台借鉴"></a>（1）平台借鉴</h3><p>虽然这些产品在Amazon平台受限，同理很可能在其他第三方2C平台也是限售禁售之列。但是，在B2B平台很可能不受限制，譬如在Alibaba，中国制造等等，只要不涉及武器，爆炸物，政治等极其敏感产品类，诸如激光产品，刀具，汽车用品等等，应该都是不受限制的。</p>
+<br/>
+
+<p>以第18类监控设备为例。</p>
+<br/>
+
+<br/>
+
+<h3 id="2-关键词联想"><a href="#2-关键词联想" class="headerlink" title="(2) 关键词联想"></a>(2) 关键词联想</h3><p>找到禁售产品类目的关键词，然后通过关键词拓展去找到尽可能多的产品。貌似是一个可行的方案。</p>
+<br/>
+
+<p>以第22类为例：CPAP清洁和消毒器械。</p>
+]]></content>
+      <categories>
+        <category>选品</category>
+      </categories>
+      <tags>
+        <tag>选品</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>侵权风险网站怎样选择主机商</title>
+    <url>/2022/01/24/%E4%BE%B5%E6%9D%83%E9%A3%8E%E9%99%A9%E7%BD%91%E7%AB%99%E6%80%8E%E6%A0%B7%E9%80%89%E6%8B%A9%E4%B8%BB%E6%9C%BA%E5%95%86/</url>
+    <content><![CDATA[<p>一个偶然的因素发现亚马逊上一个热销的电子产品品牌。</p>
+<p>我Google了一下，发现了一个brand.cn官网，网站非常一般，仅作展示用途。应该是没有什么流量的。很显然，它面向2B市场。</p>
+<span id="more"></span>
+
+<p>关键是，keywordseverywhere显示的数据表明brand的自然搜索量并不低。参考到这个电子产品售价并不低，我有了一个想法。</p>
+<p>建个网站做联盟营销。具体操作步骤很简单：</p>
+<p>（1）用brand或 “brand+产品关键词” 注册域名；</p>
+<p>（2）建一个以假乱真的“官网”，挂上该品牌的亚马逊联盟链接；</p>
+<p>（3）将brand或 “brand+产品关键词”排名推到Google首页；</p>
+<br/>
+
+<p>“舆论的阵地，你不去占领，敌人就会去占领。”——教员</p>
+<p>“品牌官网，你不去建造，就会被别人建造。”</p>
+<p>哈哈。</p>
+<br/>
+
+<p>虽然这挣钱的主意有点歪，但是还谈不上伤天害理，断人财路。</p>
+<p>毕竟挣的是亚马逊的钱，原卖家不少一分钱。理论上，还会增加他们的销量。网站维护得好，甚至也算是一个品牌形象的补充。</p>
+<p>其中唯一的风险在于：为了达到“官网”的既视感，整个站点的素材和内容必然会大量取材于该品牌CN官网和亚马逊listing，原卖家是有可能投诉网站侵权的。</p>
+<p>该怎样降低被投诉的风险，或者被投诉后自己花心思建站的网站不被主机商下线呢？</p>
+<br/>
+
+<p>我打算从以下2个方面来：</p>
+<p>（1）不卖假货。所有的流量引到原卖家的亚马逊链接上。这样他们不吃亏，希望能高抬贵手。</p>
+<p>（2）用wordpress建站工具，高度可控。不能用shopify这种，投诉容易封店。</p>
+<p>（3）选择DMCA ignored主机商。</p>
+<br/>
+
+<p>DMCA ignored，字面意思就是“无视DMCA”，通俗理解就是不怕DMCA法案的制约。</p>
+<p>DMCA，英文全称“Digital Millennium Copyright Act”，中文翻译叫“千禧年数字版权法案”，用于版权保护。具体是个啥我也不是很清楚。</p>
+<p>总之，这个法案用于保护网站内容版权，源于美国，但是也有一些国家不承认或者权利人用DMCA法案投诉时受理要求比较严格。典型的国家就是荷兰，俄罗斯，罗马尼亚，乌克兰等等。</p>
+<p>因此，选择这些国家的主机商应该是比较合适的。</p>
+<br/>
+
+<p>我Google了一下，DMCA ignored hosting，出来一堆评测文章。</p>
+<p>利益使然有些内容是有水分的，找了一篇看起来还算可以的。</p>
+<p><a href="https://wphostinggeeks.com/dmca-free-hosting/">6 Best DMCA Free Hosting of 2022【REVIEWED】</a></p>
+<p><a href="https://www.websiteplanet.com/blog/best-dmca-ignored-hosting-services/">5 Best DMCA Ignored Hosting Services for Your Website 2022</a></p>
+<p>文章推荐了以下几个主机商：</p>
+<p><img src="/images/%E4%BE%B5%E6%9D%83%E9%A3%8E%E9%99%A9%E7%BD%91%E7%AB%99%E6%80%8E%E6%A0%B7%E9%80%89%E6%8B%A9%E4%B8%BB%E6%9C%BA%E5%95%86/image-20220124224050036.png" alt="image-20220124224050036"></p>
+<p>其中cloudways应该是不合适的，prohoster是一家俄罗斯主机商，担心沟通困难没选择。最后选了flaunt7，一家位于荷兰的主机服务商。</p>
+<ul>
+<li><p>最大的特点是对于信息的保护。声称完全匿名。</p>
+</li>
+<li><p>支持Alipay,也就是支付宝付款。</p>
+</li>
+<li><p>购买一年套餐送免费域名。</p>
+</li>
+</ul>
+<br/>
+
+<p>另外，webcare360看上去其实也不错，支持couldfare加速。价格也不贵。</p>
+<p><img src="/images/%E4%BE%B5%E6%9D%83%E9%A3%8E%E9%99%A9%E7%BD%91%E7%AB%99%E6%80%8E%E6%A0%B7%E9%80%89%E6%8B%A9%E4%B8%BB%E6%9C%BA%E5%95%86/image-20220124224800223.png" alt="image-20220124224800223"></p>
+<p>最终我买了flaunt7入门套餐，6个月总计23.94刀。</p>
+<p><img src="/images/%E4%BE%B5%E6%9D%83%E9%A3%8E%E9%99%A9%E7%BD%91%E7%AB%99%E6%80%8E%E6%A0%B7%E9%80%89%E6%8B%A9%E4%B8%BB%E6%9C%BA%E5%95%86/image-20220124225042103.png" alt="image-20220124225042103"></p>
+<p>在我付款前，Google了一下“flaunt7 code”，复制了一个得到50%off折扣，成功省了一半。真香！</p>
+<p>我可真扣~~</p>
+<br/>
+
+<p>DMCA ignored 主机算是搞定了。</p>
+<p>至于好不好用，就要等我用后再说了。</p>
+<p>那么，有没有DMCA ignored domain域名服务商呢？查了一圈应该是没有。</p>
+<p>于是在namecheap注册了“brand+产品关键词”域名。</p>
+<p>希望这是一个财富密码。</p>
+]]></content>
+      <categories>
+        <category>建站</category>
+      </categories>
+      <tags>
+        <tag>建站</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>siteground自动续费后怎样申请退款？</title>
+    <url>/2022/01/29/siteground%E8%87%AA%E5%8A%A8%E7%BB%AD%E8%B4%B9%E5%90%8E%E6%80%8E%E6%A0%B7%E7%94%B3%E8%AF%B7%E9%80%80%E6%AC%BE%EF%BC%9F/</url>
+    <content><![CDATA[<p>今天磕着瓜子看着电视。“咚~~”，我拿起手机一看，siteground自动续费一年，扣款$299.88. 顿时瓜子都不香了，只剩下心在隐隐作痛。</p>
+<p><img src="/images/siteground%E8%87%AA%E5%8A%A8%E7%BB%AD%E8%B4%B9%E5%90%8E%E6%80%8E%E6%A0%B7%E7%94%B3%E8%AF%B7%E9%80%80%E6%AC%BE%EF%BC%9F/image-20220129165945363.png" alt="image-20220129165945363"></p>
+<p>赶紧登陆账号，看看有没有挽救的机会。</p>
+<span id="more"></span>
+
+<p>还真被找着了。</p>
+<br/>
+
+<h2 id="01-怎样取消siteground自动续费？"><a href="#01-怎样取消siteground自动续费？" class="headerlink" title="01 怎样取消siteground自动续费？"></a>01 怎样取消siteground自动续费？</h2><p>如果在第一次购买是用信用卡扣款，siteground是默认自动续费的。虽然在到期扣款前会多次发邮件通知，但是对于我们没有阅读邮件的国人来说，很容易就漏掉了。因此，最保险的做法是取消siteground的自动续费设置。</p>
+<p>详细步骤可参考：<a href="https://www.veidc.com/14394.html#:~:text=SiteGround%E4%B8%BB%E6%9C%BA%E7%9A%84%E8%87%AA%E5%8A%A8%E7%BB%AD%E8%B4%B9%E6%97%B6%E9%97%B4%E6%98%AF%E4%B8%BB%E6%9C%BA%E5%88%B0%E6%9C%9F%E5%89%8D15%E5%A4%A9%E6%97%B6%E9%97%B4%EF%BC%8C%E5%A6%82%E6%9E%9C%E5%9B%A0%E4%B8%BA%E7%96%8F%E5%BF%BD%E7%AD%89%E5%8E%9F%E5%9B%A0%E5%B7%B2%E7%BB%8F%E8%87%AA%E5%8A%A8%E7%BB%AD%E8%B4%B9%EF%BC%8C%E5%8F%AA%E8%A6%81%E5%9C%A8%E6%89%A3%E8%B4%B9%E5%90%8E15%E5%A4%A9%E5%86%85%EF%BC%8C%E4%B8%BB%E6%9C%BA%E8%BF%87%E6%9C%9F%E4%B9%8B%E5%89%8D%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%81%94%E7%B3%BBSiteGround%E4%B8%BB%E6%9C%BA%E5%AE%A2%E6%9C%8D%E5%91%8A%E7%9F%A5%E4%B8%8D%E5%86%8D%E7%BB%AD%E8%B4%B9%EF%BC%8C%E8%BF%94%E8%BF%98%E7%9B%B8%E5%85%B3%E8%B4%B9%E7%94%A8%E3%80%82,%E5%A6%82%E6%9E%9C%E8%B6%85%E8%BF%87%E4%BA%8615%E5%A4%A9%EF%BC%8C%E5%B0%B1%E6%97%A0%E6%B3%95%E9%80%80%E6%AC%BE%E4%BA%86%E3%80%82">[怎么取消SiteGround自动续费，SiteGround主机自动续费设置]</a></p>
+<p>最终，确认看到这个按钮并且变为灰色即可。</p>
+<img src="/images/siteground自动续费后怎样申请退款？/image-20220129171127933.png" alt="image-20220129171127933" style="zoom:50%;" />
+
+<br/>
+
+<br/>
+
+<h2 id="02-siteground自动续费后怎样申请退款？"><a href="#02-siteground自动续费后怎样申请退款？" class="headerlink" title="02 siteground自动续费后怎样申请退款？"></a>02 siteground自动续费后怎样申请退款？</h2><p>虽然siteground续费是真的贵，但是不妨碍它的服务是真的可以。自动续费或者购买后，如果反悔是有机会退款的。</p>
+<img src="/images/siteground自动续费后怎样申请退款？/image-20220129231913507.png" alt="image-20220129231913507" style="zoom:60%;" />
+
+<p>这是siteground的退款政策。总的来说：</p>
+<ul>
+<li><p>共享主机购买后30天内可申请退款；</p>
+</li>
+<li><p>云主机购买后14天内可申请退款；</p>
+</li>
+<li><p>自动续费后如果还没进入下一个使用周期，30天内申请退款可以退全款；</p>
+</li>
+<li><p>自动续费后而且已经进入下一个使用周期，30天内申请退款只扣一个月的费用，其余可退还；</p>
+</li>
+</ul>
+<p>不得不说，这很赞👍</p>
+<br/>
+
+<p>怎样申请退款呢？</p>
+<p>详细步骤可参考：<a href="https://www.waimaob2c.com/siteground-refund"><a href="https://www.waimaob2c.com/siteground-refund">SiteGround退款教程 如何获取30天无理由退款服务</a></a></p>
+<br/>
+
+<p>一番操作之后，我很快就收到了退款。</p>
+<p><img src="/images/siteground%E8%87%AA%E5%8A%A8%E7%BB%AD%E8%B4%B9%E5%90%8E%E6%80%8E%E6%A0%B7%E7%94%B3%E8%AF%B7%E9%80%80%E6%AC%BE%EF%BC%9F/image-20220129232654003.png" alt="image-20220129232654003"></p>
+<p>悬着的心终于放松下来。</p>
+<p>继续开始了嗑瓜子烤火看剧的日子。</p>
+<p>这，就是过年。</p>
+]]></content>
+      <categories>
+        <category>建站</category>
+      </categories>
+      <tags>
+        <tag>建站</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《SEO实战密码》第1章：为什么要做SEO</title>
+    <url>/2022/02/22/%E3%80%8ASEO%E5%AE%9E%E6%88%98%E5%AF%86%E7%A0%81%E3%80%8B%E7%AC%AC1%E7%AB%A0%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%81%9ASEO/</url>
+    <content><![CDATA[<p>不要轻易立flag，flag的最大作用就是用来打自己的脸。切记！</p>
+<p>过完年来杂事甚多，一直无法专心致力于独立站的事情，更加别提阅读了。《SEO实战密码》这本书丢在角落已好久，始终翻不开第一页。啪啪打脸。</p>
+<p>必须得给自己一个交代了。</p>
+<p>今天走马观花读完了第一章，“为什么要做SEO？”</p>
+<span id="more"></span>
+
+<br/>
+
+<h2 id="01-什么是SEO？"><a href="#01-什么是SEO？" class="headerlink" title="01 什么是SEO？"></a>01 什么是SEO？</h2><p>SEO，搜索引擎优化。</p>
+<p>通过优化站内站外，让关键词获取更高的自然排名，从而获得更多的流量。</p>
+<br/>
+
+<p>拆解一下。</p>
+<p>优化目的：获取流量（关键词排名）。</p>
+<p>涉及对象：网站，搜索引擎，竞争对手。</p>
+<p>工作内容：站内优化，站外优化</p>
+<br/>
+
+<p>注意事项：</p>
+<ul>
+<li>不要为了优化而优化，SEO必须服务于用户体验和公司业务流程；</li>
+<li>追求有效流量而不是流量最大化（没有转化的流量是垃圾流量）；</li>
+</ul>
+<br/>
+
+<br/>
+
+<h2 id="02-为什么要做SEO？"><a href="#02-为什么要做SEO？" class="headerlink" title="02 为什么要做SEO？"></a>02 为什么要做SEO？</h2><p>其实这个问题显而易见，对于电商来说，流量是订单之母。</p>
+<p>谁有流量，谁就有订单。</p>
+<p>谁的流量成本低，谁就能在竞争中占据优势。</p>
+<p>所以无论是广告，SEO，还是社交，最终围绕的都是“降低流量成本”这一目标。</p>
+<br/>
+
+<p>简而言之，SEO有几大好处：</p>
+<ul>
+<li>长期而言流量成本最低。关键词自然排名上去了，点击是免费的。</li>
+<li>目标客户比较精准。因为SEO选择的都是精准关键词。</li>
+<li>流量长期有效。广告等付费流量停了就马上没有了。</li>
+</ul>
+<br/>
+
+<br/>
+
+<p>个人几点想法：</p>
+<ul>
+<li>不能只想着免费流量，付费将是未来主流；只要ROI过得去，就可以买流量。</li>
+<li>SEO只是流量形式的一种，还有很多很多的流量形式。比如广告，社交，联盟。</li>
+<li>Google可能消亡，Baidu可能消亡，SEO不会消失。不用担心SEO无用武之地。</li>
+</ul>
+<br/>
+
+<br/>
+
+
+
+]]></content>
+      <categories>
+        <category>读书笔记</category>
+      </categories>
+      <tags>
+        <tag>SEO实战密码</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>给域名添加SSL证书</title>
+    <url>/2022/01/30/%E5%9C%A8name-com%E7%9A%84%E5%9F%9F%E5%90%8D%E6%B7%BB%E5%8A%A0SSL%E8%AF%81%E4%B9%A6/</url>
+    <content><![CDATA[<p>亚马逊联盟网站注册在name.com上了，需要设置SSL证书。</p>
+<span id="more"></span>
+
+<p>具体步骤：</p>
+<p>（1）登陆name.com, 找到SSL设置。</p>
+<img src="../images/在name-com的域名添加SSL证书/image-20220130232038496.png" alt="image-20220130232038496" style="zoom:50%;" />
+
+<p>（2）添加证书签名。</p>
+<img src="../images/在name-com的域名添加SSL证书/image-20220130231914077.png" alt="image-20220130231914077" style="zoom:60%;" />
+
+<p>证书签名在哪呢？</p>
+<p>登陆主机商。我这里是flaunt7, 还挺方便，登陆C-PANEL，很快就找到了。</p>
+<img src="../images/在name-com的域名添加SSL证书/image-20220130232421959.png" alt="image-20220130232421959" style="zoom:50%;" />
+
+<p>直接复制。</p>
+<img src="../images/在name-com的域名添加SSL证书/image-20220130232547924.png" alt="image-20220130232547924" style="zoom:50%;" />
+
+]]></content>
+      <categories>
+        <category>建站</category>
+      </categories>
+      <tags>
+        <tag>建站</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>引流方法论（1）：优质内容汇总法</title>
+    <url>/2022/02/28/%E5%BC%95%E6%B5%81%E6%96%B9%E6%B3%95%E8%AE%BA%EF%BC%881%EF%BC%89%EF%BC%9A%E4%BC%98%E8%B4%A8%E5%86%85%E5%AE%B9%E6%B1%87%E6%80%BB%E6%B3%95/</url>
+    <content><![CDATA[<p>优质内容如何推广，获取流量，是一个很大的课题。</p>
+<p>方法很多，大牛也很多。有些案例简直让人拍案叫绝。</p>
+<p>今天记录的第一式：优质内容汇总法。</p>
+<span id="more"></span>
+
+<br/>
+
+<h2 id="什么是优质内容汇总法？"><a href="#什么是优质内容汇总法？" class="headerlink" title="什么是优质内容汇总法？"></a>什么是优质内容汇总法？</h2><p>就是手动整理一个干货目录，看上去内容满满。吸引很多人收藏，分享。该方法的优点是无须自己创造内容，仅需花时间整理，收集相关内容。但是效果非常好。</p>
+<br/>
+
+<p>先看一个案例。</p>
+<p>这个是我在知无不言论坛上发现的。</p>
+<img src="../images/‘引流方法论（1）：高价值内容整理’/image-20220228225634064.png" alt="image-20220228225634064" style="zoom:67%;" />
+
+<p>最新热榜前5被类似的精华整理贴占据了两位。</p>
+<p>打开贴子。</p>
+<p><img src="../images/%E2%80%98%E5%BC%95%E6%B5%81%E6%96%B9%E6%B3%95%E8%AE%BA%EF%BC%881%EF%BC%89%EF%BC%9A%E9%AB%98%E4%BB%B7%E5%80%BC%E5%86%85%E5%AE%B9%E6%95%B4%E7%90%86%E2%80%99/image-20220228225848832.png" alt="image-20220228225848832"></p>
+<p><img src="../images/%E2%80%98%E5%BC%95%E6%B5%81%E6%96%B9%E6%B3%95%E8%AE%BA%EF%BC%881%EF%BC%89%EF%BC%9A%E9%AB%98%E4%BB%B7%E5%80%BC%E5%86%85%E5%AE%B9%E6%95%B4%E7%90%86%E2%80%99/image-20220228225922624.png" alt="image-20220228225922624"></p>
+<p>关注人数和浏览量都是相当可观的，而且可以预见，流量还会持续增加。</p>
+<p>这一类贴子热度高并且持续时间长。这也是这种方法的优点，因为精华内容并不那么容易过时。</p>
+<br/>
+
+<h2 id="汇总贴中包含哪些内容？"><a href="#汇总贴中包含哪些内容？" class="headerlink" title="汇总贴中包含哪些内容？"></a>汇总贴中包含哪些内容？</h2><p>首先是收集内容，肯定是需要考虑市场需求的。以往精华帖的浏览量，收藏量，点赞量都可以成为很好的参考指标。</p>
+<p>其次是整理内容，需要将这些收集的内容有条理地分类整理。</p>
+<p><img src="../images/%E2%80%98%E5%BC%95%E6%B5%81%E6%96%B9%E6%B3%95%E8%AE%BA%EF%BC%881%EF%BC%89%EF%BC%9A%E9%AB%98%E4%BB%B7%E5%80%BC%E5%86%85%E5%AE%B9%E6%95%B4%E7%90%86%E2%80%99/image-20220228230735222.png" alt="image-20220228230735222"></p>
+<br/>
+
+<h2 id="如何在贴子中推广？"><a href="#如何在贴子中推广？" class="headerlink" title="如何在贴子中推广？"></a>如何在贴子中推广？</h2><p>我们不是雷锋，花大力气整理优质内容的最终目的当然是推广自己。那么我们可以在哪些地方做推广呢？</p>
+<p>（1）发帖人简介；</p>
+<p>（2）贴子开头；</p>
+<p>（3）优质内容植入自己内容；</p>
+<p>（4）评论区再发布自己内容；</p>
+<br/>
+
+<p><img src="../images/%E2%80%98%E5%BC%95%E6%B5%81%E6%96%B9%E6%B3%95%E8%AE%BA%EF%BC%881%EF%BC%89%EF%BC%9A%E9%AB%98%E4%BB%B7%E5%80%BC%E5%86%85%E5%AE%B9%E6%95%B4%E7%90%86%E2%80%99/image-20220228231200333.png" alt="image-20220228231200333"></p>
+<p><img src="../images/%E2%80%98%E5%BC%95%E6%B5%81%E6%96%B9%E6%B3%95%E8%AE%BA%EF%BC%881%EF%BC%89%EF%BC%9A%E9%AB%98%E4%BB%B7%E5%80%BC%E5%86%85%E5%AE%B9%E6%95%B4%E7%90%86%E2%80%99/image-20220228231306301.png" alt="image-20220228231306301"></p>
+<p><img src="../images/%E2%80%98%E5%BC%95%E6%B5%81%E6%96%B9%E6%B3%95%E8%AE%BA%EF%BC%881%EF%BC%89%EF%BC%9A%E9%AB%98%E4%BB%B7%E5%80%BC%E5%86%85%E5%AE%B9%E6%95%B4%E7%90%86%E2%80%99/image-20220228231351393.png" alt="image-20220228231351393"></p>
+<p><img src="../images/%E2%80%98%E5%BC%95%E6%B5%81%E6%96%B9%E6%B3%95%E8%AE%BA%EF%BC%881%EF%BC%89%EF%BC%9A%E9%AB%98%E4%BB%B7%E5%80%BC%E5%86%85%E5%AE%B9%E6%95%B4%E7%90%86%E2%80%99/image-20220228231453233.png" alt="image-20220228231453233"></p>
+<p>总结一下，“优质内容汇总法”优点：</p>
+<ul>
+<li><p>无需自己创作内容，仅需收集整理；</p>
+</li>
+<li><p>利于收藏点赞，评论热度高，持续时间长；</p>
+</li>
+</ul>
+<p>以上。</p>
+]]></content>
+      <categories>
+        <category>引流</category>
+      </categories>
+      <tags>
+        <tag>引流</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>修改站点URL后无法访问（404）及修改站点URL的正确方式</title>
+    <url>/2022/02/03/%E5%AE%89%E8%A3%85wordpress%E5%90%8E%E5%9F%9F%E5%90%8D%E5%B8%A6wp%EF%BC%8C%E4%BF%AE%E6%94%B9%E5%90%8E%E6%97%A0%E6%B3%95%E8%AE%BF%E9%97%AE%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F/</url>
+    <content><![CDATA[<p> 在主机安装wordpress后，蓦然发现域名后面自动带了一个wp，而且必须带wp才能访问，比如<a href="https://abc.com/wp">https://abc.com/wp</a>, 这可逼死了强迫症。</p>
+<p>虽然还没到网站开放的时候，但是我已经决定第一时间就把它给改回了。</p>
+<p>就在我打开后台–setting，将url改成<a href="https://abc.com后,不幸发生了,404报错./">https://abc.com后，不幸发生了，404报错。</a></p>
+<span id="more"></span>
+
+<img src="../images/‘安装wordpress后域名带wp，修改后无法访问怎么办？’/image-20220203123428212.png" alt="image-20220203123428212" style="zoom:50%;" />
+
+<p>改回去之后还是不行。</p>
+<p>现在好了，<a href="https://abc.com不行,https//abc.com/wp%E4%B9%9F%E4%B8%8D%E8%A1%8C%E3%80%82">https://abc.com不行，https://abc.com/wp也不行。</a></p>
+<br/>
+
+<p>怎样解决？</p>
+<p>查了很多，实测最简单的方法如下：</p>
+<p>登陆主机面板，选择phpmyadmin</p>
+<img src="../images/‘安装wordpress后域名带wp，修改后无法访问怎么办？’/image-20220210011129724.png" alt="image-20220210011129724" style="zoom:67%;" />
+
+<p>找到wp-options, 找到siteurl和home，将option_value改回原来的网址。</p>
+<p><img src="../images/%E2%80%98%E5%AE%89%E8%A3%85wordpress%E5%90%8E%E5%9F%9F%E5%90%8D%E5%B8%A6wp%EF%BC%8C%E4%BF%AE%E6%94%B9%E5%90%8E%E6%97%A0%E6%B3%95%E8%AE%BF%E9%97%AE%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F%E2%80%99/image-20220210011305564.png" alt="image-20220210011305564"></p>
+<p>问题就解决了。</p>
+<p>可是这么简单的一个问题，足足浪费了我3个小时。/(ㄒoㄒ)/~~</p>
+<br/>
+
+<p>但是当初的目的并没有达到，该怎样安全的修改wordpress的站点地址URL呢？</p>
+<p>步骤如下：</p>
+<ol>
+<li>设置站点链接结构：</li>
+</ol>
+<p><img src="../images/%E5%AE%89%E8%A3%85wordpress%E5%90%8E%E5%9F%9F%E5%90%8D%E5%B8%A6wp%EF%BC%8C%E4%BF%AE%E6%94%B9%E5%90%8E%E6%97%A0%E6%B3%95%E8%AE%BF%E9%97%AE%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F/image-20220402134401288.png" alt="image-20220402134401288"></p>
+<ol start="2">
+<li><p>修改主页和站点URL；</p>
+</li>
+<li><p>迁移文件到正确路径；</p>
+</li>
+</ol>
+<p>（1）进入主机的文件管理；</p>
+<p><img src="../images/%E5%AE%89%E8%A3%85wordpress%E5%90%8E%E5%9F%9F%E5%90%8D%E5%B8%A6wp%EF%BC%8C%E4%BF%AE%E6%94%B9%E5%90%8E%E6%97%A0%E6%B3%95%E8%AE%BF%E9%97%AE%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F/image-20220402134723241.png" alt="image-20220402134723241"></p>
+<p>（2）找到wp文件夹，全选</p>
+<p><img src="../images/%E5%AE%89%E8%A3%85wordpress%E5%90%8E%E5%9F%9F%E5%90%8D%E5%B8%A6wp%EF%BC%8C%E4%BF%AE%E6%94%B9%E5%90%8E%E6%97%A0%E6%B3%95%E8%AE%BF%E9%97%AE%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F/image-20220402135248324.png" alt="image-20220402135248324"></p>
+<p>（3）点MOVE, 删除后面的WP，点击确认</p>
+<p><img src="../images/%E5%AE%89%E8%A3%85wordpress%E5%90%8E%E5%9F%9F%E5%90%8D%E5%B8%A6wp%EF%BC%8C%E4%BF%AE%E6%94%B9%E5%90%8E%E6%97%A0%E6%B3%95%E8%AE%BF%E9%97%AE%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F/image-20220402135432930.png" alt="image-20220402135432930"></p>
+<p>大功告成！！！</p>
+<p>这个时候你刷新网站是打不开的，别忘了，之前的URL包含了WP，所以要删掉WP重新登陆。</p>
+<p><img src="../images/%E5%AE%89%E8%A3%85wordpress%E5%90%8E%E5%9F%9F%E5%90%8D%E5%B8%A6wp%EF%BC%8C%E4%BF%AE%E6%94%B9%E5%90%8E%E6%97%A0%E6%B3%95%E8%AE%BF%E9%97%AE%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F/image-20220402140200681.png" alt="image-20220402140200681"></p>
+<p>完结。</p>
+<p>附上油管视频地址：<a href="https://www.youtube.com/watch?v=b9NSBhICaQU">[2020] How to remove /wordpress /wp from wordpress website or blog url</a></p>
+<br/>
+
+<p>记住，你能碰到的问题99%都已经有人遇到且提供了答案。我们要作的，是知道如何去找到它。</p>
+]]></content>
+      <categories>
+        <category>建站</category>
+      </categories>
+      <tags>
+        <tag>建站</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>AI写作：如何用closerscopy写一篇blog</title>
+    <url>/2022/03/23/AI%E5%86%99%E4%BD%9C%EF%BC%9A%E5%A6%82%E4%BD%95%E7%94%A8closerscopy%E5%86%99%E4%B8%80%E7%AF%87blog/</url>
+    <content><![CDATA[<p>closerscopy是最近提及率比较高的一个AI写作工具，今天尝试用它写一篇博客文章。</p>
+<p>当然，既然是artificial intelligence，我也不期待它能像真正的人一样发挥。对于文章的标准就是：看起来是那么回事，拿得出手即可。</p>
+<p>workflow是closerscopy一个比较有特色的地方，写一篇博客就像一个固定的流程一样，每部分写好拼接完成。</p>
+<span id="more"></span>
+
+<p>在演示视频中，一篇博客文章分为10个部分：</p>
+<p>headline；</p>
+<p>hook；</p>
+<p>introduction;</p>
+<p>nut graph;</p>
+<p>outline;</p>
+<p>body;</p>
+<p>body expand;</p>
+<p>conclusion;</p>
+<p>call to action;</p>
+<p>meta;</p>
+]]></content>
+      <categories>
+        <category>内容营销</category>
+      </categories>
+      <tags>
+        <tag>AI写作</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>如何寻找合格的供应商？</title>
+    <url>/2022/03/28/%E5%A6%82%E4%BD%95%E5%AF%BB%E6%89%BE%E5%90%88%E6%A0%BC%E7%9A%84%E4%BE%9B%E5%BA%94%E5%95%86%EF%BC%9F/</url>
+    <content><![CDATA[<p>确定好产品之后就是找合适的供应商。尤其对于SOHO人来说，一个能长期合作的供应商至关重要。</p>
+<span id="more"></span>
+
+<br/>
+
+<h2 id="01-如何找dropshipping供应商？"><a href="#01-如何找dropshipping供应商？" class="headerlink" title="01 如何找dropshipping供应商？"></a>01 如何找dropshipping供应商？</h2><p>毫无疑问，速卖通和1688是非常全面的货源平台，几乎所有的常规产品都可以在上面找到对应的批发商或者厂家。</p>
+<ul>
+<li><p>aliexpress</p>
+</li>
+<li><p>1688</p>
+</li>
+<li><p>敦煌网</p>
+</li>
+</ul>
+<hr>
+<p>捆绑销售，是shopify+oberlo跑Facebook广告模式，区别于平台卖家的一种重要方式。</p>
+<p>增加价值，提高单品售价。</p>
+<hr>
+<br/>
+
+<h2 id="02-如何寻找美国本地供应商"><a href="#02-如何寻找美国本地供应商" class="headerlink" title="02 如何寻找美国本地供应商"></a>02 如何寻找美国本地供应商</h2><p>方法一：Google搜索 “产品+ USA wholesale”</p>
+<p>方法二：<a href="http://www.wholesalecentral.com/">www.wholesalecentral.com</a></p>
+<br/>
+
+<h2 id="03-供应商调研"><a href="#03-供应商调研" class="headerlink" title="03 供应商调研"></a>03 供应商调研</h2><p>（1）背景调研</p>
+<p>经营时间</p>
+<p>公司资料</p>
+<p>公司注册号</p>
+<p>（2）产品调研</p>
+<p>产品做多久</p>
+<p>是否完全开放销售</p>
+<p>产品供应时间/产品库存</p>
+<p>如果缺货，补货时间</p>
+<p>哪些产品数据资料是可以直接使用的</p>
+<p>出现产品缺陷怎么办</p>
+<p>保修/退换政策是什么</p>
+<p>是否可以提供产品样品</p>
+<p>（3）如何下单</p>
+<p>是否有MOQ</p>
+<p>（4）运输发货</p>
+<p>是否支持国际运输</p>
+<p>下单到发货时间</p>
+<p>海关费用哪一方支付</p>
+<p>谁来支付退货费用</p>
+<p>是否提供送货/运输跟踪号码</p>
+<p>（5）支付方式</p>
+<p>（6）服务水平</p>
+<p>是否有专门的客户经理对接</p>
+]]></content>
+      <categories>
+        <category>课程</category>
+      </categories>
+      <tags>
+        <tag>选品</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>dukascopy杜高斯贝-瑞士银行开户详解</title>
+    <url>/2022/03/31/dukascopy%E6%9D%9C%E9%AB%98%E6%96%AF%E8%B4%9D-%E7%91%9E%E5%A3%AB%E9%93%B6%E8%A1%8C%E5%BC%80%E6%88%B7%E8%AF%A6%E8%A7%A3/</url>
+    <content><![CDATA[<p>收款，是独立站重要的一环。</p>
+<p>支持的收款方式越多，客户的便捷性越高，自然订单转化率也会提高。</p>
+<span id="more"></span>
+
+<p>dukascopy-杜高斯贝，一家瑞士的银行，可以比较方便的开户。</p>
+<p>这是从奶爸套利那里推荐的，我本人测试了一下，开户相当简单，仅需一本护照。目前还在审核中。</p>
+<p>至于对于跨境独立站收款有什么用处，还没有测试过。</p>
+<p>但是，几乎无门槛的东西，先开一个再说。</p>
+<br>
+
+<p>dukascopy的介绍，以及如何开户奶爸已经说的非常清楚了。</p>
+<p>不要重复造轮子！</p>
+<p>可以参考他的油管视频：</p>
+<p><a href="https://www.youtube.com/watch?v=zVwwsrwky1k&t=954s">瑞士银行杜高斯贝开户详解 0开户费0管理费 有护照就赶紧先上吧</a></p>
+<p>我申请的时候填写了他的邀请注册码：JNP-8F9</p>
+<p>毕竟做一个视频不容易，正是由于他们的公开才有我们的方便。</p>
+<p>希望后面看到的人注册的时候也能动动手指，填入奶爸的邀请码。</p>
+]]></content>
+      <categories>
+        <category>建站</category>
+      </categories>
+      <tags>
+        <tag>收款</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>如何正确的把握用户的搜索意图？</title>
+    <url>/2022/03/29/%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E7%9A%84%E6%8A%8A%E6%8F%A1%E7%94%A8%E6%88%B7%E7%9A%84%E6%90%9C%E7%B4%A2%E6%84%8F%E5%9B%BE%EF%BC%9F/</url>
+    <content><![CDATA[<p>在做关键词分析，或者建设内容时，理解用户的搜索意图至关重要。</p>
+<p>为什么？</p>
+<p>因为基于“网站为用户创造价值而存在”的理念，只有当自己的网站为目标客户提供了精准的有用的信息时，才会有不错的转化率和页面停留时间，关键词排名才能上升，才会带来流量。</p>
+<span id="more"></span>
+
+<p>然而，新手的常见错误就是，“无法正确理解用户的真实搜索意图”，从而导致费劲心力提供的信息并不是用户想要的。这很让人沮丧，苦苦打造的内容也许不会有很好的排名。</p>
+<br/>
+
+<h2 id="01-新手误区"><a href="#01-新手误区" class="headerlink" title="01 新手误区"></a>01 新手误区</h2><p><strong>经典错误认知一：信息量密集的“干货”一定能满足客户的搜索意图。</strong></p>
+<blockquote>
+<p>错误理解了文章要比别人都好。所以一篇简单的 List Post（列表型文章）中加入过多的信息。</p>
+<p>新手最容易犯的错误就是不能很好的了解用户的搜索意图。用户也许只想猎奇，快速扫描，获得答案。所以你会发现谷歌搜索引擎靠前的结果就是很简单的每个点罗列 1-2 段话。</p>
+<p>但是新手如我，会想我就是要比所有 SERP （搜索结果显示的页面）都写得要好，就容易偏离方向，加入了太多可能用户在这篇中不需要得到的信息。最终你的文章是为了用户服务的。</p>
+</blockquote>
+<p>这是<a href="https://www.seoactionblog.com/">英文SEO实战派</a>的Kelly日记记录的，看到了非常心有戚戚焉。</p>
+<p>新手出道，一开始就想把事情做到尽可能好，写一篇内容时会把大部分精力都放到“如何写出一篇比其他人都好”的目标上，而不是“如何写出一篇用户最想看到的”初衷上。</p>
+<p>因此，比别人都好的文章并不一定就是客户最想看到的文章。</p>
+<br/>
+
+<p><strong>经典误区二：将“我觉得”代替为“用户想要”</strong></p>
+<p>很多时候我们无法察觉身份异位带来的思维差别。我们是写手，站长，用户是普通检索者。</p>
+<br/>
+
+<h2 id="02-怎样正确理解用户的搜索意图"><a href="#02-怎样正确理解用户的搜索意图" class="headerlink" title="02 怎样正确理解用户的搜索意图"></a>02 怎样正确理解用户的搜索意图</h2><p>很显然，我们需要一个参照标准，而最合适的标准，便是Google</p>
+<p>当我们无法判断一个关键词的用户搜索意图时，我们可以Google一下，看一下首页排名靠前的内容。之所以靠前，是因为它能正确满足绝大多数用户的搜索目的。</p>
+<hr>
+<p>其他方法待补充，2022.3.30</p>
+<br/>
+
+<h2 id="03-参考信息"><a href="#03-参考信息" class="headerlink" title="03 参考信息"></a>03 参考信息</h2><p>关于搜索意图search intent，这里有一篇详细的blog</p>
+<p><a href="https://ahrefs.com/blog/search-intent/">Searcher Intent: The Overlooked ‘Ranking Factor’ You Should Be Optimizing For</a></p>
+<p>得抽空翻译一下才行。</p>
+<p>待补充。</p>
+]]></content>
+      <categories>
+        <category>关键词调研</category>
+      </categories>
+      <tags>
+        <tag>关键词</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>P卡如何申请？</title>
+    <url>/2022/04/03/P%E5%8D%A1%E5%A6%82%E4%BD%95%E7%94%B3%E8%AF%B7%EF%BC%9F/</url>
+    <content><![CDATA[<p>在注册Amazon Affiliate账号的时候，亚马逊提供了礼品卡（gift card），支票（check），美国银行卡（direct deposit）3种收款方式，毫无疑问，最灵活最佳的方式是提款到美国银行卡。</p>
+<p>然而我没有。</p>
+<p>从网上搜索了一下，最佳的解决路径是申请一个P卡账户，它应该是包含了一个美元账户和一个欧元账户，绑定Amazon Affiliate即可收款。</p>
+<span id="more"></span>
+
+<br/>
+
+<p>关于如何注册P卡及获得实体信用卡，网上的教程已经很多了，可以参考下面文章：</p>
+<p><a href="https://www.unsunl.com/?p=23">Payoneer 虚拟信用卡申请流程 dropshipping</a></p>
+<p><a href="https://www.guxiaobei.com/how-to-receipt-amazon-affiliate.html">亚马逊Affiliate到底如何收款？</a></p>
+<br/>
+
+
+
+
+
+
+
+]]></content>
+      <categories>
+        <category>Affiliate</category>
+      </categories>
+      <tags>
+        <tag>收款</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>如何注册Amazon Affiliate账号</title>
+    <url>/2022/02/02/%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8CAmazon%20Affiliate%E8%B4%A6%E5%8F%B7/</url>
+    <content><![CDATA[<p>本文将要解决以下问题：</p>
+<p>（1）亚马逊联盟计划的佣金比例是多少？</p>
+<p>（2）怎样注册亚马逊联盟账号？</p>
+<p>（3）亚马逊联盟税务信息怎样填写？</p>
+<p>（4）怎样添加银行收款方式？</p>
+<p>（4）亚马逊联盟账号封号原因</p>
+<span id="more"></span>
+
+<h2 id="01-Amazon-Affiliate佣金比例"><a href="#01-Amazon-Affiliate佣金比例" class="headerlink" title="01 Amazon Affiliate佣金比例"></a>01 Amazon Affiliate佣金比例</h2><img src="../images/亚马逊联盟佣金/image-20220202233121699.png" alt="image-20220202233121699" style="zoom:80%;" />
+
+<br/>
+
+<h2 id="02-怎样注册亚马逊联盟账号"><a href="#02-怎样注册亚马逊联盟账号" class="headerlink" title="02 怎样注册亚马逊联盟账号"></a>02 怎样注册亚马逊联盟账号</h2><p>网上教程还是不少的，可以参考一下顾小北的博客文章：<a href="https://www.guxiaobei.com/how-to-register-amazon-affiliate-and-play-well.html">手把手教你如何注册亚马逊Affiliate以及它的玩法</a></p>
+<p>还有不小不大的文章: <a href="https://www.unsunl.com/?p=1922">小朋友，你是否知道如何注册亚马逊联盟？</a></p>
+<p>和上面文章中不同的是，我并没有需要验证，直接就开通了账号</p>
+<p><img src="../images/%E4%BA%9A%E9%A9%AC%E9%80%8A%E8%81%94%E7%9B%9F%E4%BD%A3%E9%87%91/image-20220403013718362.png" alt="image-20220403013718362"></p>
+<br/>
+
+<p>由于我的亚马逊账号名字及地址都是虚拟的，不知道以后会不会带来什么风险。</p>
+<p>收款方式在注册当中并没有选择，还需要等P卡办妥之后更换为银行卡收款方式。</p>
+<p>另外值得注意的是：180天内没有3个订单账号会被回收吧。</p>
+<br/>
+
+<h2 id="03-Amazon-Affiliate-Tax-Information该如何填写"><a href="#03-Amazon-Affiliate-Tax-Information该如何填写" class="headerlink" title="03 Amazon Affiliate Tax Information该如何填写"></a>03 Amazon Affiliate Tax Information该如何填写</h2><p>账号注册之后，会提示需要完成税务信息登记。</p>
+<p>该如何去填写呢？</p>
+<br/>
+
+<p>![image-20220406231611681](../images/如何注册Amazon Affiliate账号/image-20220406231611681.png)</p>
+<p>![image-20220406231751661](../images/如何注册Amazon Affiliate账号/image-20220406231751661.png)</p>
+<ul>
+<li>全民就是中文的拼音；</li>
+<li>地址写全拼或者英文都可以；</li>
+<li>税收选Non-US TIN, 因为没有嘛，中国居民的税收号就是个人身份证号。</li>
+</ul>
+<p>![image-20220406231944478](../images/如何注册Amazon Affiliate账号/image-20220406231944478.png)</p>
+<p>关于税收选择，出海笔记的<a href="https://www.chuhaibiji.com/blog/15082/">图帕先生一文</a>建议都不选。我也不知道填或者不填差别在哪，我填了好像也没啥问题。如何选择看个人吧。</p>
+<p>![image-20220406232302578](../images/如何注册Amazon Affiliate账号/image-20220406232302578.png)</p>
+<ul>
+<li>全部勾选；</li>
+<li>签名写中文名拼音；</li>
+</ul>
+<p>到这里点提交，然后会出现一个W-8BEN表格。</p>
+<p>![image-20220406232558860](../images/如何注册Amazon Affiliate账号/image-20220406232558860.png)</p>
+<p>确认信息无误后再次提交就完成了。</p>
+<br/>
+
+<h2 id="04-亚马逊联盟账号添加银行收款方式"><a href="#04-亚马逊联盟账号添加银行收款方式" class="headerlink" title="04 亚马逊联盟账号添加银行收款方式"></a>04 亚马逊联盟账号添加银行收款方式</h2><p>亚马逊的3种收款方式：礼品卡，支票，转账。很显然，银行转账是最快捷最方便的。但是它只不支持绑定中国银行账户。</p>
+<p>作为中国公民，如何获取一个美国银行账户呢？</p>
+<p>其实很简单。</p>
+<br/>
+
+<p>注册一个个人的Payoneer账号，就自动拥有了一个美国，欧盟，英国的收款账户。</p>
+<p>具体step by step的注册方法可以参考以下文章：</p>
+<br/>
+
+<p>美国银行账户注册好之后，回到最开始的问题：怎样给Amazon Affiliate账号添加银行收款方式？</p>
+<p>![image-20220406233427031](../images/如何注册Amazon Affiliate账号/image-20220406233427031.png)</p>
+<p>选择更改收款方式。</p>
+<p>![image-20220406233501802](../images/如何注册Amazon Affiliate账号/image-20220406233501802.png)</p>
+<p>选择添加银行账号</p>
+<p>![image-20220406233540752](../images/如何注册Amazon Affiliate账号/image-20220406233540752.png)</p>
+<p>选择添加新的银行账号，填写以下信息，点提交。</p>
+<p>![image-20220406234216704](../images/如何注册Amazon Affiliate账号/image-20220406234216704.png)</p>
+<p>回到第一步，这个时候的选项里就有了刚才添加的银行卡信息，选择即可。</p>
+<p>![image-20220406234344445](../images/如何注册Amazon Affiliate账号/image-20220406234344445.png)</p>
+<br/>
+
+<h2 id="05-亚马逊联盟账户封号原因"><a href="#05-亚马逊联盟账户封号原因" class="headerlink" title="05 亚马逊联盟账户封号原因"></a>05 亚马逊联盟账户封号原因</h2><p>这篇文章写的比较详细，可参考：<a href="https://minghao88.com/%e4%ba%9a%e9%a9%ac%e9%80%8a%e8%81%94%e7%9b%9f%e8%a2%ab%e5%b0%81%e5%8f%b7%e7%9a%84%e5%b8%b8%e8%a7%81%e9%97%ae%e9%a2%98%e5%8f%8a%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88/">19个亚马逊联盟被封号的常见问题及解决方案</a></p>
+]]></content>
+      <categories>
+        <category>Affiliate</category>
+      </categories>
+      <tags>
+        <tag>Affiliate</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>如何给网站添加Amazon Affiliate链接？</title>
+    <url>/2022/04/03/%E5%A6%82%E4%BD%95%E7%BB%99%E7%BD%91%E7%AB%99%E6%B7%BB%E5%8A%A0Amazon-Affiliate%E9%93%BE%E6%8E%A5%EF%BC%9F/</url>
+    <content><![CDATA[<p>注册好Amazon Affiliate账号后，下一步就是把追踪ID挂到自己的网站上，这样才能获得佣金收入。</p>
+<p>那么，如何将亚马逊联盟链接添加到我们的网站呢？</p>
+<span id="more"></span>
+
+<br/>
+
+<p>事实上有3种方法：</p>
+<ul>
+<li>从Amazon仪表板添加会员链接。</li>
+<li>使用Amazon工具SiteStrip将链接添加到我们的网站。</li>
+<li>安装WordPress插件</li>
+</ul>
+<br/>
+
+<p>从便捷程度上来说，插件应该是最佳选择。</p>
+<p>具体操作方法可以参考这篇文章：<a href="https://www.unsunl.com/?p=2199">如何添加Amazon Affiliate链接？</a></p>
+]]></content>
+      <categories>
+        <category>Affiliate</category>
+      </categories>
+      <tags>
+        <tag>Affiliate</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>mailchimp邮件订阅栏不显示解决方法</title>
+    <url>/2022/04/13/mailchimp%E9%82%AE%E4%BB%B6%E8%AE%A2%E9%98%85%E6%A0%8F%E4%B8%8D%E6%98%BE%E7%A4%BA%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</url>
+    <content><![CDATA[<p>网站完工率80%以上了，但是放在footer栏的邮件订阅框一直不显示。</p>
+<p>这个邮件订阅功能是shoptimizer自带的，采用mailchimp插件实现。</p>
+<span id="more"></span>
+
+<img src="../images/mailchimp邮件订阅栏不显示解决方法/image-20220413164534368.png" alt="image-20220413164534368" style="zoom:80%;" />
+
+<br/>
+
+<p>这是怎么回事？</p>
+<p>该怎样解决呢？</p>
+<br/>
+
+<p>于是我在shoptimizer的操作文档中找到Newsletter sign up form的介绍</p>
+<img src="../images/mailchimp邮件订阅栏不显示解决方法/image-20220413170430716.png" alt="image-20220413170430716" style="zoom:80%;" />
+
+<br/>
+
+<p>解决路径就清晰了。</p>
+<p>第一步，注册mailchimp账号，连接自己的网站。</p>
+<p>mailchimp的注册方法和设置可以参考以下：</p>
+<p><a href="https://www.guxiaobei.com/mailchimp-operation-instruction-manual.html">[图解版！MailChimp操作全方位指导手册]</a></p>
+<p>第二步，下载MC4WP插件，填入mailchimp的API Key连接</p>
+<img src="../images/mailchimp邮件订阅栏不显示解决方法/image-20220413165654784.png" alt="image-20220413165654784" style="zoom:80%;" />
+
+<p>第三步，在MC4WP–Form获取表单样式的短代码</p>
+<img src="../images/mailchimp邮件订阅栏不显示解决方法/image-20220413171750355.png" alt="image-20220413171750355" style="zoom:80%;" />
+
+<p>第四步，在Appearance–Widgets–Footer–Sbuscribe下的文本框中黏贴上一步复制的shortcode并保存。</p>
+<img src="../images/mailchimp邮件订阅栏不显示解决方法/image-20220413172004280.png" alt="image-20220413172004280" style="zoom:80%;" />
+
+<p>当然，还可以在shortcode上加入你想要显示的文本。</p>
+<br/>
+
+<p>刷新页面看看效果。</p>
+<img src="../images/mailchimp邮件订阅栏不显示解决方法/image-20220413172120205.png" alt="image-20220413172120205" style="zoom:80%;" />
+
+<p>还可以。</p>
+<p>问题解决。</p>
+]]></content>
+      <categories>
+        <category>建站</category>
+      </categories>
+      <tags>
+        <tag>shoptimizer, mailchimp</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>wordpress面板不显示</title>
+    <url>/2022/03/01/wordpress%E9%9D%A2%E6%9D%BF%E4%B8%8D%E6%98%BE%E7%A4%BA%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</url>
+    <content><![CDATA[<p> 今天用<a href="http://www.mydomainname.com/wp-admin%E7%99%BB%E9%99%86%E7%BD%91%E7%AB%99%E5%90%8E%E5%8F%B0%E6%97%B6%EF%BC%8Cwordpress%E9%9D%A2%E6%9D%BF%E5%B1%85%E7%84%B6%E4%B8%8D%E6%98%BE%E7%A4%BA%E3%80%82">www.mydomainname.com/wp-admin登陆网站后台时，wordpress面板居然不显示。</a></p>
+<span id="more"></span>
+
+<p><img src="../images/wordpress%E9%9D%A2%E6%9D%BF%E4%B8%8D%E6%98%BE%E7%A4%BA/image-20220301182250821.png" alt="image-20220301182250821"></p>
+<p>折腾了足足半天，Google来来回回，才终于搞定。</p>
+<br/>
+
+<p>问题的解决依赖于一篇博文：<a href="https://themeisle.com/blog/cant-access-wp-admin/#error">Can’t access WP-Admin? 9 solutions that always work</a></p>
+<p>有时间真应该把它翻译成中文，写的真的非常全面。</p>
+<br/>
+
+<p>首先，列举了该问题的所有可能原因：</p>
+<p><img src="../images/wordpress%E9%9D%A2%E6%9D%BF%E4%B8%8D%E6%98%BE%E7%A4%BA/image-20220301224856525.png" alt="image-20220301224856525"></p>
+<p>经过反复逐项的排查，最终我发现在public_html——wp下居然缺失了wp-login.php文件，可能是插件误删了。</p>
+<p>如何去补全这个文件其实也简单，直接在wordpress.org官网下载最新版本的wordpress，然后解压，从中复制wp-login.php文件，通过FTP上传到wp目录下即可。</p>
+<p>网站登陆就完全没有问题了。</p>
+<br/>
+
+<p>补充：</p>
+<p>（1）通过登陆主机phpadmin——wp_options, 可以看到wordpress URL和home URL，两者存在区别；</p>
+<p>（2）通过主机file manager进入，不显示.htaccess文件，必须通过FTP方式登陆才显示，很可能是flaunt7给隐藏了；</p>
+]]></content>
+      <categories>
+        <category>建站</category>
+      </categories>
+      <tags>
+        <tag>建站</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>如何注册Amazon Affiliate账号</title>
+    <url>/2022/02/02/%E4%BA%9A%E9%A9%AC%E9%80%8A%E8%81%94%E7%9B%9F%E4%BD%A3%E9%87%91/</url>
+    <content><![CDATA[<p>亚马逊联盟计划的佣金比例是多少？</p>
+<p>怎样注册亚马逊联盟账号？</p>
+<p>亚马逊联盟账号封号原因</p>
+<span id="more"></span>
+
+<h2 id="01-Amazon-Affiliate佣金比例"><a href="#01-Amazon-Affiliate佣金比例" class="headerlink" title="01 Amazon Affiliate佣金比例"></a>01 Amazon Affiliate佣金比例</h2><img src="../images/亚马逊联盟佣金/image-20220202233121699.png" alt="image-20220202233121699" style="zoom:80%;" />
+
+<br/>
+
+<h2 id="02-怎样注册亚马逊联盟账号"><a href="#02-怎样注册亚马逊联盟账号" class="headerlink" title="02 怎样注册亚马逊联盟账号"></a>02 怎样注册亚马逊联盟账号</h2><p>网上教程还是不少的，可以参考一下顾小北的博客文章：<a href="https://www.guxiaobei.com/how-to-register-amazon-affiliate-and-play-well.html">手把手教你如何注册亚马逊Affiliate以及它的玩法</a></p>
+<p>还有不小不大的文章: <a href="https://www.unsunl.com/?p=1922">小朋友，你是否知道如何注册亚马逊联盟？</a></p>
+<p>和上面文章中不同的是，我并没有需要验证，直接就开通了账号</p>
+<p><img src="../images/%E4%BA%9A%E9%A9%AC%E9%80%8A%E8%81%94%E7%9B%9F%E4%BD%A3%E9%87%91/image-20220403013718362.png" alt="image-20220403013718362"></p>
+<br/>
+
+<p>由于我的亚马逊账号名字及地址都是虚拟的，不知道以后会不会带来什么风险。</p>
+<p>收款方式在注册当中并没有选择，还需要等P卡办妥之后更换为银行卡收款方式。</p>
+<p>另外值得注意的是：180天内没有3个订单账号会被回收吧。</p>
+<br/>
+
+<h2 id="03-亚马逊联盟账户封号"><a href="#03-亚马逊联盟账户封号" class="headerlink" title="03 亚马逊联盟账户封号"></a>03 亚马逊联盟账户封号</h2><p>这篇文章写的比较详细，可参考：<a href="https://minghao88.com/%e4%ba%9a%e9%a9%ac%e9%80%8a%e8%81%94%e7%9b%9f%e8%a2%ab%e5%b0%81%e5%8f%b7%e7%9a%84%e5%b8%b8%e8%a7%81%e9%97%ae%e9%a2%98%e5%8f%8a%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88/">19个亚马逊联盟被封号的常见问题及解决方案</a></p>
+]]></content>
+      <categories>
+        <category>Affiliate</category>
+      </categories>
+      <tags>
+        <tag>Affiliate</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>怎样更改mailchimp订阅邮件发件箱和联系邮箱地址？</title>
+    <url>/2022/04/13/%E6%80%8E%E6%A0%B7%E6%9B%B4%E6%94%B9mailchimp%E8%AE%A2%E9%98%85%E9%82%AE%E4%BB%B6%E5%8F%91%E4%BB%B6%E7%AE%B1%E5%92%8C%E8%81%94%E7%B3%BB%E9%82%AE%E7%AE%B1%E5%9C%B0%E5%9D%80%EF%BC%9F/</url>
+    <content><![CDATA[<p>设置好mailchimp后，我尝试加了一个订阅，但是发现订阅者收到的确认邮件发件人和联系人邮箱地址都是私人邮箱地址，非常不专业而且暴露了自己的个人隐私。</p>
+<p>尝试了很多方法，终于找到了修改方法。</p>
+<span id="more"></span>
+
+<br/>
+
+<p>未修改前用户收到的邮件是这样的：</p>
+<img src="../images/怎样更改mailchimp订阅邮件发件箱和联系邮箱地址？/image-20220413235916994.png" alt="image-20220413235916994" style="zoom:67%;" />
+
+<br/>
+
+<p>这是修改后的效果：</p>
+<img src="../images/怎样更改mailchimp订阅邮件发件箱和联系邮箱地址？/image-20220414000029288.png" alt="image-20220414000029288" style="zoom:67%;" />
+
+<p>全部将私人邮箱替换成了域名邮箱。</p>
+<br/>
+
+<h2 id="01-如何修改联系邮箱"><a href="#01-如何修改联系邮箱" class="headerlink" title="01 如何修改联系邮箱"></a>01 如何修改联系邮箱</h2><p>点击右下角mailchimp账户图标，找到account</p>
+<img src="../images/怎样更改mailchimp订阅邮件发件箱和联系邮箱地址？/image-20220414000429246.png" alt="image-20220414000429246" style="zoom:80%;" />
+
+<p>点击setting–contact information</p>
+<img src="../images/怎样更改mailchimp订阅邮件发件箱和联系邮箱地址？/image-20220414000536172.png" alt="image-20220414000536172" style="zoom:80%;" />
+
+<p>修改Audience in this account, 将邮箱改掉即可</p>
+<img src="../images/怎样更改mailchimp订阅邮件发件箱和联系邮箱地址？/image-20220414000644236.png" alt="image-20220414000644236" style="zoom:80%;" />
+
+<h2 id="02-怎样修改发件箱"><a href="#02-怎样修改发件箱" class="headerlink" title="02 怎样修改发件箱"></a>02 怎样修改发件箱</h2><p>找到Audience–setting–Audience name and defaults</p>
+<img src="../images/怎样更改mailchimp订阅邮件发件箱和联系邮箱地址？/image-20220414000910202.png" alt="image-20220414000910202" style="zoom:80%;" />
+
+<p>找到Campaign defaults, 修改默认邮箱地址即可。</p>
+<img src="../images/怎样更改mailchimp订阅邮件发件箱和联系邮箱地址？/image-20220414001052788.png" alt="image-20220414001052788" style="zoom:80%;" />
+
+<p>改掉之后的发件箱需要重新做一个验证，mailchimp会发一个确认邮件，到该发件箱查看并且确认即可，很简单。</p>
+<p>搞定~~</p>
+]]></content>
+      <categories>
+        <category>邮件营销</category>
+      </categories>
+      <tags>
+        <tag>mailchimp</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>手机戒断计划</title>
+    <url>/2022/05/05/%E6%89%8B%E6%9C%BA%E6%88%92%E6%96%AD%E8%AE%A1%E5%88%92/</url>
+    <content><![CDATA[<p>手机的过度使用已经是弊大于利，至少于我而言是这样。每天刷知乎，视频这种信息流随随便便就是三四个小时。耗费时间不说，获取的碎片化信息其实都是无效用的，其次最大的危害是无法专注，而这是我下定决心戒断手机的一个重要原因。</p>
+<span id="more"></span>
+
+<p>在手机这种奶头乐越来越泛滥的未来，专注将是一种稀缺的品质。</p>
+<br/>
+
+<p>当然，手机在社交方面有不可替代的作用，完全戒断是不可能的。</p>
+<p><strong>我的戒断计划：</strong></p>
+<p>停止电话，微信，支付等必须功能之外的一切其他娱乐功能，比如电影，特别是信息流。新闻的补充可以通过PC，这样目的性更强耗时更少。</p>
+<br/>
+
+<p><strong>戒断记录从此刻开始：</strong></p>
+<p>2022-5-5</p>
+<ul>
+<li>早上起床习惯性地拿出了手机刷了15分钟；——应该直接起床，或者思考一下今天的工作安排。</li>
+<li>中午做饭等待期间玩了30分钟；——等待时间20分钟以上可以看会儿书。</li>
+<li>全天因为朋友水滴筹的事情看了＞30分钟朋友圈；——5分钟足够，没能力帮助的事情没必要给予太多廉价的同情。</li>
+</ul>
+<br/>
+
+<p>2022-5-6</p>
+<ul>
+<li>早上醒来看了20分钟资讯；——儿子在书房睡觉，没办法提前进入。</li>
+<li>中午做饭间隙玩了10分钟；——无影响，无更好的替代事务。</li>
+<li>午休前浏览了15分钟信息；——应该直接睡觉。</li>
+<li>晚上洗澡后等儿子玩了15分钟；——应该去陪儿子玩15分钟更好。</li>
+</ul>
+<br/>
+
+
+
+]]></content>
+      <categories>
+        <category>其他</category>
+      </categories>
+      <tags>
+        <tag>计划</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>网站提速方法</title>
+    <url>/2022/04/25/%E7%BD%91%E7%AB%99%E6%8F%90%E9%80%9F%E6%96%B9%E6%B3%95/</url>
+    <content><![CDATA[<p>网站断断续续搞了4个月，到今天基本收工。</p>
+<p>下一步就是提升网站访问速度。</p>
+<span id="more"></span>
+
+<br/>
+
+<h2 id="01-先测试一下网站优化前的速度"><a href="#01-先测试一下网站优化前的速度" class="headerlink" title="01 先测试一下网站优化前的速度"></a>01 先测试一下网站优化前的速度</h2><p>测试网站的工具网站很多，直接Google搜索“website speed test”，主要用的有几个：</p>
+<p><a href="https://gtmetrix.com/">https://gtmetrix.com/</a></p>
+<p><a href="https://pagespeed.web.dev/">https://pagespeed.web.dev/</a></p>
+<p><a href="https://tools.pingdom.com/">https://tools.pingdom.com/</a></p>
+<br/>
+
+<ul>
+<li>不要盲目相信测试分数，一切以网站实际体验为依据；即使分数低只要浏览体验没问题也无须过度优化；</li>
+<li>不同工具测试分数可能差别很大；</li>
+</ul>
+<img src="../images/网站提速方法/image-20220425163221257.png" alt="image-20220425163221257" style="zoom:50%;" />
+
+<img src="../images/网站提速方法/image-20220425163753227.png" alt="image-20220425163753227" style="zoom:30%;" />
+
+<p><img src="../images/网站提速方法/image-20220426114843548.png" alt="image-20220426114843548" style="zoom:40%;" /><img src="../images/网站提速方法/image-20220426115417831.png" alt="image-20220426115417831" style="zoom:40%;" /></p>
+<br/>
+
+<br/>
+
+<h2 id="02-网站加载速度慢的原因"><a href="#02-网站加载速度慢的原因" class="headerlink" title="02 网站加载速度慢的原因"></a>02 网站加载速度慢的原因</h2><p>从以上的测试来看速度很慢，测试工具也给出了一些原因，主要有以下：</p>
+<p><strong>（1）服务器响应慢；</strong></p>
+<p>这个是可以预料到的，换主机太麻烦了，考虑用DNS解决；</p>
+<p><strong>（2）首页图片体积太大；</strong></p>
+<p>转换格式，将PNG转成WEB；</p>
+<p><strong>（3）图片没有设置延迟加载；</strong></p>
+<p>可以使用lazy load功能的插件；</p>
+<br/>
+
+<br/>
+
+<h2 id="03-网站速度优化项"><a href="#03-网站速度优化项" class="headerlink" title="03 网站速度优化项"></a>03 网站速度优化项</h2><p>速度优化可以从下面几个步骤开始：</p>
+<img src="../images/网站提速方法/image-20220506112740665.png" alt="image-20220506112740665" style="zoom:50%;" />
+
+<p>有一个工具可以很好的判断网站是否有启用gzip压缩功能，<a href="https://www.giftofspeed.com/gzip-test/">https://www.giftofspeed.com/gzip-test/</a></p>
+<img src="../images/网站提速方法/image-20220506122857088.png" alt="image-20220506122857088" style="zoom:50%;" />
+
+<p>可以看到，cloudfare为网站提供了压缩功能，虽然用的主机不是它，真的良心。免费都能这么好。</p>
+<br/>
+
+<br/>
+
+<h2 id="04-加载速度优化步骤"><a href="#04-加载速度优化步骤" class="headerlink" title="04 加载速度优化步骤"></a>04 加载速度优化步骤</h2><p>优化之前，还是先决定对整个网站做个备份。</p>
+<p>这一步挺重要的。</p>
+<p>网站出现意外情况，随时恢复到优化前。</p>
+<br/>
+
+<p>首先，考虑到还没有安装优化插件，所以第一步先打算用插件把能优化的都做了，因为插件集成了很多功能，没必要自己一项一项去单独优化，最后造成插件冗余。</p>
+<p>加速优化插件的选择很多，常见的有LiteSpeed Cache, Autoptimize, WP Rocket, Rank math等等。在shoptimizer的说明文档中，它推荐的是autoptimize，所以就用这个好了。</p>
+<p>autoptimize设置按照shoptimizer的文档中建议就好：<a href="https://www.commercegurus.com/docs/shoptimizer-theme/speed-tips/#">https://www.commercegurus.com/docs/shoptimizer-theme/speed-tips/#</a></p>
+<img src="../images/网站提速方法/image-20220426163905078.png" alt="image-20220426163905078" style="zoom:50%;" />
+
+<p>看起来还是有点效果。</p>
+<br/>
+
+<p>由于服务器和目标市场不在一个国家，所以服务器在当地的响应速度肯定不是最快的，我能想到的就是用CDN缓存。目前来说，免费的又最好用的莫过于cloudfare.</p>
+<p>couldfare的注册和使用是很简单的。具体可以参考以下：</p>
+<p><a href="https://www.wppop.com/cloudflare-cdn-wordpress.html">开通CloudFlare CDN加速教程</a></p>
+<p><a href="https://themeisle.com/blog/cloudflare-for-wordpress-tutorial/">How to set up cloudfare for wordpress</a></p>
+<p><a href="https://www.hostinger.com/tutorials/how-to-setup-cloudflare-for-wordpress">How to Set Up Cloudflare CDN for WordPress Blog</a></p>
+<p>很遗憾，cloudfare设置好以后，网站页面加载不正常，图片不显示或者排版错乱，完全无法浏览。</p>
+<img src="../images/网站提速方法/image-20220427144623859.png" alt="image-20220427144623859" style="zoom:50%;" />
+
+<p>什么原因呢？</p>
+<br/>
+
+<p>自建站就是这样，你永远不知道哪一步会出问题。</p>
+<ul>
+<li><p>先是在网上找到了类似的解决方案，安装FlexibleSSL for cloudfare插件，没有效果；</p>
+</li>
+<li><p>然后将cloudfare设置成开发者模式，绕过缓存，仍然没有效果；</p>
+</li>
+<li><p>按照故障排除指导暂停cloudfare，暂停roket load，没有效果；</p>
+<p><img src="../images/%E7%BD%91%E7%AB%99%E6%8F%90%E9%80%9F%E6%96%B9%E6%B3%95/image-20220427161539217.png" alt="image-20220427161539217"></p>
+</li>
+</ul>
+<br/>
+
+<p>没办法，只能祭出恢复备份的终极大招了。</p>
+<p>这就是自建站需要随时备份的重要性了。</p>
+<br/>
+
+<p>恢复备份，账号正常了。</p>
+<p>但是之前的优化也归零。</p>
+<br/>
+
+<p>安装Jetpack后，使用image lazy load功能后，测试结果如下：</p>
+<img src="../images/网站提速方法/image-20220427180218426.png" alt="image-20220427180218426" style="zoom:67%;" />
+
+<p>重新安装cloudfare之后，测试结果如下;</p>
+<p><img src="../images/%E7%BD%91%E7%AB%99%E6%8F%90%E9%80%9F%E6%96%B9%E6%B3%95/image-20220427230155470.png" alt="image-20220427230155470"></p>
+<p>分数貌似还行，而且网站加载目前是正常的。</p>
+<br/>
+
+<p>另外，由于autoptimizer压缩文件对网站排版出现了问题，改用WP Rocket插件，配置方法如下：</p>
+<p><a href="https://www.pythonthree.com/wordpress-plugins-wp-rocket-tutorial/">2022（图文）WP Rocket插件配置教程</a></p>
+<p>设置过程中发现不能勾选压缩HTML，否则轮播图会显示空白。</p>
+<img src="../images/网站提速方法/image-20220504150715284.png" alt="image-20220504150715284" style="zoom:50%;" />
+
+<p>PC端的优化到此结束。</p>
+<img src="../images/网站提速方法/image-20220504151133282.png" alt="image-20220504151133282" style="zoom:67%;" />
+
+<br/>
+
+<p>另外，在网站优化过程中，有一些好的文章我觉得还是不错的：</p>
+<p><a href="https://wpjian.com/tips/2020012329896.html">Google PageSpeed见解：评分100/100的真相</a></p>
+<p>下一步是移动端优化和自适应调整。</p>
+]]></content>
+      <categories>
+        <category>网站建设</category>
+      </categories>
+      <tags>
+        <tag>网站提速</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>网站移动端优化</title>
+    <url>/2022/05/04/%E7%BD%91%E7%AB%99%E7%A7%BB%E5%8A%A8%E7%AB%AF%E4%BC%98%E5%8C%96/</url>
+    <content><![CDATA[<p>网站在经过PC端的优化后，加载速度已经达到一个可接受的水平。但是PageSpeed Insight的测试分数来看，移动端非常低。我自己用手机浏览了一下，体验确实糟糕。</p>
+<p>然而，从用户的浏览习惯来看，未来将更多地往移动端迁移，因此移动端的优化和自适应是网站优化必不可少的一步。</p>
+<span id="more"></span>
+
+<br/>
+
+<h2 id="01-移动端和PC端的速度差异"><a href="#01-移动端和PC端的速度差异" class="headerlink" title="01 移动端和PC端的速度差异"></a>01 移动端和PC端的速度差异</h2><p>以下是PageSpeed Insight 的移动端测试结果，反复测试了几次，大体差不多：</p>
+<img src="../images/网站移动端优化/image-20220506104117765.png" alt="image-20220506104117765" style="zoom:50%;" />
+
+<p>PC端的测试分数还可以：</p>
+<img src="../images/网站移动端优化/image-20220506104304663.png" alt="image-20220506104304663" style="zoom:50%;" />
+
+<p>网站主题选用的是shoptimizer，按道理来说移动端自适应是可以的，为什么差异如此巨大呢？</p>
+<br/>
+
+<h2 id="02-移动端速度缓慢原因"><a href="#02-移动端速度缓慢原因" class="headerlink" title="02 移动端速度缓慢原因"></a>02 移动端速度缓慢原因</h2><p>PageSpeed Insight给出了问题以及优化建议：</p>
+<img src="../images/网站移动端优化/image-20220506104631767.png" alt="image-20220506104631767" style="zoom:50%;" />
+
+<p>奇怪的是，这些问题在之前PC端的优化也遇到了，经过CDN加速，图片处理以及代码压缩得到了解决。难道这些解决方案在移动端没有效果吗？还要单独优化？</p>
+]]></content>
+      <categories>
+        <category>建站</category>
+      </categories>
+      <tags>
+        <tag>网站优化</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>如何创建并提交XML网站地图</title>
+    <url>/2022/05/06/%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E5%B9%B6%E6%8F%90%E4%BA%A4XML%E7%BD%91%E7%AB%99%E5%9C%B0%E5%9B%BE/</url>
+    <content><![CDATA[<p>没被收录的网站没有任何意义，因此在建站后或者更新站点内容后我们需要Google尽快收录索引。生成XML地图并且提交到Google是一种主动促进收录的方式，但是这种方式实际效果有多大是存疑的。Google更喜欢自己去爬取收录。不管怎样，做点什么总好过什么也不做。</p>
+<span id="more"></span>
+
+<br/>
+
+<h2 id="01-怎样生成站点地图"><a href="#01-怎样生成站点地图" class="headerlink" title="01 怎样生成站点地图"></a>01 怎样生成站点地图</h2><p>Google搜索“sitemap generator”会有很多工具，但是这些工具不一定可靠。对于小白来说，最简单可靠的方式是利用SEO插件来生成。例如Rank Math, Yoast等等。</p>
+<p>了解具体信息可以参考这篇文章：<a href="https://ahrefs.com/blog/zh/how-to-create-a-sitemap/">如何创建 XML 网站地图 (并向 Google 提交)</a></p>
+<br/>
+
+<br/>
+
+<h2 id="02-怎样提交sitemap"><a href="#02-怎样提交sitemap" class="headerlink" title="02 怎样提交sitemap"></a>02 怎样提交sitemap</h2><p>了解具体信息可以参考这篇文章：<a href="https://ahrefs.com/blog/zh/how-to-create-a-sitemap/">如何创建 XML 网站地图 (并向 Google 提交)</a></p>
+<p>但是在提交站点地图时需要先有一个Google search console账号，并且添加网站并验证。</p>
+<br/>
+
+<br/>
+
+<h2 id="03-Google-search-console验证网站所有权"><a href="#03-Google-search-console验证网站所有权" class="headerlink" title="03 Google search console验证网站所有权"></a>03 Google search console验证网站所有权</h2><p>详情可参考这篇文章：</p>
+<p><a href="https://hrefgo.com/blog/google-search-console-guide">什么是谷歌站长工具(Google Search Console)：SEO教程</a></p>
+<p><a href="https://www.pythonthree.com/google-search-console-tutorial/">(2022）Google站长工具教程- Google search console使用教程</a></p>
+<p><a href="https://www.pythonthree.com/how-to-verify-permissions-for-the-site-with-google-search-console/">（图文）Google search console验证网站所有权</a></p>
+]]></content>
+      <categories>
+        <category>网站优化</category>
+      </categories>
+      <tags>
+        <tag>网站地图</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>网站SEO清单与诊断</title>
+    <url>/2022/05/06/%E7%BD%91%E7%AB%99SEO%E6%B8%85%E5%8D%95%E4%B8%8E%E8%AF%8A%E6%96%AD/</url>
+    <content><![CDATA[<p>网站优化对于搜索引擎排名的重要性不言而喻，同时SEO又是一项系统性的工作，涉及的项目很多。如果去从单点优化，想到什么做什么，那么很容易忽略掉真正重要的事情，也会带来很多遗漏。</p>
+<p>在开始网站优化之前，很有必要准备一份优化清单，逐项检查开展。</p>
+<span id="more"></span>
+
+<br/>
+
+<h2 id="01-优化检查工具"><a href="#01-优化检查工具" class="headerlink" title="01 优化检查工具"></a>01 优化检查工具</h2><p>今天发现一款工具，可以自动检测网站需要从哪些方面去优化，而且免费，<a href="https://sitechecker.pro/">https://sitechecker.pro/</a></p>
+<img src="../images/网站SEO清单与诊断/image-20220506112201993.png" alt="image-20220506112201993" style="zoom:50%;" />
+
+<p>随便拿一个网站测试了一下，看上去是那么回事。</p>
+<br/>
+
+<h2 id="02-优化项目清单"><a href="#02-优化项目清单" class="headerlink" title="02 优化项目清单"></a>02 优化项目清单</h2>]]></content>
+      <categories>
+        <category>网站优化</category>
+      </categories>
+      <tags>
+        <tag>seo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>wordpress网站基础问题收录</title>
+    <url>/2022/05/06/wordpress%E7%BD%91%E7%AB%99%E5%9F%BA%E7%A1%80%E9%97%AE%E9%A2%98%E6%94%B6%E5%BD%95/</url>
+    <content><![CDATA[<p>wordpress建站过程中会发生非常多意想不到的问题，现将出现频率较高的问题汇总如下：</p>
+<p>（更新于2022-5-6）</p>
+<span id="more"></span>
+
+<br/>
+
+<h2 id="01-主机相关问题"><a href="#01-主机相关问题" class="headerlink" title="01 主机相关问题"></a>01 主机相关问题</h2><h3 id="（1）怎样快速找到网站根目录？"><a href="#（1）怎样快速找到网站根目录？" class="headerlink" title="（1）怎样快速找到网站根目录？"></a><strong>（1）怎样快速找到网站根目录？</strong></h3><p>①. 要找到您的网站根目录，请使用FTP程序连接到您的Web托管帐户。完成此操作后，查找名为“ public_html ”或“ www ” 的文件夹。如果找到其中一个，那么您已经找到了网站根目录。根据我们的经验，大约70％的Web主机的根目录命名为“ public_html ”或“www ” 的文件夹。双击该文件夹，您应该可以将文件和文件夹上传到您的Web根目录中。</p>
+<p>②. 没有“ public_html”或“ www”文件夹？</p>
+<p>如果您没有“ public_html”或“ www”文件夹，请不要担心。Web主机指定Web根文件夹的第二种最常见方法是使用文件夹名称“ httpdocs ”（不是 httpsdocs）。</p>
+<p>③. Web根文件夹名称的其他可能性是“ html”，“ public”或“ web”。</p>
+<p>或者，您可能有一个文件夹，该文件夹是您的域的名称，而该文件夹就是该域的Web根文件夹。例如，您可能有一个名为“ <a href="http://www.yourdomain.com/">www.yourdomain.com</a> ”的文件夹。</p>
+<p>如果没有，则在首次建立FTP连接时连接的文件夹实际上可能是您的网站根目录。在某些情况下是这样。您可以尝试使用该主文件夹作为您的网站根目录，并查看它是否有效。<br>————————————————<br>版权声明：本文为CSDN博主「MAY的SEO博客」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。<br>原文链接：<a href="https://blog.csdn.net/Almayli/article/details/108377468">https://blog.csdn.net/Almayli/article/details/108377468</a></p>
+<br/>
+
+]]></content>
+      <categories>
+        <category>建站</category>
+      </categories>
+      <tags>
+        <tag>wordpress</tag>
+      </tags>
+  </entry>
+</search>

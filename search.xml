@@ -1489,7 +1489,36 @@
 </ul>
 <br/>
 
+<p>2022-5-7</p>
+<ul>
+<li>晚上看了2集电视剧；——应该早睡。</li>
+</ul>
+<br/>
 
+<p>2022-5-8</p>
+<ul>
+<li>周末，看了3集电视剧；——无影响。</li>
+</ul>
+<br/>
+
+<p>2022-5-9</p>
+<ul>
+<li>工作期间刷了15分钟雪球；——不应该。</li>
+</ul>
+<br/>
+
+<p>2022-5-10</p>
+<ul>
+<li>晚上临睡前浏览了20分钟；——不应该</li>
+</ul>
+<br/>
+
+<p>2022-5-11</p>
+<ul>
+<li>起床后浏览了20分钟；——不应该</li>
+<li>下午工作间隙浏览了10分钟；——不应该</li>
+</ul>
+<br/>
 
 ]]></content>
       <categories>
@@ -1671,11 +1700,6 @@
 <br/>
 
 <br/>
-
-<h2 id="03-Google-search-console验证网站所有权"><a href="#03-Google-search-console验证网站所有权" class="headerlink" title="03 Google search console验证网站所有权"></a>03 Google search console验证网站所有权</h2><p>详情可参考这篇文章：</p>
-<p><a href="https://hrefgo.com/blog/google-search-console-guide">什么是谷歌站长工具(Google Search Console)：SEO教程</a></p>
-<p><a href="https://www.pythonthree.com/google-search-console-tutorial/">(2022）Google站长工具教程- Google search console使用教程</a></p>
-<p><a href="https://www.pythonthree.com/how-to-verify-permissions-for-the-site-with-google-search-console/">（图文）Google search console验证网站所有权</a></p>
 ]]></content>
       <categories>
         <category>网站优化</category>
@@ -1693,13 +1717,87 @@
 
 <br/>
 
-<h2 id="01-优化检查工具"><a href="#01-优化检查工具" class="headerlink" title="01 优化检查工具"></a>01 优化检查工具</h2><p>今天发现一款工具，可以自动检测网站需要从哪些方面去优化，而且免费，<a href="https://sitechecker.pro/">https://sitechecker.pro/</a></p>
+<h2 id="01-SEO诊断工具"><a href="#01-SEO诊断工具" class="headerlink" title="01 SEO诊断工具"></a>01 SEO诊断工具</h2><p>Rank Math可以一键诊断网页seo的情况，并且给出相应的评分。当然，除了Rank Math外，还有不少的工具。</p>
+<img src="../images/网站SEO清单与诊断/image-20220508104157273.png" alt="image-20220508104157273" style="zoom:50%;" />
+
+<p>这个网站可以自动检测网站需要从哪些方面去优化，<a href="https://sitechecker.pro/">https://sitechecker.pro/</a></p>
 <img src="../images/网站SEO清单与诊断/image-20220506112201993.png" alt="image-20220506112201993" style="zoom:50%;" />
 
-<p>随便拿一个网站测试了一下，看上去是那么回事。</p>
 <br/>
 
-<h2 id="02-优化项目清单"><a href="#02-优化项目清单" class="headerlink" title="02 优化项目清单"></a>02 优化项目清单</h2>]]></content>
+<h2 id="02-网页SEO清单"><a href="#02-网页SEO清单" class="headerlink" title="02 网页SEO清单"></a>02 网页SEO清单</h2><p>这是Rank Math的诊断优化建议：</p>
+<p><img src="../images/网站SEO清单与诊断/image-20220508104503821.png" alt="image-20220508104503821" style="zoom:50%;" /><img src="../images/网站SEO清单与诊断/image-20220508104535456.png" alt="image-20220508104535456" style="zoom:50%;" /></p>
+<p>主要包含了以下项目：</p>
+<ul>
+<li><h3 id="keywords"><a href="#keywords" class="headerlink" title="keywords"></a>keywords</h3></li>
+</ul>
+<p>关于keywords，<a href="https://backlinko.com/keyword-research">The Definitive Guide (2022)</a></p>
+<p>简要总结：</p>
+<p>（1）怎样找关键词？</p>
+<p>（2）怎样选择关键词？</p>
+<p>（3）常用的关键词工具？</p>
+<p>（4）关键词调研技巧</p>
+<br/>
+
+<ul>
+<li><h3 id="meta-description"><a href="#meta-description" class="headerlink" title="meta description"></a>meta description</h3></li>
+</ul>
+<p>关于meta description：<a href="https://yoast.com/meta-descriptions/">How to create the right meta description</a></p>
+<p>简要总结：</p>
+<p>（1）元描述是对整个页面的概述；</p>
+<p>（2）Google可能会在搜索结果中显示元描述，从而起到增加点击率的作用。但是没有直接证据证明元描述对排名有积极作用，Google也不一定会展示meta description.</p>
+<p>（3）怎样写好一个meta description？</p>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> 保持155个字符以内，120-156最佳；</li>
+<li><input checked="" disabled="" type="checkbox"> 直接清晰真实地描述页面内容，站在用户角度想他们最想知道什么；</li>
+<li><input checked="" disabled="" type="checkbox"> 插入核心关键词（如果用户搜索词相同，Google会加粗显示）；</li>
+<li><input checked="" disabled="" type="checkbox"> 产品页的元描述可以增加类似于厂商，规格，型号，功效等描述；</li>
+<li><input checked="" disabled="" type="checkbox"> 禁止使用相同的元描述，这样可能会被认为页面内容重复；</li>
+<li><input checked="" disabled="" type="checkbox"> 如果页面太多，可以只写关键页面的meta description；</li>
+</ul>
+<p>（5）社交分享时有可能展示meta description；</p>
+<br/>
+
+<ul>
+<li><h3 id="H1"><a href="#H1" class="headerlink" title="H1"></a>H1</h3></li>
+</ul>
+<br/>
+
+<ul>
+<li><h3 id="H2"><a href="#H2" class="headerlink" title="H2"></a>H2</h3></li>
+</ul>
+<br/>
+
+<ul>
+<li><h3 id="ALT标签"><a href="#ALT标签" class="headerlink" title="ALT标签"></a>ALT标签</h3></li>
+</ul>
+<br/>
+
+<ul>
+<li><h3 id="title"><a href="#title" class="headerlink" title="title"></a>title</h3></li>
+</ul>
+<br/>
+
+<ul>
+<li><h3 id="tagline"><a href="#tagline" class="headerlink" title="tagline"></a>tagline</h3></li>
+</ul>
+<br/>
+
+<ul>
+<li><h3 id="internal-link"><a href="#internal-link" class="headerlink" title="internal link"></a>internal link</h3></li>
+</ul>
+<br/>
+
+<ul>
+<li><h3 id="external-link"><a href="#external-link" class="headerlink" title="external link"></a>external link</h3></li>
+</ul>
+<br/>
+
+<ul>
+<li><h3 id="链接结构"><a href="#链接结构" class="headerlink" title="链接结构"></a>链接结构</h3></li>
+</ul>
+<br/>
+]]></content>
       <categories>
         <category>网站优化</category>
       </categories>
@@ -1730,6 +1828,118 @@
       </categories>
       <tags>
         <tag>wordpress</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Google Search Console验证网站所有权</title>
+    <url>/2022/05/07/Google-Search-Console%E9%AA%8C%E8%AF%81%E7%BD%91%E7%AB%99%E6%89%80%E6%9C%89%E6%9D%83/</url>
+    <content><![CDATA[<p>在注册好Google Search Console账号后，我们需要将自己网站添加进来。</p>
+<p>添加网站之前，需要完成对网站所有权进行验证。</p>
+<span id="more"></span>
+
+<br/>
+
+<p>具体的验证方式可参考以下文章：</p>
+<p><a href="https://hrefgo.com/blog/google-search-console-guide">什么是谷歌站长工具(Google Search Console)：SEO教程</a></p>
+<p><a href="https://www.pythonthree.com/google-search-console-tutorial/">(2022）Google站长工具教程- Google search console使用教程</a></p>
+<p><a href="https://www.pythonthree.com/how-to-verify-permissions-for-the-site-with-google-search-console/">（图文）Google search console验证网站所有权</a></p>
+<br/>
+
+<p>需要指出的是，如果你的网站已经开启了CDN加速，验证需要添加的TXT记录是没有用的，验证无法通过。</p>
+<img src="../images/Google-Search-Console验证网站所有权/image-20220507151730530.png" alt="image-20220507151730530" style="zoom:50%;" />
+
+<p>那该怎么办呢？</p>
+<p>方法很简单，就是到你现在DNS管理服务器下面去添加，而不是最初的域名服务商。</p>
+<p>比如我用了Cloudfare加速，我只需要到我的cloudfare账号的DNS管理界面添加一条TXT记录就可以了。</p>
+<img src="../images/Google-Search-Console验证网站所有权/image-20220507152040891.png" alt="image-20220507152040891" style="zoom:50%;" />
+
+<p>添加成功后，Google search console秒过。</p>
+<img src="../images/Google-Search-Console验证网站所有权/image-20220507152134651.png" alt="image-20220507152134651" style="zoom:50%;" />
+
+]]></content>
+      <categories>
+        <category>网站优化</category>
+      </categories>
+      <tags>
+        <tag>GSC</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Rank Math使用教程</title>
+    <url>/2022/05/07/Rank-Math%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</url>
+    <content><![CDATA[<p>Rank Math是一款常用且功能强大的SEO插件，更重要的是，免费功能足够多，普通小白够用了。</p>
+<p>它的使用相对也很简单，仅需要在安装激活之后做好基础的设置就可以对网站的优化提供不错的建议。</p>
+<span id="more"></span>
+
+<br/>
+
+<p>Rank Math的使用方法可参考这篇文章：</p>
+<p><a href="https://www.guoyuguang.com/rank-math-tutorial/">Rank Math教程 – 2021年WordPress网站优化领域最强大的免费SEO插件</a></p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>rank math</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Learning SEO(1)-SEO免费教程及工具全指南</title>
+    <url>/2022/05/09/Learning-SEO-1-SEO%E5%85%A8%E5%9C%B0%E5%9B%BE/</url>
+    <content><![CDATA[<p>在优联荟的时候顾小北推荐了一个<a href="https://learningseo.io/">学习SEO</a>的网站，确实是一个宝藏网站。基本覆盖从入门到精通的全部流程，而且非常用心的做好了分类整理。可惜网站内容是全英文的，对于不习惯英文阅读的人来说不友好。一直有翻译的想法，希望自己能坚持下去。当然，我不会逐字逐句地翻译，这太费时间了，我的翻译将尽量覆盖全部重点信息。</p>
+<span id="more"></span>
+
+<br/>
+
+<h2 id="Learning-SEO-1-SEO免费教程及工具全指南"><a href="#Learning-SEO-1-SEO免费教程及工具全指南" class="headerlink" title="Learning SEO(1)-SEO免费教程及工具全指南"></a><strong>Learning SEO(1)-SEO免费教程及工具全指南</strong></h2><p>SEO从入门，进阶，到专业级别，包含了关键词规划，链接建设，seo策略等多方面内容。为此我们提供了一份全面系统的学习指南，最难能可贵的是，它是免费的，而且覆盖了教程，资源，工具全部内容。</p>
+<h3 id="SEO学习的全过程路线图"><a href="#SEO学习的全过程路线图" class="headerlink" title="SEO学习的全过程路线图"></a>SEO学习的全过程路线图</h3><p><img src="https://learningseo.io/wp-content/uploads/2022/01/learning-seo-roadmap-guide-scaled.jpg" alt="Learning SEO - Free SEO Roadmap &amp; Guides"></p>
+<p>有了系统的SEO全过程路线图指引，我们还需要对应的可靠的学习资源，网上教程很多，但是质量良莠不齐。我们已经汇总了行业内最可靠的学习指南，检查表单和免费课程。这可以帮你节省大量的时间。</p>
+<p>根据我自己的能力和目标，我重点摘录了以下章节内容：</p>
+<h3 id="SEO基础"><a href="#SEO基础" class="headerlink" title="SEO基础"></a>SEO基础</h3><h3 id="SEO实操"><a href="#SEO实操" class="headerlink" title="SEO实操"></a>SEO实操</h3><h3 id="SEO设置"><a href="#SEO设置" class="headerlink" title="SEO设置"></a>SEO设置</h3><h3 id="SEO拓展"><a href="#SEO拓展" class="headerlink" title="SEO拓展"></a>SEO拓展</h3><h3 id="SEO工具"><a href="#SEO工具" class="headerlink" title="SEO工具"></a>SEO工具</h3><br/>
+
+<p>以下章节的内容将选择性地翻译，有需要的朋友可根据自身情况进一步学习：</p>
+<h3 id="SEO资讯"><a href="#SEO资讯" class="headerlink" title="SEO资讯"></a>SEO资讯</h3><h3 id="SEO代码"><a href="#SEO代码" class="headerlink" title="SEO代码"></a>SEO代码</h3><h3 id="SEO自动化"><a href="#SEO自动化" class="headerlink" title="SEO自动化"></a>SEO自动化</h3><h3 id="SEO精细化"><a href="#SEO精细化" class="headerlink" title="SEO精细化"></a>SEO精细化</h3><h3 id="其他搜索引擎SEO应用"><a href="#其他搜索引擎SEO应用" class="headerlink" title="其他搜索引擎SEO应用"></a>其他搜索引擎SEO应用</h3><br/>
+
+<p>另外，我们制作了一个表格，对免费的学习资源进行了归档，整理，可以帮你更好的学习SEO，<a href="https://docs.google.com/spreadsheets/d/16zgkN6jw35X-6NDsYU1gZMbhxF5Sj0gLqgv9VSPmlT0/copy">点击下载</a>。</p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>LearnigSEO</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>怎样高效地发外链？</title>
+    <url>/2022/05/11/%E6%80%8E%E6%A0%B7%E9%AB%98%E6%95%88%E5%9C%B0%E5%8F%91%E5%A4%96%E9%93%BE%EF%BC%9F/</url>
+    <content><![CDATA[<p>内容和外链，是网站非常重要的两个部分。</p>
+<p>找到外链资源后我们发现，经常需要注册账号，因此，发外链的流程基本就是：注册账号——编辑内容——发布。</p>
+<p>怎样高效地发布外链就非常重要。</p>
+<span id="more"></span>
+
+<br/>
+
+<h2 id="01-注册账号"><a href="#01-注册账号" class="headerlink" title="01 注册账号"></a>01 注册账号</h2><p><strong>即时邮箱</strong></p>
+<p>由于外链发布通常是一次性的，所以用来发布的账号基本就是用完就扔，重复使用自己的私人邮箱，非常容易泄露个人信息，因此我们可以用临时邮箱来注册账号。</p>
+<p>snapmail就是这样一个好工具：<a href="https://www.snapmail.cc/#/addEmailBox">https://www.snapmail.cc/#/addEmailBox</a></p>
+<p>基本实现了随用随扔。</p>
+<br/>
+
+<p><strong>虚拟身份</strong></p>
+<p>如果注册还需要用到比较详细的个人信息，比如地址等等，我们可以使用虚拟身份生成器。</p>
+<p>这个网站也是比较好用的：<a href="https://shenfendaquan.com/">https://shenfendaquan.com/</a></p>
+<br/>
+
+<h2 id="02-编辑内容"><a href="#02-编辑内容" class="headerlink" title="02 编辑内容"></a>02 编辑内容</h2><p>纯粹丢个网址链接是很容易被删的，而且对于seo来说也不好。最好还是发布一段内容，在其中埋入锚文本和链接。但是经常地编辑文本内容也费时间，这个时候我们可以用AI写作工具。例如closerscopy，填入关键词，自动生成一段内容，再在其中关键词上插入自己的网址链接就可以了。</p>
+<br/>
+
+<p>以上。</p>
+]]></content>
+      <categories>
+        <category>seo</category>
+      </categories>
+      <tags>
+        <tag>外链建设</tag>
       </tags>
   </entry>
 </search>

@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.4.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/font-awesome.min.css">
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"example.com","root":"/","scheme":"Muse","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
+  </script>
+
+  <meta name="description" content="网站优化对于搜索引擎排名的重要性不言而喻，同时SEO又是一项系统性的工作，涉及的项目很多。如果去从单点优化，想到什么做什么，那么很容易忽略掉真正重要的事情，也会带来很多遗漏。 在开始网站优化之前，很有必要准备一份优化清单，逐项检查开展。">
+<meta property="og:type" content="article">
+<meta property="og:title" content="网站SEO清单与诊断">
+<meta property="og:url" content="http://example.com/2022/05/06/%E5%AE%9E%E6%93%8D%E9%97%AE%E9%A2%98%E7%AC%94%E8%AE%B0/%E7%BD%91%E7%AB%99SEO%E6%B8%85%E5%8D%95%E4%B8%8E%E8%AF%8A%E6%96%AD/index.html">
+<meta property="og:site_name" content="跨境SOHO实战记录">
+<meta property="og:description" content="网站优化对于搜索引擎排名的重要性不言而喻，同时SEO又是一项系统性的工作，涉及的项目很多。如果去从单点优化，想到什么做什么，那么很容易忽略掉真正重要的事情，也会带来很多遗漏。 在开始网站优化之前，很有必要准备一份优化清单，逐项检查开展。">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="http://example.com/2022/05/06/%E5%AE%9E%E6%93%8D%E9%97%AE%E9%A2%98%E7%AC%94%E8%AE%B0/images/网站SEO清单与诊断/image-20220508104157273.png">
+<meta property="og:image" content="http://example.com/2022/05/06/%E5%AE%9E%E6%93%8D%E9%97%AE%E9%A2%98%E7%AC%94%E8%AE%B0/images/网站SEO清单与诊断/image-20220506112201993.png">
+<meta property="og:image" content="http://example.com/2022/05/06/%E5%AE%9E%E6%93%8D%E9%97%AE%E9%A2%98%E7%AC%94%E8%AE%B0/images/网站SEO清单与诊断/image-20220508104503821.png">
+<meta property="og:image" content="http://example.com/2022/05/06/%E5%AE%9E%E6%93%8D%E9%97%AE%E9%A2%98%E7%AC%94%E8%AE%B0/images/网站SEO清单与诊断/image-20220508104535456.png">
+<meta property="article:published_time" content="2022-05-06T03:15:20.000Z">
+<meta property="article:modified_time" content="2022-05-09T08:08:31.423Z">
+<meta property="article:author" content="Bobbywell">
+<meta property="article:tag" content="seo">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://example.com/2022/05/06/%E5%AE%9E%E6%93%8D%E9%97%AE%E9%A2%98%E7%AC%94%E8%AE%B0/images/网站SEO清单与诊断/image-20220508104157273.png">
+
+<link rel="canonical" href="http://example.com/2022/05/06/%E5%AE%9E%E6%93%8D%E9%97%AE%E9%A2%98%E7%AC%94%E8%AE%B0/%E7%BD%91%E7%AB%99SEO%E6%B8%85%E5%8D%95%E4%B8%8E%E8%AF%8A%E6%96%AD/">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+
+  <title>网站SEO清单与诊断 | 跨境SOHO实战记录</title>
+  
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">跨境SOHO实战记录</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+      <p class="site-subtitle" itemprop="description">From 0 to 1, 独立站菜鸟打怪经验分享</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-fw fa-home"></i>首页</a>
+
+  </li>
+        <li class="menu-item menu-item-about">
+
+    <a href="/about/" rel="section"><i class="fa fa-fw fa-user"></i>关于</a>
+
+  </li>
+        <li class="menu-item menu-item-tags">
+
+    <a href="/tags/" rel="section"><i class="fa fa-fw fa-tags"></i>标签</a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-fw fa-th"></i>分类</a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-fw fa-archive"></i>归档</a>
+
+  </li>
+        <li class="menu-item menu-item-schedule">
+
+    <a href="/schedule/" rel="section"><i class="fa fa-fw fa-calendar"></i>日程表</a>
+
+  </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container"></div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="algolia-results">
+  <div id="algolia-stats"></div>
+  <div id="algolia-hits"></div>
+  <div id="algolia-pagination" class="algolia-pagination"></div>
+</div>
+
+      
+    </div>
+  </div>
+
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://example.com/2022/05/06/%E5%AE%9E%E6%93%8D%E9%97%AE%E9%A2%98%E7%AC%94%E8%AE%B0/%E7%BD%91%E7%AB%99SEO%E6%B8%85%E5%8D%95%E4%B8%8E%E8%AF%8A%E6%96%AD/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Bobbywell">
+      <meta itemprop="description" content="跨境小白，如何从0到1打造一个B2C独立站。">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="跨境SOHO实战记录">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          网站SEO清单与诊断
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              <time title="创建时间：2022-05-06 11:15:20" itemprop="dateCreated datePublished" datetime="2022-05-06T11:15:20+08:00">2022-05-06</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                <span class="post-meta-item-text">更新于</span>
+                <time title="修改时间：2022-05-09 16:08:31" itemprop="dateModified" datetime="2022-05-09T16:08:31+08:00">2022-05-09</time>
+              </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E7%BD%91%E7%AB%99%E4%BC%98%E5%8C%96/" itemprop="url" rel="index"><span itemprop="name">网站优化</span></a>
+                </span>
+            </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <p>网站优化对于搜索引擎排名的重要性不言而喻，同时SEO又是一项系统性的工作，涉及的项目很多。如果去从单点优化，想到什么做什么，那么很容易忽略掉真正重要的事情，也会带来很多遗漏。</p>
+<p>在开始网站优化之前，很有必要准备一份优化清单，逐项检查开展。</p>
+<span id="more"></span>
+
+<br/>
+
+<h2 id="01-SEO诊断工具"><a href="#01-SEO诊断工具" class="headerlink" title="01 SEO诊断工具"></a>01 SEO诊断工具</h2><p>Rank Math可以一键诊断网页seo的情况，并且给出相应的评分。当然，除了Rank Math外，还有不少的工具。</p>
+<img src="../images/网站SEO清单与诊断/image-20220508104157273.png" alt="image-20220508104157273" style="zoom:50%;" />
+
+<p>这个网站可以自动检测网站需要从哪些方面去优化，<a target="_blank" rel="noopener" href="https://sitechecker.pro/">https://sitechecker.pro/</a></p>
+<img src="../images/网站SEO清单与诊断/image-20220506112201993.png" alt="image-20220506112201993" style="zoom:50%;" />
+
+<br/>
+
+<h2 id="02-网页SEO清单"><a href="#02-网页SEO清单" class="headerlink" title="02 网页SEO清单"></a>02 网页SEO清单</h2><p>这是Rank Math的诊断优化建议：</p>
+<p><img src="../images/网站SEO清单与诊断/image-20220508104503821.png" alt="image-20220508104503821" style="zoom:50%;" /><img src="../images/网站SEO清单与诊断/image-20220508104535456.png" alt="image-20220508104535456" style="zoom:50%;" /></p>
+<p>主要包含了以下项目：</p>
+<ul>
+<li><h3 id="keywords"><a href="#keywords" class="headerlink" title="keywords"></a>keywords</h3></li>
+</ul>
+<p>关于keywords，<a target="_blank" rel="noopener" href="https://backlinko.com/keyword-research">The Definitive Guide (2022)</a></p>
+<p>简要总结：</p>
+<p>（1）怎样找关键词？</p>
+<p>（2）怎样选择关键词？</p>
+<p>（3）常用的关键词工具？</p>
+<p>（4）关键词调研技巧</p>
+<br/>
+
+<ul>
+<li><h3 id="meta-description"><a href="#meta-description" class="headerlink" title="meta description"></a>meta description</h3></li>
+</ul>
+<p>关于meta description：<a target="_blank" rel="noopener" href="https://yoast.com/meta-descriptions/">How to create the right meta description</a></p>
+<p>简要总结：</p>
+<p>（1）元描述是对整个页面的概述；</p>
+<p>（2）Google可能会在搜索结果中显示元描述，从而起到增加点击率的作用。但是没有直接证据证明元描述对排名有积极作用，Google也不一定会展示meta description.</p>
+<p>（3）怎样写好一个meta description？</p>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> 保持155个字符以内，120-156最佳；</li>
+<li><input checked="" disabled="" type="checkbox"> 直接清晰真实地描述页面内容，站在用户角度想他们最想知道什么；</li>
+<li><input checked="" disabled="" type="checkbox"> 插入核心关键词（如果用户搜索词相同，Google会加粗显示）；</li>
+<li><input checked="" disabled="" type="checkbox"> 产品页的元描述可以增加类似于厂商，规格，型号，功效等描述；</li>
+<li><input checked="" disabled="" type="checkbox"> 禁止使用相同的元描述，这样可能会被认为页面内容重复；</li>
+<li><input checked="" disabled="" type="checkbox"> 如果页面太多，可以只写关键页面的meta description；</li>
+</ul>
+<p>（5）社交分享时有可能展示meta description；</p>
+<br/>
+
+<ul>
+<li><h3 id="H1"><a href="#H1" class="headerlink" title="H1"></a>H1</h3></li>
+</ul>
+<br/>
+
+<ul>
+<li><h3 id="H2"><a href="#H2" class="headerlink" title="H2"></a>H2</h3></li>
+</ul>
+<br/>
+
+<ul>
+<li><h3 id="ALT标签"><a href="#ALT标签" class="headerlink" title="ALT标签"></a>ALT标签</h3></li>
+</ul>
+<br/>
+
+<ul>
+<li><h3 id="title"><a href="#title" class="headerlink" title="title"></a>title</h3></li>
+</ul>
+<br/>
+
+<ul>
+<li><h3 id="tagline"><a href="#tagline" class="headerlink" title="tagline"></a>tagline</h3></li>
+</ul>
+<br/>
+
+<ul>
+<li><h3 id="internal-link"><a href="#internal-link" class="headerlink" title="internal link"></a>internal link</h3></li>
+</ul>
+<br/>
+
+<ul>
+<li><h3 id="external-link"><a href="#external-link" class="headerlink" title="external link"></a>external link</h3></li>
+</ul>
+<br/>
+
+<ul>
+<li><h3 id="链接结构"><a href="#链接结构" class="headerlink" title="链接结构"></a>链接结构</h3></li>
+</ul>
+<br/>
+
+    </div>
+
+    
+    
+    
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/seo/" rel="tag"># seo</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/2022/05/05/%E6%89%8B%E6%9C%BA%E6%88%92%E6%96%AD%E8%AE%A1%E5%88%92/" rel="prev" title="手机戒断计划">
+      <i class="fa fa-chevron-left"></i> 手机戒断计划
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/2022/05/06/%E5%AE%9E%E6%93%8D%E9%97%AE%E9%A2%98%E7%AC%94%E8%AE%B0/%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E5%B9%B6%E6%8F%90%E4%BA%A4XML%E7%BD%91%E7%AB%99%E5%9C%B0%E5%9B%BE/" rel="next" title="如何创建并提交XML网站地图">
+      如何创建并提交XML网站地图 <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#01-SEO%E8%AF%8A%E6%96%AD%E5%B7%A5%E5%85%B7"><span class="nav-number">1.</span> <span class="nav-text">01 SEO诊断工具</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#02-%E7%BD%91%E9%A1%B5SEO%E6%B8%85%E5%8D%95"><span class="nav-number">2.</span> <span class="nav-text">02 网页SEO清单</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#keywords"><span class="nav-number">2.1.</span> <span class="nav-text">keywords</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#meta-description"><span class="nav-number">2.2.</span> <span class="nav-text">meta description</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#H1"><span class="nav-number">2.3.</span> <span class="nav-text">H1</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#H2"><span class="nav-number">2.4.</span> <span class="nav-text">H2</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#ALT%E6%A0%87%E7%AD%BE"><span class="nav-number">2.5.</span> <span class="nav-text">ALT标签</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#title"><span class="nav-number">2.6.</span> <span class="nav-text">title</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#tagline"><span class="nav-number">2.7.</span> <span class="nav-text">tagline</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#internal-link"><span class="nav-number">2.8.</span> <span class="nav-text">internal link</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#external-link"><span class="nav-number">2.9.</span> <span class="nav-text">external link</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E9%93%BE%E6%8E%A5%E7%BB%93%E6%9E%84"><span class="nav-number">2.10.</span> <span class="nav-text">链接结构</span></a></li></ol></li></ol></div>
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <p class="site-author-name" itemprop="name">Bobbywell</p>
+  <div class="site-description" itemprop="description">跨境小白，如何从0到1打造一个B2C独立站。</div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">46</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">15</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">28</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author motion-element">
+      <span class="links-of-author-item">
+        <a href="mailto:yourname@gmail.com" title="E-Mail → mailto:yourname@gmail.com" rel="noopener" target="_blank"><i class="fa fa-fw fa-envelope"></i>E-Mail</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://weibo.com/yourname" title="Weibo → https:&#x2F;&#x2F;weibo.com&#x2F;yourname" rel="noopener" target="_blank"><i class="fa fa-fw fa-weibo"></i>Weibo</a>
+      </span>
+  </div>
+
+
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+
+<div class="copyright">
+  
+  &copy; 
+  <span itemprop="copyrightYear">2022</span>
+  <span class="with-love">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Bobbywell</span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://muse.theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Muse</a> 强力驱动
+  </div>
+
+        
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/muse.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+
+
+  
+
+
+
+
+  
+<script src="//cdn.jsdelivr.net/npm/algoliasearch@4/dist/algoliasearch-lite.umd.js"></script>
+<script src="//cdn.jsdelivr.net/npm/instantsearch.js@4/dist/instantsearch.production.min.js"></script>
+<script src="/js/algolia-search.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+</body>
+</html>

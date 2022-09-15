@@ -1,0 +1,643 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.4.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/font-awesome.min.css">
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"example.com","root":"/","scheme":"Muse","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
+  </script>
+
+  <meta name="description" content="Typora 的 Markdown 语法January 1, 2022 by typora.io English Original Version Help Improve the Translation 概述Markdown 由 Daring Fireball 创建，原始指南在 这里。但是，它的语法因不同的解析器或编辑器而异。Typora 正在使用 GitHub Flavored Markdow">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Typora的Markdown语法">
+<meta property="og:url" content="http://example.com/2022/07/26/Typora%E7%9A%84Markdown%E8%AF%AD%E6%B3%95/index.html">
+<meta property="og:site_name" content="跨境SOHO实战记录">
+<meta property="og:description" content="Typora 的 Markdown 语法January 1, 2022 by typora.io English Original Version Help Improve the Translation 概述Markdown 由 Daring Fireball 创建，原始指南在 这里。但是，它的语法因不同的解析器或编辑器而异。Typora 正在使用 GitHub Flavored Markdow">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="http://typora.io/img/inline-math.gif">
+<meta property="article:published_time" content="2022-07-26T09:23:19.000Z">
+<meta property="article:modified_time" content="2022-07-26T09:24:26.128Z">
+<meta property="article:author" content="Bobbywell">
+<meta property="article:tag" content="Typora">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://typora.io/img/inline-math.gif">
+
+<link rel="canonical" href="http://example.com/2022/07/26/Typora%E7%9A%84Markdown%E8%AF%AD%E6%B3%95/">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+
+  <title>Typora的Markdown语法 | 跨境SOHO实战记录</title>
+  
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">跨境SOHO实战记录</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+      <p class="site-subtitle" itemprop="description">From 0 to 1, 独立站菜鸟打怪经验分享</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-fw fa-home"></i>首页</a>
+
+  </li>
+        <li class="menu-item menu-item-about">
+
+    <a href="/about/" rel="section"><i class="fa fa-fw fa-user"></i>关于</a>
+
+  </li>
+        <li class="menu-item menu-item-tags">
+
+    <a href="/tags/" rel="section"><i class="fa fa-fw fa-tags"></i>标签</a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-fw fa-th"></i>分类</a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-fw fa-archive"></i>归档</a>
+
+  </li>
+        <li class="menu-item menu-item-schedule">
+
+    <a href="/schedule/" rel="section"><i class="fa fa-fw fa-calendar"></i>日程表</a>
+
+  </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container"></div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="algolia-results">
+  <div id="algolia-stats"></div>
+  <div id="algolia-hits"></div>
+  <div id="algolia-pagination" class="algolia-pagination"></div>
+</div>
+
+      
+    </div>
+  </div>
+
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://example.com/2022/07/26/Typora%E7%9A%84Markdown%E8%AF%AD%E6%B3%95/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Bobbywell">
+      <meta itemprop="description" content="跨境小白，如何从0到1打造一个B2C独立站。">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="跨境SOHO实战记录">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          Typora的Markdown语法
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+              
+
+              <time title="创建时间：2022-07-26 17:23:19 / 修改时间：17:24:26" itemprop="dateCreated datePublished" datetime="2022-07-26T17:23:19+08:00">2022-07-26</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E5%85%B6%E4%BB%96/" itemprop="url" rel="index"><span itemprop="name">其他</span></a>
+                </span>
+            </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <h1 id="Typora-的-Markdown-语法"><a href="#Typora-的-Markdown-语法" class="headerlink" title="Typora 的 Markdown 语法"></a>Typora 的 Markdown 语法</h1><p>January 1, 2022 by typora.io</p>
+<p><a target="_blank" rel="noopener" href="https://support.typoraio.cn/Markdown-Reference/">English Original Version</a> <a target="_blank" rel="noopener" href="https://github.com/typora/wiki-website">Help Improve the Translation</a></p>
+<h2 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h2><p><strong>Markdown</strong> 由 <a target="_blank" rel="noopener" href="http://daringfireball.net/">Daring Fireball</a> 创建，原始指南在 <a target="_blank" rel="noopener" href="http://daringfireball.net/projects/markdown/syntax">这里</a>。但是，它的语法因不同的解析器或编辑器而异。<strong>Typora</strong> 正在使用 <a target="_blank" rel="noopener" href="https://help.github.com/articles/github-flavored-markdown/">GitHub Flavored Markdown</a>。</p>
+<p><strong>大纲</strong></p>
+<ul>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E6%A6%82%E8%BF%B0">概述</a></li>
+<li>块元素<ul>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E6%AE%B5%E8%90%BD%E5%92%8C%E6%8D%A2%E8%A1%8C%E7%AC%A6">段落和换行符</a></li>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E6%A0%87%E9%A2%98">标题</a></li>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E5%BC%95%E7%94%A8%E6%96%87%E5%AD%97">引用文字</a></li>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E5%88%97%E8%A1%A8">列表</a></li>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E4%BB%BB%E5%8A%A1%E5%88%97%E8%A1%A8">任务列表</a></li>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E6%A0%85%E6%A0%8F%E5%BC%8F%E4%BB%A3%E7%A0%81%E5%9D%97">（栅栏式）代码块</a></li>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F%E5%9D%97">数学公式块</a></li>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E8%A1%A8%E6%A0%BC">表格</a></li>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E8%84%9A%E6%B3%A8">脚注</a></li>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E6%B0%B4%E5%B9%B3%E7%BA%BF">水平线</a></li>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#yaml-front-matter">YAML Front Matter</a></li>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E7%9B%AE%E5%BD%95-toc">目录 (TOC)</a></li>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E5%9B%BE%E8%A1%A8-sequence-flowchart-and-mermaid">图表 (Sequence, Flowchart and Mermaid)</a></li>
+</ul>
+</li>
+<li>Span 元素<ul>
+<li>链接<ul>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E5%86%85%E9%83%A8%E9%93%BE%E6%8E%A5">内部链接</a></li>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E5%8F%82%E8%80%83%E9%93%BE%E6%8E%A5">参考链接</a></li>
+</ul>
+</li>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#url%E7%BD%91%E5%9D%80">URL网址</a></li>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E5%9B%BE%E7%89%87">图片</a></li>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E5%BC%BA%E8%B0%83%E6%96%9C%E4%BD%93">强调（斜体）</a></li>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E7%B2%97%E4%BD%93">粗体</a></li>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E4%BB%A3%E7%A0%81">代码</a></li>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E5%88%A0%E9%99%A4%E7%BA%BF">删除线</a></li>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E4%B8%8B%E5%88%92%E7%BA%BF">下划线</a></li>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E8%A1%A8%E6%83%85%E7%AC%A6%E5%8F%B7-smile">表情符号 :smile:</a></li>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E5%86%85%E8%81%94%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F">内联数学公式</a></li>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E4%B8%8B%E6%A0%87">下标</a></li>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E4%B8%8A%E6%A0%87">上标</a></li>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E9%AB%98%E4%BA%AE">高亮</a></li>
+</ul>
+</li>
+<li>HTML<ul>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E5%B5%8C%E5%85%A5%E5%86%85%E5%AE%B9">嵌入内容</a></li>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E8%A7%86%E9%A2%91">视频</a></li>
+<li><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E5%85%B6%E4%BB%96-html-%E6%94%AF%E6%8C%81">其他 HTML 支持</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="块元素"><a href="#块元素" class="headerlink" title="块元素"></a>块元素</h2><h3 id="段落和换行符"><a href="#段落和换行符" class="headerlink" title="段落和换行符"></a>段落和换行符</h3><p>段落只是一行或多行连续的文本。在 markdown 源代码中，段落由多个空行分隔。在Typora中，您只需按下 <code>Return</code> 即可创建新段落。</p>
+<p>按 <code>Shift</code> + <code>Return</code> 可创建单个换行符。但是，大多数 markdown 解析器将忽略单行中断，要使其他 markdown 解析器识别您的换行符，可以在行尾留下两个空格，或者插入 <code>&lt;br/&gt;</code>.</p>
+<h3 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h3><p>标题在行的开头使用1-6个＃字符，对应于标题级别1-6。例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"># 这是一级标题</span><br><span class="line"></span><br><span class="line">## 这是二级标题</span><br><span class="line"></span><br><span class="line">###### 这是六级标题</span><br></pre></td></tr></table></figure>
+
+<p>在typora中，输入’＃’后跟标题内容，按下 <code>Return</code> 键将创建标题。</p>
+<h3 id="引用文字"><a href="#引用文字" class="headerlink" title="引用文字"></a>引用文字</h3><p>Markdown 使用电子邮件样式&gt;字符进行块引用。它们表示为：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">&gt; 这是一个有两段的块引用。这是第一段。</span><br><span class="line">&gt;</span><br><span class="line">&gt; 这是第二段。Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">&gt; 这是另一个只有一个段落的块引用。有三个空行分隔两个块引用。</span><br></pre></td></tr></table></figure>
+
+<p>在typora中，只需输入’&gt;’后跟引用内容即可生成块引用。Typora将为您插入正确的“&gt;”或换行符。通过添加额外级别的“&gt;”允许在块引用内嵌入另一个块引用。</p>
+<h3 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h3><p>输入 <code>* list item 1</code> 将创建一个无序列表，该 <code>*</code> 符号可以替换为 <code>+</code> 或 <code>-</code>.</p>
+<p>输入 <code>1. list item 1</code> 将创建一个有序列表，其 markdown 源代码如下：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">## 无序列表</span><br><span class="line">*   红色</span><br><span class="line">*   绿色</span><br><span class="line">*   蓝色</span><br><span class="line"></span><br><span class="line">## 有序列表</span><br><span class="line">1.  红色</span><br><span class="line">2. 	绿色</span><br><span class="line">3.	蓝色</span><br></pre></td></tr></table></figure>
+
+<h3 id="任务列表"><a href="#任务列表" class="headerlink" title="任务列表"></a>任务列表</h3><p>任务列表是标记为[ ]或[x]（未完成或完成）的项目的列表。例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">- [ ] 这是一个任务列表项</span><br><span class="line">- [ ] 需要在前面使用列表的语法</span><br><span class="line">- [ ] normal **formatting**, @mentions, #1234 refs</span><br><span class="line">- [ ] 未完成</span><br><span class="line">- [x] 完成</span><br></pre></td></tr></table></figure>
+
+<p>您可以通过单击项目前面的复选框来更改完成/未完成状态。</p>
+<h3 id="（栅栏式）代码块"><a href="#（栅栏式）代码块" class="headerlink" title="（栅栏式）代码块"></a>（栅栏式）代码块</h3><p>Typora仅支持 Github Flavored Markdown 中的栅栏式代码块。不支持 markdown 中的原始代码块。</p>
+<p>使用栅栏式代码块很简单：输入```之后输入一个可选的语言标识符，然后按<code>return</code>键后输入代码，我们将通过语法高亮显示它：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line">这是一个例子：</span><br><span class="line"></span><br><span class="line">```</span><br><span class="line">function test() &#123;</span><br><span class="line">  console.log(&quot;notice the blank line before this function?&quot;);</span><br><span class="line">&#125;</span><br><span class="line">```</span><br><span class="line"></span><br><span class="line">语法高亮：</span><br><span class="line">```ruby</span><br><span class="line">require &#x27;redcarpet&#x27;</span><br><span class="line">markdown = Redcarpet.new(&quot;Hello World!&quot;)</span><br><span class="line">puts markdown.to_html</span><br><span class="line">```</span><br></pre></td></tr></table></figure>
+
+<h3 id="数学公式块"><a href="#数学公式块" class="headerlink" title="数学公式块"></a>数学公式块</h3><p>您可以使用 <strong>MathJax</strong> 渲染 <em>LaTeX</em> 数学表达式。</p>
+<p>输入 <code>$$</code>, 然后按“return”键将触发一个接受<em>Tex / LaTex</em>源代码的输入区域。以下是一个例子： V1×V2=∣∣∣∣∣i∂X∂u∂X∂vj∂Y∂u∂Y∂vk00∣∣∣∣∣V1×V2=|ijk∂X∂u∂Y∂u0∂X∂v∂Y∂v0|</p>
+<p>在 markdown 源文件中，数学公式块是由’$$’标记包装的 <em>LaTeX</em> 表达式：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">$$</span><br><span class="line">\mathbf&#123;V&#125;_1 \times \mathbf&#123;V&#125;_2 =  \begin&#123;vmatrix&#125; </span><br><span class="line">\mathbf&#123;i&#125; &amp; \mathbf&#123;j&#125; &amp; \mathbf&#123;k&#125; \\</span><br><span class="line">\frac&#123;\partial X&#125;&#123;\partial u&#125; &amp;  \frac&#123;\partial Y&#125;&#123;\partial u&#125; &amp; 0 \\</span><br><span class="line">\frac&#123;\partial X&#125;&#123;\partial v&#125; &amp;  \frac&#123;\partial Y&#125;&#123;\partial v&#125; &amp; 0 \\</span><br><span class="line">\end&#123;vmatrix&#125;</span><br><span class="line">$$</span><br></pre></td></tr></table></figure>
+
+<h3 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h3><p>输入 <code>| First Header | Second Header |</code> 并按下 <code>return</code> 键将创建一个包含两列的表。</p>
+<p>创建表后，焦点在该表上将弹出一个表格工具栏，您可以在其中调整表格，对齐或删除表格。您还可以使用上下文菜单来复制和添加/删除列/行。</p>
+<p>可以跳过以下描述，因为表格的 markdown 源代码是由typora自动生成的。</p>
+<p>在 markdown 源代码中，它们看起来像这样：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">| First Header  | Second Header |</span><br><span class="line">| ------------- | ------------- |</span><br><span class="line">| Content Cell  | Content Cell  |</span><br><span class="line">| Content Cell  | Content Cell  |</span><br></pre></td></tr></table></figure>
+
+<p>您还可以在表格中包括内联 Markdown 语法，例如链接，粗体，斜体或删除线。</p>
+<p>最后，通过在标题行中包含冒号：您可以将文本定义为左对齐，右对齐或居中对齐：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">| Left-Aligned  | Center Aligned  | Right Aligned |</span><br><span class="line">| :------------ |:---------------:| -----:|</span><br><span class="line">| col 3 is      | some wordy text | $1600 |</span><br><span class="line">| col 2 is      | centered        |   $12 |</span><br><span class="line">| zebra stripes | are neat        |    $1 |</span><br></pre></td></tr></table></figure>
+
+<p>最左侧的冒号表示左对齐的列; 最右侧的冒号表示右对齐的列; 两侧的冒号表示中心对齐的列。</p>
+<h3 id="脚注"><a href="#脚注" class="headerlink" title="脚注"></a>脚注</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">您可以像这样创建脚注[^footnote].</span><br><span class="line"></span><br><span class="line">[^footnote]: Here is the *text* of the **footnote**.</span><br></pre></td></tr></table></figure>
+
+<p>将产生：</p>
+<p>您可以像这样创建脚注<a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#fn:footnote">1</a>.</p>
+<p>鼠标移动到‘footnote’上标中查看脚注的内容。</p>
+<h3 id="水平线"><a href="#水平线" class="headerlink" title="水平线"></a>水平线</h3><p>输入 <code>***</code> 或 <code>---</code> 在空行上按 <code>return</code> 键将绘制一条水平线。</p>
+<hr>
+<h3 id="YAML-Front-Matter"><a href="#YAML-Front-Matter" class="headerlink" title="YAML Front Matter"></a>YAML Front Matter</h3><p>Typora 现在支持 <a target="_blank" rel="noopener" href="http://jekyllrb.com/docs/frontmatter/">YAML Front Matter</a> 。 在文章顶部输入 <code>---</code> 然后按 <code>Enter</code> 键将引入一个，或者从菜单中插入一个元数据块。</p>
+<h3 id="目录-TOC"><a href="#目录-TOC" class="headerlink" title="目录 (TOC)"></a>目录 (TOC)</h3><p>输入 <code>[toc]</code> 然后按 <code>Return</code> 键将创建一个“目录”部分，自动从文档内容中提取所有标题，其内容会自动更新。</p>
+<h3 id="图表-Sequence-Flowchart-and-Mermaid"><a href="#图表-Sequence-Flowchart-and-Mermaid" class="headerlink" title="图表 (Sequence, Flowchart and Mermaid)"></a>图表 (Sequence, Flowchart and Mermaid)</h3><p>Typora 支持, <a target="_blank" rel="noopener" href="https://bramp.github.io/js-sequence-diagrams/">sequence</a>, <a target="_blank" rel="noopener" href="http://flowchart.js.org/">flowchart</a> and <a target="_blank" rel="noopener" href="https://knsv.github.io/mermaid/#mermaid">mermaid</a>, 使用前要先从偏好设置面板启用该功能。</p>
+<p>详细信息请参阅此 <a target="_blank" rel="noopener" href="http://support.typora.io/Draw-Diagrams-With-Markdown/">文档</a></p>
+<h2 id="Span-元素"><a href="#Span-元素" class="headerlink" title="Span 元素"></a>Span 元素</h2><p>在您输入后Span元素会被立即解析并呈现。在这些span元素上移动光标会将这些元素扩展为markdown源代码。以下将解释这些span元素的语法。</p>
+<h3 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h3><p>Markdown 支持两种类型的链接：内联和引用。</p>
+<p>在这两种样式中，链接文本都写在[方括号]内。</p>
+<p>要创建内联链接，请在链接文本的结束方括号后立即使用一组常规括号。在常规括号内，输入URL地址，以及可选的用引号括起来的链接标题。例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">This is [an example](http://example.com/ &quot;Title&quot;) inline link.</span><br><span class="line"></span><br><span class="line">[This link](http://example.net/) has no title attribute.</span><br></pre></td></tr></table></figure>
+
+<p>将产生：</p>
+<p>This is <a href="http://example.com/%22Title%22">an example</a> inline link. (<code>&lt;p&gt;This is &lt;a href=&quot;http://example.com/&quot; title=&quot;Title&quot;&gt;</code>)</p>
+<p><a target="_blank" rel="noopener" href="http://example.net/">This link</a> has no title attribute. (<code>&lt;p&gt;&lt;a href=&quot;http://example.net/&quot;&gt;This link&lt;/a&gt; has no</code>)</p>
+<h4 id="内部链接"><a href="#内部链接" class="headerlink" title="内部链接"></a>内部链接</h4><p><strong>您可以将常规括号内的 href 设置为文档内的某一个标题</strong>，这将创建一个书签，允许您在单击后跳转到该部分。例如：</p>
+<p>Command(在Windows上：Ctrl) + 单击 <a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#%E5%9D%97%E5%85%83%E7%B4%A0">此链接</a> 将跳转到标题 <code>块元素</code>处。 要查看如何编写，请移动光标或按住 <code>⌘</code> 键单击以将元素展开为 Markdown 源代码。</p>
+<h4 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a>参考链接</h4><p>参考样式链接使用第二组方括号，在其中放置您选择的标签以标识链接：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">This is [an example][id] reference-style link.</span><br><span class="line"></span><br><span class="line">然后，在文档中的任何位置，您可以单独定义链接标签，如下所示：</span><br><span class="line"></span><br><span class="line">[id]: http://example.com/  &quot;Optional Title Here&quot;</span><br></pre></td></tr></table></figure>
+
+<p>在typora中，它们将呈现为：</p>
+<p>This is <a href="http://example.com/">an example</a> reference-style link.</p>
+<p>隐式链接名称快捷方式允许您省略链接的名称，在这种情况下，链接文本本身将用作名称。只需使用一组空的方括号，例如，将“Google”一词链接到google.com网站，您只需写下：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">[Google][]</span><br><span class="line">然后定义链接：</span><br><span class="line"></span><br><span class="line">[Google]: http://google.com/</span><br></pre></td></tr></table></figure>
+
+<p>在typora中单击链接将其展开以进行编辑，command + 单击将在 Web 浏览器中打开超链接。</p>
+<h3 id="URL网址"><a href="#URL网址" class="headerlink" title="URL网址"></a>URL网址</h3><p>Typora允许您将 URL 作为链接插入，用 <code>&lt;</code>括号括起来<code>&gt;</code>。</p>
+<p><code>&lt;i@typora.io&gt;</code> 成为 <a href="mailto:i@typora.io">i@typora.io</a>.</p>
+<p>Typora也将自动链接标准URL。例如： <a target="_blank" rel="noopener" href="http://www.google.com/">www.google.com</a>.</p>
+<h3 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h3><p>图像与链接类似， 但在链接语法之前需要添加额外的 <code>!</code> 字符。 图像语法如下所示：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">![替代文字](/path/to/img.jpg)</span><br><span class="line"></span><br><span class="line">![替代文字](/path/to/img.jpg &quot;可选标题&quot;)</span><br></pre></td></tr></table></figure>
+
+<p>您可以使用拖放操作从图像文件或浏览器来插入图像。并通过单击图像修改 markdown 源代码。如果图像在拖放时与当前编辑文档位于同一目录或子目录中，则将使用相对路径。</p>
+<p>有关图像的更多提示，请阅读 <a target="_blank" rel="noopener" href="http://support.typora.io//Images/">http://support.typora.io//Images/</a></p>
+<h3 id="强调（斜体）"><a href="#强调（斜体）" class="headerlink" title="强调（斜体）"></a>强调（斜体）</h3><p>Markdown 将星号 (<code>*</code>) 和下划线(<code>_</code>) 视为强调的指示。用一个 <code>*</code> or <code>_</code> 包裹文本将使用HTML <code>&lt;em&gt;</code> 标签包裹文本。例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">*单个星号*</span><br><span class="line"></span><br><span class="line">_单个下划线_</span><br></pre></td></tr></table></figure>
+
+<p>输出：</p>
+<p><em>单个星号</em></p>
+<p><em>单个下划线</em></p>
+<p>GFM将忽略单词中的下划线，这通常用在代码和名称中，如下所示：</p>
+<blockquote>
+<p>wow_great_stuff</p>
+<p>do_this_and_do_that_and_another_thing.</p>
+</blockquote>
+<p>要在用作强调分隔符的位置生成文字星号或下划线，可以用反斜杠转义：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">\*这个文字被文字星号包围\*</span><br></pre></td></tr></table></figure>
+
+<p>Typora建议使用 <code>*</code> 号.</p>
+<h3 id="粗体"><a href="#粗体" class="headerlink" title="粗体"></a>粗体</h3><p>用两个 * 或 _ 包裹的文本将使用HTML <code>&lt;strong&gt;</code> 标签包裹，例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">**双星号**</span><br><span class="line"></span><br><span class="line">__双重下划线__</span><br></pre></td></tr></table></figure>
+
+<p>输出：</p>
+<p><strong>双星号</strong></p>
+<p><strong>双重下划线</strong></p>
+<p>Typora 建议使用 <code>**</code> 号。</p>
+<h3 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h3><p>要指示代码范围，请使用反引号（`）进行包裹。与预格式化的代码块不同，代码跨度表示正常段落中的代码。例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">使用`printf()`函数。</span><br></pre></td></tr></table></figure>
+
+<p>将产生：</p>
+<p>使用 <code>printf()</code> 函数。</p>
+<h3 id="删除线"><a href="#删除线" class="headerlink" title="删除线"></a>删除线</h3><p>GFM通过添加语法来创建删除线文本，标准的Markdown中缺少该文本。</p>
+<p><code>~~错误的文字。~~</code> 变成 <del>错误的文字。</del></p>
+<h3 id="下划线"><a href="#下划线" class="headerlink" title="下划线"></a>下划线</h3><p>下划线由原始HTML提供支持。</p>
+<p><code>&lt;u&gt;下划线&lt;/u&gt;</code> 变成 下划线</p>
+<h3 id="表情符号-smile"><a href="#表情符号-smile" class="headerlink" title="表情符号 :smile:"></a>表情符号 :smile:</h3><p>输入表情符号的语法是 <code>:smile:</code></p>
+<p>用户可以通过 <code>ESC</code> 按键触发表情符号的自动完成建议，或者在偏好设置面板里启用后自动触发表情符号。此外，还支持直接从 <code>Edit</code> -&gt; <code>Emoji &amp; Symbols</code> 菜单栏输入UTF8表情符号字符。</p>
+<h3 id="内联数学公式"><a href="#内联数学公式" class="headerlink" title="内联数学公式"></a>内联数学公式</h3><p>要使用此功能，首先，请在 <code>偏好设置</code> 面板 -&gt; <code>Markdown扩展语法</code> 选项卡中启用它。然后使用 <code>$</code> 来包裹TeX命令，例如： <code>$\lim_&#123;x \to \infty&#125; \exp(-x) = 0$</code> 将呈现为LaTeX命令。</p>
+<p>要触发内联公式的预览提示功能：输入“$”, 然后按 <code>ESC</code> 键, 然后输入TeX命令, 预览工具提示将如下所示：</p>
+<p><img src="http://typora.io/img/inline-math.gif" alt="img"></p>
+<h3 id="下标"><a href="#下标" class="headerlink" title="下标"></a>下标</h3><p>要使用此功能，首先，请在 <code>偏好设置</code> 面板 -&gt; <code>Markdown扩展语法</code> 选项卡中启用它。然后用 <code>~</code> 来包裹下标内容，例如： <code>H~2~O</code>, <code>X~long\ text~</code>/</p>
+<h3 id="上标"><a href="#上标" class="headerlink" title="上标"></a>上标</h3><p>要使用此功能，首先，请在 <code>偏好设置</code> 面板 -&gt; <code>Markdown扩展语法</code> 选项卡中启用它。然后用 <code>^</code> 来包裹上标内容，例如： <code>X^2^</code>。</p>
+<h3 id="高亮"><a href="#高亮" class="headerlink" title="高亮"></a>高亮</h3><p>要使用此功能，首先，请在 <code>偏好设置</code> 面板 -&gt; <code>Markdown扩展语法</code> 选项卡中启用它。然后用 <code>==</code> 来包裹高亮内容，例如： <code>==highlight==</code>。</p>
+<h2 id="HTML"><a href="#HTML" class="headerlink" title="HTML"></a>HTML</h2><p>您可以使用HTML来设置纯 Markdown 不支持的内容，例如， <code>&lt;span style=&quot;color:red&quot;&gt;this text is red&lt;/span&gt;</code> 用于添加红色文本。</p>
+<h3 id="嵌入内容"><a href="#嵌入内容" class="headerlink" title="嵌入内容"></a>嵌入内容</h3><p>有些网站提供基于iframe的嵌入代码，您也可以将其粘贴到Typora中，例如：</p>
+<figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="xml"><span class="tag">&lt;<span class="name">iframe</span> <span class="attr">height</span>=<span class="string">&#x27;265&#x27;</span> <span class="attr">scrolling</span>=<span class="string">&#x27;no&#x27;</span> <span class="attr">title</span>=<span class="string">&#x27;Fancy Animated SVG Menu&#x27;</span> <span class="attr">src</span>=<span class="string">&#x27;http://codepen.io/jeangontijo/embed/OxVywj/?height=265&amp;theme-id=0&amp;default-tab=css,result&amp;embed-version=2&#x27;</span> <span class="attr">frameborder</span>=<span class="string">&#x27;no&#x27;</span> <span class="attr">allowtransparency</span>=<span class="string">&#x27;true&#x27;</span> <span class="attr">allowfullscreen</span>=<span class="string">&#x27;true&#x27;</span> <span class="attr">style</span>=<span class="string">&#x27;width: 100%;&#x27;</span>&gt;</span></span><span class="xml"><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span></span><br></pre></td></tr></table></figure>
+
+<h3 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h3><p>您可以使用 <code>&lt;video&gt;</code> HTML标记嵌入视频，例如：</p>
+<figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="xml"><span class="tag">&lt;<span class="name">video</span> <span class="attr">src</span>=<span class="string">&quot;xxx.mp4&quot;</span> /&gt;</span></span></span><br></pre></td></tr></table></figure>
+
+<h3 id="其他-HTML-支持"><a href="#其他-HTML-支持" class="headerlink" title="其他 HTML 支持"></a>其他 HTML 支持</h3><p>你可以在 <a target="_blank" rel="noopener" href="http://support.typora.io/HTML/">这里</a>找到细节。</p>
+<ol>
+<li>Here is the <em>text</em> of the <strong>footnote</strong>. <a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#fnref:footnote">↩</a></li>
+</ol>
+<p><a target="_blank" rel="noopener" href="https://typoraio.cn/">Get Typora</a> / <a target="_blank" rel="noopener" href="https://github.com/typora/wiki-website">Help Improve our documents</a></p>
+<iframe id="_atssh477" title="AddThis utility frame" src="https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.4858796246992261&amp;iit=1658827231520&amp;tmr=load%3D1658827231294%26core%3D1658827231516%26main%3D1658827231517%26ifr%3D1658827231522&amp;cb=0&amp;cdn=0&amp;md=0&amp;kw=&amp;ab=-&amp;dh=support.typoraio.cn&amp;dr=&amp;du=https%3A%2F%2Fsupport.typoraio.cn%2Fzh%2FMarkdown-Reference%2F&amp;href=https%3A%2F%2Fsupport.typoraio.cn%2Fzh%2FMarkdown-Reference%2F&amp;dt=Typora%20%E7%9A%84%20Markdown%20%E8%AF%AD%E6%B3%95&amp;dbg=0&amp;cap=tc%3D0%26ab%3D0&amp;inst=1&amp;jsl=0&amp;prod=undefined&amp;lng=zh&amp;ogt=image%2Cdescription%2Ctitle%2Curl&amp;pc=men&amp;pub=ra-5ed23a5bcf8c017f&amp;ssl=1&amp;sid=62dfb1df104e00a4&amp;srf=0.01&amp;ver=300&amp;xck=0&amp;xtr=0&amp;og=url%3D%252Fzh%252FMarkdown-Reference%252F%26title%3DTypora%2520%25E7%259A%2584%2520Markdown%2520%25E8%25AF%25AD%25E6%25B3%2595%26description%3DEnglish%2520Original%2520Version%2520Help%2520Improve%2520the%2520Translation%2520%25E6%25A6%2582%25E8%25BF%25B0%2520Markdown%2520%25E7%2594%25B1%2520Daring%2520Fireball%2520%25E5%2588%259B%25E5%25BB%25BA%25EF%25BC%258C%25E5%258E%259F%25E5%25A7%258B%25E6%258C%2587%25E5%258D%2597%25E5%259C%25A8%2520%25E8%25BF%2599%25E9%2587%258C%25E3%2580%2582%25E4%25BD%2586%25E6%2598%25AF%25EF%25BC%258C%25E5%25AE%2583%25E7%259A%2584%25E8%25AF%25AD%25E6%25B3%2595%25E5%259B%25A0%25E4%25B8%258D%25E5%2590%258C%25E7%259A%2584%25E8%25A7%25A3%25E6%259E%2590%25E5%2599%25A8%25E6%2588%2596%25E7%25BC%2596%25E8%25BE%2591%25E5%2599%25A8%25E8%2580%258C%25E5%25BC%2582%25E3%2580%2582Typora%2520%25E6%25AD%25A3%25E5%259C%25A8%25E4%25BD%25BF%25E7%2594%25A8%2520GitHub%2520Flavored%2520Markdown%25E3%2580%2582%2520%25E5%25A4%25A7%25E7%25BA%25B2%2520%25E6%25A6%2582%25E8%25BF%25B0%2520%25E5%259D%2597%25E5%2585%2583%25E7%25B4%25A0%2520%25E6%25AE%25B5%25E8%2590%25BD%25E5%2592%258C%25E6%258D%25A2%25E8%25A1%258C%25E7%25AC%25A6%2520%25E6%25A0%2587%25E9%25A2%2598%2520%25E5%25BC%2595%25E7%2594%25A8%25E6%2596%2587%25E5%25AD%2597%2520%25E5%2588%2597%25E8%25A1%25A8%2520%25E4%25BB%25BB%25E5%258A%25A1%25E5%2588%2597%25E8%25A1%25A8%2520%25EF%25BC%2588%25E6%25A0%2585%25E6%25A0%258F%25E5%25BC%258F%25EF%25BC%2589%25E4%25BB%25A3%25E7%25A0%2581%25E5%259D%2597%2520%25E6%2595%25B0%25E5%25AD%25A6%25E5%2585%25AC%25E5%25BC%258F%25E5%259D%2597%2520%25E8%25A1%25A8%25E6%25A0%25BC%2520%25E8%2584%259A%25E6%25B3%25A8%2520%25E6%25B0%25B4%25E5%25B9%25B3%25E7%25BA%25BF%2520YAML%2520Front%2520Matter%2520%25E7%259B%25AE%25E5%25BD%2595%2520(TOC)%2520%25E5%259B%25BE%25E8%25A1%25A8%2520(Sequence%252C%2520Flowchart%2520and%2520Mermaid)%2520Span%2520%25E5%2585%2583%25E7%25B4%25A0%2520%25E9%2593%25BE%25E6%258E%25A5%2520%25E5%2586%2585%25E9%2583%25A8%25E9%2593%25BE%25E6%258E%25A5%2520%25E5%258F%2582%25E8%2580%2583%25E9%2593%25BE%25E6%258E%25A5%2520URL%25E7%25BD%2591%25E5%259D%2580%2520%25E5%259B%25BE%25E7%2589%2587%2520%25E5%25BC%25BA%25E8%25B0%2583%25EF%25BC%2588%25E6%2596%259C%25E4%25BD%2593%25EF%25BC%2589%2520%25E7%25B2%2597%25E4%25BD%2593%2520%25E4%25BB%25A3%25E7%25A0%2581%2520%25E5%2588%25A0%25E9%2599%25A4%25E7%25BA%25BF%2520%25E4%25B8%258B%25E5%2588%2592%25E7%25BA%25BF%2520%25E8%25A1%25A8%25E6%2583%2585%25E7%25AC%25A6%25E5%258F%25B7%2520%253Asmile%253A%2520%25E5%2586%2585%25E8%2581%2594%25E6%2595%25B0%25E5%25AD%25A6%25E5%2585%25AC%25E5%25BC%258F%2520%25E4%25B8%258B%25E6%25A0%2587%2520%25E4%25B8%258A%25E6%25A0%2587%2520%25E9%25AB%2598%25E4%25BA%25AE%2520HTML%2520%25E5%25B5%258C%25E5%2585%25A5%25E5%2586%2585%25E5%25AE%25B9%2520%25E8%25A7%2586%25E9%25A2%2591%2520%25E5%2585%25B6%25E4%25BB%2596%2520HTML%2520%25E6%2594%25AF%25E6%258C%2581%2520%25E5%259D%2597%25E5%2585%2583%25E7%25B4%25A0%2520%25E6%25AE%25B5%25E8%2590%25BD%25E5%2592%258C%25E6%258D%25A2%25E8%25A1%258C%25E7%25AC%25A6%2520%25E6%25AE%25B5%25E8%2590%25BD%25E5%258F%25AA%25E6%2598%25AF%25E4%25B8%2580%25E8%25A1%258C%25E6%2588%2596%25E5%25A4%259A%25E8%25A1%258C%25E8%25BF%259E%25E7%25BB%25AD%25E7%259A%2584%25E6%2596%2587%25E6%259C%25AC%25E3%2580%2582%25E5%259C%25A8%2520markdown%2520%25E6%25BA%2590%25E4%25BB%25A3%25E7%25A0%2581%25E4%25B8%25AD%25EF%25BC%258C%25E6%25AE%25B5%25E8%2590%25BD%25E7%2594%25B1%25E5%25A4%259A%25E4%25B8%25AA%25E7%25A9%25BA%25E8%25A1%258C%25E5%2588%2586%25E9%259A%2594%25E3%2580%2582%25E5%259C%25A8Typora%25E4%25B8%25AD%25EF%25BC%258C%25E6%2582%25A8%25E5%258F%25AA%25E9%259C%2580%25E6%258C%2589%25E4%25B8%258B%2520Return%2520%25E5%258D%25B3%25E5%258F%25AF%25E5%2588%259B%25E5%25BB%25BA%25E6%2596%25B0%25E6%25AE%25B5%25E8%2590%25BD%25E3%2580%2582%2520%25E6%258C%2589%2520Shift%2520%252B%2520Return%2520%25E5%258F%25AF%25E5%2588%259B%25E5%25BB%25BA%25E5%258D%2595%25E4%25B8%25AA%25E6%258D%25A2%25E8%25A1%258C%25E7%25AC%25A6%25E3%2580%2582%25E4%25BD%2586%25E6%2598%25AF%25EF%25BC%258C%25E5%25A4%25A7%25E5%25A4%259A%25E6%2595%25B0%2520markdown%2520%25E8%25A7%25A3%25E6%259E%2590%25E5%2599%25A8%25E5%25B0%2586%25E5%25BF%25BD%25E7%2595%25A5%25E5%258D%2595%25E8%25A1%258C%25E4%25B8%25AD%25E6%2596%25AD%25EF%25BC%258C%25E8%25A6%2581%25E4%25BD%25BF%25E5%2585%25B6%25E4%25BB%2596%2520markdown%2520%25E8%25A7%25A3%25E6%259E%2590%25E5%2599%25A8%25E8%25AF%2586%25E5%2588%25AB%25E6%2582%25A8%25E7%259A%2584%25E6%258D%25A2%25E8%25A1%258C%25E7%25AC%25A6%25EF%25BC%258C%25E5%258F%25AF%25E4%25BB%25A5%25E5%259C%25A8%25E8%25A1%258C%25E5%25B0%25BE%25E7%2595%2599%25E4%25B8%258B%25E4%25B8%25A4%25E4%25B8%25AA%25E7%25A9%25BA%25E6%25A0%25BC%25EF%25BC%258C%25E6%2588%2596%25E8%2580%2585%25E6%258F%2592%25E5%2585%25A5%2520%253Cbr%252F%253E.%2520%25E6%25A0%2587%25E9%25A2%2598%2520%25E6%25A0%2587%25E9%25A2%2598%25E5%259C%25A8%25E8%25A1%258C%25E7%259A%2584%25E5%25BC%2580%25E5%25A4%25B4%25E4%25BD%25BF%25E7%2594%25A81-6%25E4%25B8%25AA%25EF%25BC%2583%25E5%25AD%2597%25E7%25AC%25A6%25EF%25BC%258C%25E5%25AF%25B9%25E5%25BA%2594%25E4%25BA%258E%25E6%25A0%2587%25E9%25A2%2598%25E7%25BA%25A7%25E5%2588%25AB1-6%25E3%2580%2582%25E4%25BE%258B%25E5%25A6%2582%25EF%25BC%259A%2520%2523%2520%25E8%25BF%2599%25E6%2598%25AF%25E4%25B8%2580%25E7%25BA%25A7%25E6%25A0%2587%25E9%25A2%2598%2520%2523%2523%2520%25E8%25BF%2599%25E6%2598%25AF%25E4%25BA%258C%25E7%25BA%25A7%25E6%25A0%2587%25E9%25A2%2598%2520%2523%2523%2523%2523%2523%2523%2520%25E8%25BF%2599%25E6%2598%25AF%25E5%2585%25AD%25E7%25BA%25A7%25E6%25A0%2587%25E9%25A2%2598%2520%25E5%259C%25A8typora%25E4%25B8%25AD%25EF%25BC%258C%25E8%25BE%2593%25E5%2585%25A5%25E2%2580%2599%25EF%25BC%2583%25E2%2580%2599%25E5%2590%258E%25E8%25B7%259F%25E6%25A0%2587%25E9%25A2%2598%25E5%2586%2585%25E5%25AE%25B9%25EF%25BC%258C%25E6%258C%2589%25E4%25B8%258B%2520Return%2520%25E9%2594%25AE%25E5%25B0%2586%25E5%2588%259B%25E5%25BB%25BA%25E6%25A0%2587%25E9%25A2%2598%25E3%2580%2582%2520%25E5%25BC%2595%25E7%2594%25A8%25E6%2596%2587%25E5%25AD%2597%2520Markdown%2520%25E4%25BD%25BF%25E7%2594%25A8%25E7%2594%25B5%25E5%25AD%2590%25E9%2582%25AE%25E4%25BB%25B6%25E6%25A0%25B7%25E5%25BC%258F%253E%25E5%25AD%2597%25E7%25AC%25A6%25E8%25BF%259B%25E8%25A1%258C%25E5%259D%2597%25E5%25BC%2595%25E7%2594%25A8%25E3%2580%2582%25E5%25AE%2583%25E4%25BB%25AC%25E8%25A1%25A8%25E7%25A4%25BA%25E4%25B8%25BA%25EF%25BC%259A%2520%253E%2520%25E8%25BF%2599%25E6%2598%25AF%25E4%25B8%2580%25E4%25B8%25AA%25E6%259C%2589%25E4%25B8%25A4%25E6%25AE%25B5%25E7%259A%2584%25E5%259D%2597%25E5%25BC%2595%25E7%2594%25A8%25E3%2580%2582%25E8%25BF%2599%25E6%2598%25AF%25E7%25AC%25AC%25E4%25B8%2580%25E6%25AE%25B5%25E3%2580%2582%2520%253E%2520%253E...%26image%3Dhttp%253A%252F%252Ftypora.io%252Fimg%252Ftwitter-sum.png&amp;csi=undefined&amp;rev=v8.28.8-wp&amp;ct=1&amp;xld=1&amp;xd=1" style="height: 1px; width: 1px; position: absolute; top: 0px; z-index: 100000; border: 0px; left: 0px;"></iframe>
+
+<p><a target="_blank" rel="noopener" href="https://support.typoraio.cn/zh/Markdown-Reference/#">
+  </a></p>
+
+    </div>
+
+    
+    
+    
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/Typora/" rel="tag"># Typora</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/2022/07/26/%E6%80%8E%E6%A0%B7%E5%86%99%E4%B8%80%E7%AF%87%E5%93%81%E7%89%8C%E8%AF%8D%E6%8E%A8%E5%B9%BF%E6%96%87%EF%BC%9F/" rel="prev" title="怎样写一篇品牌词推广文？">
+      <i class="fa fa-chevron-left"></i> 怎样写一篇品牌词推广文？
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/2022/07/27/%E6%96%87%E7%AB%A0%E7%9A%84%E8%AF%AD%E6%B3%95%E4%BF%AE%E6%AD%A3%EF%BC%8C%E6%9F%A5%E9%87%8D%EF%BC%9F/" rel="next" title="文章的语法修正，查重？">
+      文章的语法修正，查重？ <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#Typora-%E7%9A%84-Markdown-%E8%AF%AD%E6%B3%95"><span class="nav-number">1.</span> <span class="nav-text">Typora 的 Markdown 语法</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%A6%82%E8%BF%B0"><span class="nav-number">1.1.</span> <span class="nav-text">概述</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%9D%97%E5%85%83%E7%B4%A0"><span class="nav-number">1.2.</span> <span class="nav-text">块元素</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%AE%B5%E8%90%BD%E5%92%8C%E6%8D%A2%E8%A1%8C%E7%AC%A6"><span class="nav-number">1.2.1.</span> <span class="nav-text">段落和换行符</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%A0%87%E9%A2%98"><span class="nav-number">1.2.2.</span> <span class="nav-text">标题</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%BC%95%E7%94%A8%E6%96%87%E5%AD%97"><span class="nav-number">1.2.3.</span> <span class="nav-text">引用文字</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%88%97%E8%A1%A8"><span class="nav-number">1.2.4.</span> <span class="nav-text">列表</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BB%BB%E5%8A%A1%E5%88%97%E8%A1%A8"><span class="nav-number">1.2.5.</span> <span class="nav-text">任务列表</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%EF%BC%88%E6%A0%85%E6%A0%8F%E5%BC%8F%EF%BC%89%E4%BB%A3%E7%A0%81%E5%9D%97"><span class="nav-number">1.2.6.</span> <span class="nav-text">（栅栏式）代码块</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F%E5%9D%97"><span class="nav-number">1.2.7.</span> <span class="nav-text">数学公式块</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%A1%A8%E6%A0%BC"><span class="nav-number">1.2.8.</span> <span class="nav-text">表格</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%84%9A%E6%B3%A8"><span class="nav-number">1.2.9.</span> <span class="nav-text">脚注</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%B0%B4%E5%B9%B3%E7%BA%BF"><span class="nav-number">1.2.10.</span> <span class="nav-text">水平线</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#YAML-Front-Matter"><span class="nav-number">1.2.11.</span> <span class="nav-text">YAML Front Matter</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%9B%AE%E5%BD%95-TOC"><span class="nav-number">1.2.12.</span> <span class="nav-text">目录 (TOC)</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%9B%BE%E8%A1%A8-Sequence-Flowchart-and-Mermaid"><span class="nav-number">1.2.13.</span> <span class="nav-text">图表 (Sequence, Flowchart and Mermaid)</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Span-%E5%85%83%E7%B4%A0"><span class="nav-number">1.3.</span> <span class="nav-text">Span 元素</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E9%93%BE%E6%8E%A5"><span class="nav-number">1.3.1.</span> <span class="nav-text">链接</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%86%85%E9%83%A8%E9%93%BE%E6%8E%A5"><span class="nav-number">1.3.1.1.</span> <span class="nav-text">内部链接</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#%E5%8F%82%E8%80%83%E9%93%BE%E6%8E%A5"><span class="nav-number">1.3.1.2.</span> <span class="nav-text">参考链接</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#URL%E7%BD%91%E5%9D%80"><span class="nav-number">1.3.2.</span> <span class="nav-text">URL网址</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%9B%BE%E7%89%87"><span class="nav-number">1.3.3.</span> <span class="nav-text">图片</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%BC%BA%E8%B0%83%EF%BC%88%E6%96%9C%E4%BD%93%EF%BC%89"><span class="nav-number">1.3.4.</span> <span class="nav-text">强调（斜体）</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E7%B2%97%E4%BD%93"><span class="nav-number">1.3.5.</span> <span class="nav-text">粗体</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BB%A3%E7%A0%81"><span class="nav-number">1.3.6.</span> <span class="nav-text">代码</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%88%A0%E9%99%A4%E7%BA%BF"><span class="nav-number">1.3.7.</span> <span class="nav-text">删除线</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%8B%E5%88%92%E7%BA%BF"><span class="nav-number">1.3.8.</span> <span class="nav-text">下划线</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%A1%A8%E6%83%85%E7%AC%A6%E5%8F%B7-smile"><span class="nav-number">1.3.9.</span> <span class="nav-text">表情符号 :smile:</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%86%85%E8%81%94%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F"><span class="nav-number">1.3.10.</span> <span class="nav-text">内联数学公式</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%8B%E6%A0%87"><span class="nav-number">1.3.11.</span> <span class="nav-text">下标</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%8A%E6%A0%87"><span class="nav-number">1.3.12.</span> <span class="nav-text">上标</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E9%AB%98%E4%BA%AE"><span class="nav-number">1.3.13.</span> <span class="nav-text">高亮</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#HTML"><span class="nav-number">1.4.</span> <span class="nav-text">HTML</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%B5%8C%E5%85%A5%E5%86%85%E5%AE%B9"><span class="nav-number">1.4.1.</span> <span class="nav-text">嵌入内容</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E8%A7%86%E9%A2%91"><span class="nav-number">1.4.2.</span> <span class="nav-text">视频</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%85%B6%E4%BB%96-HTML-%E6%94%AF%E6%8C%81"><span class="nav-number">1.4.3.</span> <span class="nav-text">其他 HTML 支持</span></a></li></ol></li></ol></li></ol></div>
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <p class="site-author-name" itemprop="name">Bobbywell</p>
+  <div class="site-description" itemprop="description">跨境小白，如何从0到1打造一个B2C独立站。</div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">46</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">15</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">28</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author motion-element">
+      <span class="links-of-author-item">
+        <a href="mailto:yourname@gmail.com" title="E-Mail → mailto:yourname@gmail.com" rel="noopener" target="_blank"><i class="fa fa-fw fa-envelope"></i>E-Mail</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://weibo.com/yourname" title="Weibo → https:&#x2F;&#x2F;weibo.com&#x2F;yourname" rel="noopener" target="_blank"><i class="fa fa-fw fa-weibo"></i>Weibo</a>
+      </span>
+  </div>
+
+
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+
+<div class="copyright">
+  
+  &copy; 
+  <span itemprop="copyrightYear">2022</span>
+  <span class="with-love">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Bobbywell</span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://muse.theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Muse</a> 强力驱动
+  </div>
+
+        
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/muse.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+
+
+  
+
+
+
+
+  
+<script src="//cdn.jsdelivr.net/npm/algoliasearch@4/dist/algoliasearch-lite.umd.js"></script>
+<script src="//cdn.jsdelivr.net/npm/instantsearch.js@4/dist/instantsearch.production.min.js"></script>
+<script src="/js/algolia-search.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+</body>
+</html>

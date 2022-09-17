@@ -644,7 +644,7 @@
 <br/>
 
 <h2 id="03-外链挖掘公式"><a href="#03-外链挖掘公式" class="headerlink" title="03 外链挖掘公式"></a>03 外链挖掘公式</h2><p>案例：</p>
-<img src="../images/教程：外链的挖掘和发布/image-20220515232821560.png" alt="image-20220515232821560" style="zoom:50%;" />
+<img src="/images/教程：外链的挖掘和发布/image-20220515232821560.png" alt="image-20220515232821560" style="zoom:50%;" />
 
 <h2 id="04-怎样发外链"><a href="#04-怎样发外链" class="headerlink" title="04 怎样发外链"></a>04 怎样发外链</h2><p>基本方法就是两个：</p>
 <ul>
@@ -653,21 +653,26 @@
 </ul>
 <br/>
 
-<p>外链的具体发布方式：</p>
-<p>（1）伪原创内容，翻译器直接翻译简单段落即可；</p>
+<p>发布外链是否是直接丢一个链接呢？</p>
+<p>肯定不是的。</p>
+<p>我们需要post一篇简短的文章，200-500字，然后在中间的关键词作为锚文本，挂上自己的外链。</p>
+<p>发外链的文本可以通过以下方式撰写：</p>
 <ul>
-<li>可以用竞争对手文章内容翻译，再翻译，重点是主关键词保持不变。</li>
+<li><p>伪原创软件；</p>
+</li>
+<li><p>摘抄竞争对手文章，多次翻译，重点是主关键词保持不变。</p>
+</li>
+<li><p>选取中文相关文章，用deepl翻译，grammarly优化；</p>
+</li>
 </ul>
-<p>（2）打开在线HTML编辑器，添加链接（带格式保存到word）；</p>
-<p>（3）发布到指定页面（并自己做好记录）；</p>
-<ul>
-<li><strong>用公式强行跳转到注册页面</strong></li>
-</ul>
+<p>一般来说，同一个文本不要多次重复使用，小于5次。</p>
+<br/>
+
+<p>另外，我们在某些edu或者gov网站发布profile外链时会发现，找不到注册入口。这个时候，我们需要<strong>用公式强行跳转到注册页面</strong>。</p>
+<p>怎么用呢？在发帖页面的URL后面添加如下代码：</p>
 <p>home?p_p_id=58&amp;p_p_lifecycle=0&amp;p_p_state=maximized&amp;p_p_mode=view&amp;saveLastPath=false&amp;_58_struts_action=%2Flogin%2Fcreate_account</p>
-<ul>
-<li>注册账号</li>
-<li>发布内容</li>
-</ul>
+<br/>
+
 ]]></content>
       <categories>
         <category>课程</category>
@@ -1011,19 +1016,19 @@
 <br/>
 
 <h2 id="01-网站的收录"><a href="#01-网站的收录" class="headerlink" title="01 网站的收录"></a>01 网站的收录</h2><p><strong>怎样提高网站的收录量？</strong></p>
-<p><img src="../images/%E8%AF%BE%E7%A8%8B%EF%BC%9A%E8%B0%B7%E6%AD%8CSEO/image-20220604084050233.png" alt="image-20220604084050233"></p>
-<p><img src="../images/%E8%AF%BE%E7%A8%8B%EF%BC%9A%E8%B0%B7%E6%AD%8CSEO/image-20220604080604189.png" alt="image-20220604080604189"></p>
+<p><img src="/images/%E8%AF%BE%E7%A8%8B%EF%BC%9A%E8%B0%B7%E6%AD%8CSEO/image-20220604084050233.png" alt="image-20220604084050233"></p>
+<p><img src="/images/%E8%AF%BE%E7%A8%8B%EF%BC%9A%E8%B0%B7%E6%AD%8CSEO/image-20220604080604189.png" alt="image-20220604080604189"></p>
 <p><strong>怎样检查URL是否已被收录？</strong></p>
 <ul>
 <li>site: (URL)</li>
 <li>使用Google Search Console</li>
 </ul>
-<p><img src="../images/%E8%AF%BE%E7%A8%8B%EF%BC%9A%E8%B0%B7%E6%AD%8CSEO/image-20220604080919715.png" alt="image-20220604080919715"></p>
+<p><img src="/images/%E8%AF%BE%E7%A8%8B%EF%BC%9A%E8%B0%B7%E6%AD%8CSEO/image-20220604080919715.png" alt="image-20220604080919715"></p>
 <hr>
 <p><strong>收录错误展示</strong></p>
-<p><img src="../images/%E8%AF%BE%E7%A8%8B%EF%BC%9A%E8%B0%B7%E6%AD%8CSEO/image-20220604081858145.png" alt="image-20220604081858145"></p>
+<p><img src="/images/%E8%AF%BE%E7%A8%8B%EF%BC%9A%E8%B0%B7%E6%AD%8CSEO/image-20220604081858145.png" alt="image-20220604081858145"></p>
 <p><strong>为什么优质原创内容很多，但是谷歌收录很少？</strong></p>
-<p><img src="../images/%E8%AF%BE%E7%A8%8B%EF%BC%9A%E8%B0%B7%E6%AD%8CSEO/image-20220604084402384.png" alt="image-20220604084402384"></p>
+<p><img src="/images/%E8%AF%BE%E7%A8%8B%EF%BC%9A%E8%B0%B7%E6%AD%8CSEO/image-20220604084402384.png" alt="image-20220604084402384"></p>
 <br/>
 
 <h2 id="02-网站沙盒期"><a href="#02-网站沙盒期" class="headerlink" title="02 网站沙盒期"></a>02 网站沙盒期</h2><ul>
@@ -1031,34 +1036,34 @@
 <li>谷歌官方并没有承认存在；</li>
 </ul>
 <p>示例：</p>
-<p><img src="../images/%E8%AF%BE%E7%A8%8B%EF%BC%9A%E8%B0%B7%E6%AD%8CSEO/image-20220604085550742.png" alt="image-20220604085550742"></p>
+<p><img src="/images/%E8%AF%BE%E7%A8%8B%EF%BC%9A%E8%B0%B7%E6%AD%8CSEO/image-20220604085550742.png" alt="image-20220604085550742"></p>
 <p><strong>沙盒期网站该怎么办？</strong></p>
-<p><img src="../images/%E8%AF%BE%E7%A8%8B%EF%BC%9A%E8%B0%B7%E6%AD%8CSEO/image-20220604090320674.png" alt="image-20220604090320674"></p>
+<p><img src="/images/%E8%AF%BE%E7%A8%8B%EF%BC%9A%E8%B0%B7%E6%AD%8CSEO/image-20220604090320674.png" alt="image-20220604090320674"></p>
 <br/>
 
 <h2 id="03-移动端索引"><a href="#03-移动端索引" class="headerlink" title="03 移动端索引"></a>03 移动端索引</h2><p><strong>优先将移动端网站编入索引</strong></p>
-<p><img src="../images/%E8%AF%BE%E7%A8%8B%EF%BC%9A%E8%B0%B7%E6%AD%8CSEO/image-20220604090528097.png" alt="image-20220604090528097"></p>
+<p><img src="/images/%E8%AF%BE%E7%A8%8B%EF%BC%9A%E8%B0%B7%E6%AD%8CSEO/image-20220604090528097.png" alt="image-20220604090528097"></p>
 <p><strong>网站移动端自适应的做法</strong></p>
-<p><img src="../images/%E8%AF%BE%E7%A8%8B%EF%BC%9A%E8%B0%B7%E6%AD%8CSEO/image-20220604091113469.png" alt="image-20220604091113469"></p>
+<p><img src="/images/%E8%AF%BE%E7%A8%8B%EF%BC%9A%E8%B0%B7%E6%AD%8CSEO/image-20220604091113469.png" alt="image-20220604091113469"></p>
 <br/>
 
 <h2 id="04-On-Page-Off-Page-Technical-SEO"><a href="#04-On-Page-Off-Page-Technical-SEO" class="headerlink" title="04 On-Page/ Off-Page/ Technical SEO"></a>04 On-Page/ Off-Page/ Technical SEO</h2><p><strong>什么是on-page seo</strong></p>
 <hr>
-<p><img src="../images/%E8%AF%BE%E7%A8%8B%EF%BC%9A%E8%B0%B7%E6%AD%8CSEO/image-20220604092855487.png" alt="image-20220604092855487"></p>
+<p><img src="/images/%E8%AF%BE%E7%A8%8B%EF%BC%9A%E8%B0%B7%E6%AD%8CSEO/image-20220604092855487.png" alt="image-20220604092855487"></p>
 <p><strong>什么是off-page seo</strong></p>
-<img src="../images/课程：谷歌SEO/image-20220604093330427.png" alt="image-20220604093330427" style="zoom:70%;" />
+<img src="/images/课程：谷歌SEO/image-20220604093330427.png" alt="image-20220604093330427" style="zoom:70%;" />
 
 <p><strong>什么是technical seo</strong></p>
-<img src="../images/课程：谷歌SEO/image-20220604093447450.png" alt="image-20220604093447450" style="zoom:67%;" />
+<img src="/images/课程：谷歌SEO/image-20220604093447450.png" alt="image-20220604093447450" style="zoom:67%;" />
 
-<img src="../images/课程：谷歌SEO/image-20220604093524828.png" alt="image-20220604093524828" style="zoom:80%;" />
+<img src="/images/课程：谷歌SEO/image-20220604093524828.png" alt="image-20220604093524828" style="zoom:80%;" />
 
 <ul>
 <li>检查网站链接插件：check my links</li>
 </ul>
 <br/>
 
-<h2 id="05-Local-SEO"><a href="#05-Local-SEO" class="headerlink" title="05 Local SEO"></a>05 Local SEO</h2><img src="../images/课程：谷歌SEO/image-20220604095119854.png" alt="image-20220604095119854" style="zoom:80%;" />
+<h2 id="05-Local-SEO"><a href="#05-Local-SEO" class="headerlink" title="05 Local SEO"></a>05 Local SEO</h2><img src="/images/课程：谷歌SEO/image-20220604095119854.png" alt="image-20220604095119854" style="zoom:80%;" />
 
 <br/>
 
@@ -1149,7 +1154,7 @@
 <p>（2）优质外链建设，DA提到35；</p>
 </li>
 <li><p>第四阶段：长尾关键词</p>
-<img src="../images/课程：谷歌SEO/image-20220610165443814.png" alt="image-20220610165443814" style="zoom:80%;" /></li>
+<img src="/images/课程：谷歌SEO/image-20220610165443814.png" alt="image-20220610165443814" style="zoom:80%;" /></li>
 </ul>
 <br/>
 
@@ -1158,7 +1163,7 @@
 <li>用Google keyword planner， keywordseverywhere， KWfinder工具导出相关关键词；</li>
 <li>从Google搜索结果</li>
 </ul>
-<p><br/><br/><br/><br/><br/></p>
+<p><br/><br/></p>
 ]]></content>
       <categories>
         <category>课程</category>
@@ -2168,11 +2173,15 @@
   <entry>
     <title>怎样高效地发外链？</title>
     <url>/2022/05/11/%E5%AE%9E%E6%93%8D%E9%97%AE%E9%A2%98%E7%AC%94%E8%AE%B0/%E6%80%8E%E6%A0%B7%E9%AB%98%E6%95%88%E5%9C%B0%E5%8F%91%E5%A4%96%E9%93%BE%EF%BC%9F/</url>
-    <content><![CDATA[<p>内容和外链，是网站非常重要的两个部分。</p>
-<p>找到外链资源后我们发现，经常需要注册账号，因此，发外链的流程基本就是：注册账号——编辑内容——发布。</p>
-<p>怎样高效地发布外链就非常重要。</p>
+    <content><![CDATA[<p>解决问题：</p>
+<p>怎样将发布外链的重复工作效率化？</p>
 <span id="more"></span>
 
+<br/>
+
+<p>内容和外链，是网站非常重要的两个部分。</p>
+<p>找到外链资源后我们发现，经常需要注册账号，因此，发外链的流程基本就是：注册账号——编辑内容——发布。</p>
+<p>怎样高效地发布外链就非常重要。</p>
 <br/>
 
 <h2 id="01-注册账号"><a href="#01-注册账号" class="headerlink" title="01 注册账号"></a>01 注册账号</h2><p><strong>即时邮箱</strong></p>
@@ -2580,7 +2589,13 @@
   <entry>
     <title>Typora的Markdown语法</title>
     <url>/2022/07/26/Typora%E7%9A%84Markdown%E8%AF%AD%E6%B3%95/</url>
-    <content><![CDATA[<h1 id="Typora-的-Markdown-语法"><a href="#Typora-的-Markdown-语法" class="headerlink" title="Typora 的 Markdown 语法"></a>Typora 的 Markdown 语法</h1><p>January 1, 2022 by typora.io</p>
+    <content><![CDATA[<p>解决问题：</p>
+<p>记录typora的常用语法，以备不时之需。</p>
+<span id="more"></span>
+
+<br/>
+
+<p>January 1, 2022 by typora.io</p>
 <p><a href="https://support.typoraio.cn/Markdown-Reference/">English Original Version</a> <a href="https://github.com/typora/wiki-website">Help Improve the Translation</a></p>
 <h2 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h2><p><strong>Markdown</strong> 由 <a href="http://daringfireball.net/">Daring Fireball</a> 创建，原始指南在 <a href="http://daringfireball.net/projects/markdown/syntax">这里</a>。但是，它的语法因不同的解析器或编辑器而异。<strong>Typora</strong> 正在使用 <a href="https://help.github.com/articles/github-flavored-markdown/">GitHub Flavored Markdown</a>。</p>
 <p><strong>大纲</strong></p>
@@ -2772,10 +2787,14 @@
   <entry>
     <title>文章的语法修正，查重？</title>
     <url>/2022/07/27/%E6%96%87%E7%AB%A0%E7%9A%84%E8%AF%AD%E6%B3%95%E4%BF%AE%E6%AD%A3%EF%BC%8C%E6%9F%A5%E9%87%8D%EF%BC%9F/</url>
-    <content><![CDATA[<p>文章发布到网站上之前，需要先对内容进行修正，降低语法错误，增强可读性。另外，查重还可以避免因为重复率过高被Google判定为重复内容。</p>
-<p>这次我就犯了新手的错误，自以为文章写的还可以就发了，用grammarly一查错误百出。</p>
+    <content><![CDATA[<p>解决问题：</p>
+<p>文章写好后怎样进行语法修正，查重？</p>
 <span id="more"></span>
 
+<br/>
+
+<p>文章发布到网站上之前，需要先对内容进行修正，降低语法错误，增强可读性。另外，查重还可以避免因为重复率过高被Google判定为重复内容。</p>
+<p>这次我就犯了新手的错误，自以为文章写的还可以就发了，用grammarly一查错误百出。</p>
 <br/>
 
 <h2 id="语法修正"><a href="#语法修正" class="headerlink" title="语法修正"></a>语法修正</h2><p>这是已经修正一部分的统计，错误仍然不少，得分只有49。</p>
@@ -2825,7 +2844,7 @@
 
 <p>网站在运营中会不可避免地出现垃圾，另外，还有可能被居心不良的人添加有害内容，比如成人色情赌博。</p>
 <p>我的网站还没建好，就已经被批量挂上了色情擦边网页。</p>
-<img src="../images/删除网站中的无效或者有害内容/image-20220913110235874.png" alt="image-20220913110235874" style="zoom:50%;" />
+<img src="/images/删除网站中的无效或者有害内容/image-20220913110235874.png" alt="image-20220913110235874" style="zoom:50%;" />
 
 <p>吓得我第一时间就修改了网站密码。</p>
 <p>这只是第一步。</p>
@@ -2838,7 +2857,7 @@
 <p>Google给出了标准答案，简单来说有两大方式：</p>
 <p><strong>1）利用GSC中“索引➡删除”工具</strong></p>
 <p>这种方式快速，1天内即可删除。但是只是暂时删除，6个月后可能重新出现在搜索引擎显示；</p>
-<img src="../images/删除网站中的无效或者有害内容/image-20220913121919582.png" alt="image-20220913121919582" style="zoom:50%;" />
+<img src="/images/删除网站中的无效或者有害内容/image-20220913121919582.png" alt="image-20220913121919582" style="zoom:50%;" />
 
 <p>需要注意的是：提交的网址一定要正确。<a href="https://support.google.com/webmasters/answer/63758">请务必使用相关网页的正确网址。</a></p>
 <p><strong>2）永久删除</strong></p>
@@ -2951,6 +2970,60 @@
       </categories>
       <tags>
         <tag>Affiliate</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>课程：怎样让关键词上首页</title>
+    <url>/2022/09/17/%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/%E8%AF%BE%E7%A8%8B%EF%BC%9A%E6%80%8E%E6%A0%B7%E8%AE%A9%E5%85%B3%E9%94%AE%E8%AF%8D%E4%B8%8A%E9%A6%96%E9%A1%B5/</url>
+    <content><![CDATA[<p>课程要点：</p>
+<p>怎样让关键词上首页？</p>
+<span id="more"></span>
+
+<br/>
+
+<p>本节课的干货由500强哥的嘉宾——虾总分享。</p>
+<p>基本思想就是：根据用户的搜索意图，提供最有价值的信息。这是决定“一碗面”是否好吃的本质；其次，按计划打造有竞争力的落地页。这是“一碗面条”的调料。</p>
+<p>因此，决定一个关键词能否上首页的三大关键：</p>
+<ul>
+<li>月搜索量大小；</li>
+<li>用户搜索意图把握；</li>
+<li>落地页关键指标是否完善；</li>
+</ul>
+<br/>
+
+<p>步骤：</p>
+<p><strong>(1) 深入理解客户搜索意图，选择合适的关键词，确定页面类型（review？how？buy?）；</strong></p>
+<p><strong>(2) 监控页面关键词指标，按计划完成；</strong></p>
+<br/>
+
+<h2 id="怎样获取客户搜索意图？"><a href="#怎样获取客户搜索意图？" class="headerlink" title="怎样获取客户搜索意图？"></a>怎样获取客户搜索意图？</h2><p>页面流量高低反映客户真实点击量，从而反映客户的搜索意图（Ahrefs工具可以查询每个页面获取的流量traffic）</p>
+<p>以关键词“蓝牙耳机”为例：</p>
+<p>（1）看Google搜索框下拉框和尾部推荐词；</p>
+<p>（2）看Google排名<strong>前20位</strong>的页面，确定是购物类还是资讯类页面流量占比，从而确定我们要打造的页面内容类型；</p>
+<br/>
+
+<h2 id="怎样打造有竞争力的落地页？"><a href="#怎样打造有竞争力的落地页？" class="headerlink" title="怎样打造有竞争力的落地页？"></a>怎样打造有竞争力的落地页？</h2><p>确定内容类型后，我们就确定了关键词的落地页类型。</p>
+<p>做好页面规划后，我们需要对页面关键指标逐步推进，落实。当关键性指标均完善后，页面表现不会太差。</p>
+<p><img src="../images/%E8%AF%BE%E7%A8%8B%EF%BC%9A%E6%80%8E%E6%A0%B7%E8%AE%A9%E5%85%B3%E9%94%AE%E8%AF%8D%E4%B8%8A%E9%A6%96%E9%A1%B5/image-20220917213722241.png" alt="image-20220917213722241"></p>
+<br/>
+
+<p>几个关键点：</p>
+<ul>
+<li><p>排名高点击率不一定高；</p>
+</li>
+<li><p>流量占比大的页面具有不可撼动的排名（例如品牌），应该做出差异化的页面类型；</p>
+</li>
+<li><p>每个布局关键词的页面都是一个用户解决方案。这是理解如何打造页面的一个基本原则。</p>
+</li>
+<li><p>内链很重要。每个页面都应该至少有一个关键词锚文本链接引导到首页或者产品类目页。但是锚文本不要都相同。</p>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>seo</category>
+      </categories>
+      <tags>
+        <tag>seo</tag>
       </tags>
   </entry>
 </search>
